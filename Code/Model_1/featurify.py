@@ -14,6 +14,10 @@ from tqdm import tqdm
 DATA_PATH = "../../Datasets/Full Dataset/"
 self_ip = '192.168.1.'
 
+"""
+	Feature extractors
+"""
+
 def server_len(lines):
 	server_lines = [line for line in lines if not line[2].startswith(self_ip)]
 	return len(server_lines)

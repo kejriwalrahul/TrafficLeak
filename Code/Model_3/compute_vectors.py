@@ -16,9 +16,17 @@ self_ip = '192.168.1.'
 
 max_pkt_size = 1514
 
+
+"""	
+	Convert continuous packet sizes into binary levels
+"""
 def discretify(line):
 	return -1 if line[2].startswith(self_ip) else 1
 
+
+"""
+	Compute discrete request sequence from trace
+"""
 def log2vector(domain_dir, file):
 	with open(domain_dir + '/' + file) as fp:
 		lines = fp.readlines()
@@ -33,6 +41,7 @@ def log2vector(domain_dir, file):
 	vector = [discretify(line) for line in lines]
 
 	return vector
+
 
 """
 	__main__
