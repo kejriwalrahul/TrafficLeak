@@ -1,4 +1,4 @@
-# Data Collection
+# Model 3 - SVMs using Damerau-Levenshtein distance based kernel (single size pkt)
 
 ## Instructions
 

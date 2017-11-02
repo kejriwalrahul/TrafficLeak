@@ -1,4 +1,4 @@
-# Data Collection
+# Model 1 - Ad Hoc Models
 
 ## Instructions
 

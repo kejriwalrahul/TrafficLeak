@@ -1,4 +1,4 @@
-# Data Collection
+# Model 2 - SVMs using Damerau-Levenshtein distance based kernel (discrete size pkts)
 
 ## Instructions
 
