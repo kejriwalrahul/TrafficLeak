@@ -1,0 +1,1066 @@
+    1 0.000000000 192.168.1.16 → 10.6.15.145  SSH 164 Client: Encrypted packet (len=96)
+    2 0.002900140  10.6.15.145 → 192.168.1.16 TCP 68 22 → 52104 [ACK] Seq=1 Ack=97 Win=1452 Len=0 TSval=24111980 TSecr=1297456
+    3 0.002925888 192.168.1.16 → 10.6.15.145  SSH 1092 Client: Encrypted packet (len=1024)
+    4 0.005728752  10.6.15.145 → 192.168.1.16 TCP 68 22 → 52104 [ACK] Seq=1 Ack=1121 Win=1452 Len=0 TSval=24111981 TSecr=1297456
+    5 0.009071527  10.6.15.145 → 192.168.1.16 SSH 184 Server: Encrypted packet (len=116)
+    6 0.009179262    127.0.0.1 → 127.0.0.1    Socks 78 Version: 5 Connect to server request Command Request - Connect
+    7 0.009191045    127.0.0.1 → 127.0.0.1    Socks 78 Version: 5 Connect to server request Command Request - Connect
+    8 0.009195225    127.0.0.1 → 127.0.0.1    Socks 78 Version: 5 Connect to server request Command Request - Connect
+    9 0.009335848    127.0.0.1 → 127.0.0.1    Socks 286 Version: 5 Connect to server response
+   10 0.009345799    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 46964 [ACK] Seq=11 Ack=219 Win=350 Len=0 TSval=1297458 TSecr=1297458
+   11 0.009393768    127.0.0.1 → 127.0.0.1    Socks 286 Version: 5 Connect to server response
+   12 0.009397554    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 46966 [ACK] Seq=11 Ack=219 Win=350 Len=0 TSval=1297458 TSecr=1297458
+   13 0.009428003    127.0.0.1 → 127.0.0.1    Socks 286 Version: 5 Connect to server response
+   14 0.009430228 192.168.1.16 → 10.6.15.145  SSH 184 Client: Encrypted packet (len=116)
+   15 0.009431553    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 46968 [ACK] Seq=11 Ack=219 Win=350 Len=0 TSval=1297458 TSecr=1297458
+   16 0.009653464 192.168.1.16 → 10.6.15.145  SSH 244 Client: Encrypted packet (len=176)
+   17 0.010695715  10.6.15.145 → 192.168.1.16 SSH 140 Server: Encrypted packet (len=72)
+   18 0.010770314    127.0.0.1 → 127.0.0.1    Socks 78 Version: 5 Connect to server request Command Request - Connect
+   19 0.010787029    127.0.0.1 → 127.0.0.1    Socks 78 Version: 5 Connect to server request Command Request - Connect
+   20 0.010908870    127.0.0.1 → 127.0.0.1    Socks 281 Version: 5 Connect to server response
+   21 0.010917673    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 46970 [ACK] Seq=11 Ack=214 Win=350 Len=0 TSval=1297458 TSecr=1297458
+   22 0.011076999    127.0.0.1 → 127.0.0.1    Socks 585 Version: 5 Connect to server response
+   23 0.011084927    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 46972 [ACK] Seq=11 Ack=518 Win=350 Len=0 TSval=1297458 TSecr=1297458
+   24 0.011291958  10.6.15.145 → 192.168.1.16 TCP 68 22 → 52104 [ACK] Seq=189 Ack=1413 Win=1452 Len=0 TSval=24111983 TSecr=1297458
+   25 0.011301967 192.168.1.16 → 10.6.15.145  SSH 564 Client: Encrypted packet (len=496)
+   26 0.015320468  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+   27 0.015346083  10.6.15.145 → 192.168.1.16 SSH 648 Server: Encrypted packet (len=580)
+   28 0.015354692 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=1909 Ack=2217 Win=6157 Len=0 TSval=1297459 TSecr=24111983
+   29 0.015492496    127.0.0.1 → 127.0.0.1    Socks 2851 Version: 5
+   30 0.015526542    127.0.0.1 → 127.0.0.1    TCP 68 46964 → 1080 [ACK] Seq=219 Ack=2794 Win=1365 Len=0 TSval=1297459 TSecr=1297459
+   31 0.015827736  10.6.15.145 → 192.168.1.16 SSH 492 Server: Encrypted packet (len=424)
+   32 0.015908402    127.0.0.1 → 127.0.0.1    Socks 2852 Version: 5
+   33 0.015917243    127.0.0.1 → 127.0.0.1    Socks 2852 Version: 5
+   34 0.016401769  10.6.15.145 → 192.168.1.16 SSH 208 Server: Encrypted packet (len=140)
+   35 0.016430813 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=1909 Ack=2781 Win=6157 Len=0 TSval=1297460 TSecr=24111983
+   36 0.016467793    127.0.0.1 → 127.0.0.1    Socks 228 Version: 5
+   37 0.016513083    127.0.0.1 → 127.0.0.1    Socks 326 Version: 5
+   38 0.016661002 192.168.1.16 → 10.6.15.145  SSH 344 Client: Encrypted packet (len=276)
+   39 0.017292346    127.0.0.1 → 127.0.0.1    TCP 68 46966 → 1080 [ACK] Seq=219 Ack=2795 Win=1365 Len=0 TSval=1297460 TSecr=1297459
+   40 0.017947470    127.0.0.1 → 127.0.0.1    Socks 326 Version: 5
+   41 0.018196087 192.168.1.16 → 10.6.15.145  SSH 336 Client: Encrypted packet (len=268)
+   42 0.018614417    127.0.0.1 → 127.0.0.1    TCP 68 46968 → 1080 [ACK] Seq=219 Ack=2795 Win=1365 Len=0 TSval=1297460 TSecr=1297459
+   43 0.018682830  10.6.15.145 → 192.168.1.16 SSH 1304 Server: Encrypted packet (len=1236)
+   44 0.018753881    127.0.0.1 → 127.0.0.1    Socks 3036 Version: 5
+   45 0.019292285    127.0.0.1 → 127.0.0.1    Socks 326 Version: 5
+   46 0.019835788  10.6.15.145 → 192.168.1.16 TCP 68 22 → 52104 [ACK] Seq=4017 Ack=2453 Win=1452 Len=0 TSval=24111985 TSecr=1297460
+   47 0.019844365 192.168.1.16 → 10.6.15.145  SSH 336 Client: Encrypted packet (len=268)
+   48 0.020131754    127.0.0.1 → 127.0.0.1    Socks 284 Version: 5
+   49 0.020240456 192.168.1.16 → 10.6.15.145  SSH 304 Client: Encrypted packet (len=236)
+   50 0.020772386    127.0.0.1 → 127.0.0.1    TCP 68 46970 → 1080 [ACK] Seq=214 Ack=2979 Win=1365 Len=0 TSval=1297461 TSecr=1297460
+   51 0.021557292    127.0.0.1 → 127.0.0.1    Socks 326 Version: 5
+   52 0.021575850  10.6.15.145 → 192.168.1.16 SSH 488 Server: Encrypted packet (len=420)
+   53 0.021733293    127.0.0.1 → 127.0.0.1    Socks 458 Version: 5
+   54 0.021743927 192.168.1.16 → 10.6.15.145  SSH 336 Client: Encrypted packet (len=268)
+   55 0.023032531  10.6.15.145 → 192.168.1.16 SSH 456 Server: Encrypted packet (len=388)
+   56 0.023130367    127.0.0.1 → 127.0.0.1    Socks 458 Version: 5
+   57 0.023993890  10.6.15.145 → 192.168.1.16 SSH 456 Server: Encrypted packet (len=388)
+   58 0.024052039 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=3225 Ack=5213 Win=6157 Len=0 TSval=1297462 TSecr=24111985
+   59 0.024094745    127.0.0.1 → 127.0.0.1    Socks 458 Version: 5
+   60 0.024417295  10.6.15.145 → 192.168.1.16 SSH 168 Server: Encrypted packet (len=100)
+   61 0.024476545    127.0.0.1 → 127.0.0.1    Socks 137 Version: 5
+   62 0.026321020  10.6.15.145 → 192.168.1.16 SSH 456 Server: Encrypted packet (len=388)
+   63 0.026380872 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=3225 Ack=5701 Win=6157 Len=0 TSval=1297462 TSecr=24111986
+   64 0.026415993    127.0.0.1 → 127.0.0.1    Socks 458 Version: 5
+   65 0.036357385  10.6.15.145 → 192.168.1.16 SSH 104 Server: Encrypted packet (len=36)
+   66 0.036494314    127.0.0.1 → 127.0.0.1    Socks 78 Version: 5 Connect to server request Command Request - Connect
+   67 0.036630347    127.0.0.1 → 127.0.0.1    Socks 585 Version: 5 Connect to server response
+   68 0.036639567    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 46922 [ACK] Seq=11 Ack=518 Win=350 Len=0 TSval=1297465 TSecr=1297465
+   69 0.036783928 192.168.1.16 → 10.6.15.145  SSH 456 Client: Encrypted packet (len=388)
+   70 0.055563610  10.6.15.145 → 192.168.1.16 SSH 144 Server: Encrypted packet (len=76)
+   71 0.055708361    127.0.0.1 → 127.0.0.1    Socks 114 Unknown
+   72 0.055718600    127.0.0.1 → 127.0.0.1    TCP 68 46602 → 1080 [ACK] Seq=1 Ack=47 Win=18423 Len=0 TSval=1297469 TSecr=1297469
+   73 0.064019380    127.0.0.1 → 127.0.0.1    TCP 68 46964 → 1080 [ACK] Seq=477 Ack=3184 Win=1408 Len=0 TSval=1297472 TSecr=1297461
+   74 0.064019378    127.0.0.1 → 127.0.0.1    TCP 68 46966 → 1080 [ACK] Seq=477 Ack=3185 Win=1408 Len=0 TSval=1297472 TSecr=1297461
+   75 0.067989905    127.0.0.1 → 127.0.0.1    TCP 68 46970 → 1080 [ACK] Seq=472 Ack=3369 Win=1411 Len=0 TSval=1297473 TSecr=1297462
+   76 0.067991682    127.0.0.1 → 127.0.0.1    TCP 68 46972 → 1080 [ACK] Seq=734 Ack=240 Win=350 Len=0 TSval=1297473 TSecr=1297462
+   77 0.067993361    127.0.0.1 → 127.0.0.1    TCP 68 46968 → 1080 [ACK] Seq=477 Ack=3185 Win=1408 Len=0 TSval=1297473 TSecr=1297462
+   78 0.074262316  10.6.15.145 → 192.168.1.16 SSH 224 Server: Encrypted packet (len=156)
+   79 0.074342024 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=3613 Ack=5969 Win=6157 Len=0 TSval=1297474 TSecr=24111994
+   80 0.074386114    127.0.0.1 → 127.0.0.1    Socks 219 Version: 5
+   81 0.074670682    127.0.0.1 → 127.0.0.1    Socks 284 Version: 5
+   82 0.074789737 192.168.1.16 → 10.6.15.145  SSH 296 Client: Encrypted packet (len=228)
+   83 0.075453879    127.0.0.1 → 127.0.0.1    Socks 283 Version: 5
+   84 0.075489547    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 46922 [ACK] Seq=162 Ack=949 Win=367 Len=0 TSval=1297474 TSecr=1297474
+   85 0.075572263 192.168.1.16 → 10.6.15.145  SSH 320 Client: Encrypted packet (len=252)
+   86 0.077279791  10.6.15.145 → 192.168.1.16 TCP 68 22 → 52104 [ACK] Seq=5969 Ack=4093 Win=1452 Len=0 TSval=24111999 TSecr=1297474
+   87 0.083635257 fe80::60bd:1940:a0d8:49f9 → ff02::1:3    LLMNR 95 Standard query 0x95d5 ANY theenterprise
+   88 0.083679167 192.168.1.16 → 224.0.0.252  LLMNR 75 Standard query 0xe98c ANY theenterprise
+   89 0.083724376 fe80::60bd:1940:a0d8:49f9 → fe80::60bd:1940:a0d8:49f9 LLMNR 123 Standard query response 0x95d5 ANY theenterprise AAAA fe80::60bd:1940:a0d8:49f9
+   90 0.083751134 192.168.1.16 → 192.168.1.16 LLMNR 91 Standard query response 0xe98c ANY theenterprise A 192.168.1.16
+   91 0.096032754 fe80::60bd:1940:a0d8:49f9 → ff02::16     ICMPv6 92 Multicast Listener Report Message v2
+   92 0.111160477  10.6.15.145 → 192.168.1.16 SSH 128 Server: Encrypted packet (len=60)
+   93 0.111260254    127.0.0.1 → 127.0.0.1    Socks 98 Version: 5
+   94 0.115444972  10.6.15.145 → 192.168.1.16 SSH 216 Server: Encrypted packet (len=148)
+   95 0.115518851 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=4093 Ack=6177 Win=6157 Len=0 TSval=1297484 TSecr=24112007
+   96 0.115563574    127.0.0.1 → 127.0.0.1    Socks 186 Version: 5
+   97 0.115614775    127.0.0.1 → 127.0.0.1    TCP 68 46922 → 1080 [ACK] Seq=949 Ack=310 Win=350 Len=0 TSval=1297484 TSecr=1297483
+   98 0.117688962  10.6.15.145 → 192.168.1.16 SSH 240 Server: Encrypted packet (len=172)
+   99 0.117791047    127.0.0.1 → 127.0.0.1    Socks 202 Version: 5
+  100 0.160019340 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=4093 Ack=6349 Win=6157 Len=0 TSval=1297496 TSecr=24112009
+  101 0.160021235    127.0.0.1 → 127.0.0.1    TCP 68 46922 → 1080 [ACK] Seq=949 Ack=444 Win=359 Len=0 TSval=1297496 TSecr=1297485
+  102 0.160582428  10.6.15.145 → 192.168.1.16 SSH 148 Server: Encrypted packet (len=80)
+  103 0.160642994 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=4093 Ack=6429 Win=6157 Len=0 TSval=1297496 TSecr=24112020
+  104 0.160689675    127.0.0.1 → 127.0.0.1    Socks 78 Version: 5 Connect to server request Command Request - Connect
+  105 0.160700909    127.0.0.1 → 127.0.0.1    Socks 78 Version: 5 Connect to server request Command Request - Connect
+  106 0.160834169    127.0.0.1 → 127.0.0.1    Socks 585 Version: 5 Connect to server response
+  107 0.160842823    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 46950 [ACK] Seq=11 Ack=518 Win=350 Len=0 TSval=1297496 TSecr=1297496
+  108 0.160892639    127.0.0.1 → 127.0.0.1    Socks 585 Version: 5 Connect to server response
+  109 0.160896541    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 46952 [ACK] Seq=11 Ack=518 Win=350 Len=0 TSval=1297496 TSecr=1297496
+  110 0.160974801 192.168.1.16 → 10.6.15.145  SSH 392 Client: Encrypted packet (len=324)
+  111 0.161246668 192.168.1.16 → 10.6.15.145  SSH 160 Client: Encrypted packet (len=92)
+  112 0.161379106  10.6.15.145 → 192.168.1.16 SSH 104 Server: Encrypted packet (len=36)
+  113 0.161479172    127.0.0.1 → 127.0.0.1    Socks 78 Version: 5 Connect to server request Command Request - Connect
+  114 0.161616127    127.0.0.1 → 127.0.0.1    Socks 585 Version: 5 Connect to server response
+  115 0.161624306    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 46948 [ACK] Seq=11 Ack=518 Win=350 Len=0 TSval=1297496 TSecr=1297496
+  116 0.161710836 192.168.1.16 → 10.6.15.145  SSH 160 Client: Encrypted packet (len=92)
+  117 0.162678868  10.6.15.145 → 192.168.1.16 TCP 68 22 → 52104 [ACK] Seq=6465 Ack=4509 Win=1452 Len=0 TSval=24112020 TSecr=1297496
+  118 0.199854010  10.6.15.145 → 192.168.1.16 TCP 68 22 → 52104 [ACK] Seq=6465 Ack=4601 Win=1452 Len=0 TSval=24112030 TSecr=1297496
+  119 0.214343317  10.6.15.145 → 192.168.1.16 SSH 104 Server: Encrypted packet (len=36)
+  120 0.214454730    127.0.0.1 → 127.0.0.1    Socks 78 Version: 5 Connect to server request Command Request - Connect
+  121 0.214597032    127.0.0.1 → 127.0.0.1    Socks 310 Version: 5 Connect to server response
+  122 0.214605957    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 46956 [ACK] Seq=11 Ack=243 Win=350 Len=0 TSval=1297509 TSecr=1297509
+  123 0.214704453 192.168.1.16 → 10.6.15.145  SSH 216 Client: Encrypted packet (len=148)
+  124 0.216208340  10.6.15.145 → 192.168.1.16 TCP 68 22 → 52104 [ACK] Seq=6501 Ack=4749 Win=1452 Len=0 TSval=24112034 TSecr=1297509
+  125 0.217158452  10.6.15.145 → 192.168.1.16 SSH 104 Server: Encrypted packet (len=36)
+  126 0.217272348    127.0.0.1 → 127.0.0.1    Socks 78 Version: 5 Connect to server request Command Request - Connect
+  127 0.217409205    127.0.0.1 → 127.0.0.1    Socks 312 Version: 5 Connect to server response
+  128 0.217417872    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 46962 [ACK] Seq=11 Ack=245 Win=350 Len=0 TSval=1297510 TSecr=1297510
+  129 0.217503269 192.168.1.16 → 10.6.15.145  SSH 208 Client: Encrypted packet (len=140)
+  130 0.220646916  10.6.15.145 → 192.168.1.16 SSH 104 Server: Encrypted packet (len=36)
+  131 0.220762260    127.0.0.1 → 127.0.0.1    Socks 78 Version: 5 Connect to server request Command Request - Connect
+  132 0.220901105    127.0.0.1 → 127.0.0.1    Socks 310 Version: 5 Connect to server response
+  133 0.220909248    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 46954 [ACK] Seq=11 Ack=243 Win=350 Len=0 TSval=1297511 TSecr=1297511
+  134 0.220994947 192.168.1.16 → 10.6.15.145  SSH 160 Client: Encrypted packet (len=92)
+  135 0.221366891  10.6.15.145 → 192.168.1.16 SSH 104 Server: Encrypted packet (len=36)
+  136 0.221480225    127.0.0.1 → 127.0.0.1    Socks 78 Version: 5 Connect to server request Command Request - Connect
+  137 0.221617800    127.0.0.1 → 127.0.0.1    Socks 310 Version: 5 Connect to server response
+  138 0.221626621    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 46958 [ACK] Seq=11 Ack=243 Win=350 Len=0 TSval=1297511 TSecr=1297511
+  139 0.221710053 192.168.1.16 → 10.6.15.145  SSH 152 Client: Encrypted packet (len=84)
+  140 0.223008873  10.6.15.145 → 192.168.1.16 TCP 68 22 → 52104 [ACK] Seq=6609 Ack=5065 Win=1452 Len=0 TSval=24112035 TSecr=1297511
+  141 0.251306204  10.6.15.145 → 192.168.1.16 SSH 104 Server: Encrypted packet (len=36)
+  142 0.251403678    127.0.0.1 → 127.0.0.1    Socks 78 Version: 5 Connect to server request Command Request - Connect
+  143 0.251543955    127.0.0.1 → 127.0.0.1    Socks 306 Version: 5 Connect to server response
+  144 0.251552957    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 46946 [ACK] Seq=11 Ack=239 Win=350 Len=0 TSval=1297518 TSecr=1297518
+  145 0.251638088 192.168.1.16 → 10.6.15.145  SSH 200 Client: Encrypted packet (len=132)
+  146 0.263818443  10.6.15.145 → 192.168.1.16 SSH 104 Server: Encrypted packet (len=36)
+  147 0.263909763    127.0.0.1 → 127.0.0.1    Socks 78 Version: 5 Connect to server request Command Request - Connect
+  148 0.303990974 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=5197 Ack=6681 Win=6157 Len=0 TSval=1297532 TSecr=24112046
+  149 0.303994432    127.0.0.1 → 127.0.0.1    TCP 68 46944 → 1080 [ACK] Seq=1 Ack=11 Win=342 Len=0 TSval=1297532 TSecr=1297521
+  150 0.318102819  10.6.15.145 → 192.168.1.16 SSH 232 Server: Encrypted packet (len=164)
+  151 0.318130765  10.6.15.145 → 192.168.1.16 SSH 184 Server: Encrypted packet (len=116)
+  152 0.318188054 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=5197 Ack=6961 Win=6157 Len=0 TSval=1297535 TSecr=24112059
+  153 0.318238369    127.0.0.1 → 127.0.0.1    Socks 205 Version: 5
+  154 0.318251115    127.0.0.1 → 127.0.0.1    Socks 205 Version: 5
+  155 0.318347430    127.0.0.1 → 127.0.0.1    Socks 119 Version: 5
+  156 0.318356831    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 46950 [ACK] Seq=148 Ack=569 Win=350 Len=0 TSval=1297535 TSecr=1297535
+  157 0.318422224 192.168.1.16 → 10.6.15.145  SSH 144 Client: Encrypted packet (len=76)
+  158 0.318553579    127.0.0.1 → 127.0.0.1    Socks 119 Version: 5
+  159 0.318559243    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 46952 [ACK] Seq=148 Ack=569 Win=350 Len=0 TSval=1297535 TSecr=1297535
+  160 0.318630427 192.168.1.16 → 10.6.15.145  SSH 136 Client: Encrypted packet (len=68)
+  161 0.319692520  10.6.15.145 → 192.168.1.16 SSH 184 Server: Encrypted packet (len=116)
+  162 0.319798752    127.0.0.1 → 127.0.0.1    Socks 205 Version: 5
+  163 0.319900952    127.0.0.1 → 127.0.0.1    Socks 119 Version: 5
+  164 0.319909856    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 46948 [ACK] Seq=148 Ack=569 Win=350 Len=0 TSval=1297535 TSecr=1297535
+  165 0.319995466 192.168.1.16 → 10.6.15.145  SSH 136 Client: Encrypted packet (len=68)
+  166 0.321440910  10.6.15.145 → 192.168.1.16 TCP 68 22 → 52104 [ACK] Seq=7077 Ack=5409 Win=1452 Len=0 TSval=24112060 TSecr=1297535
+  167 1.007519063    127.0.0.1 → 127.0.0.1    TCP 68 46922 → 1080 [FIN, ACK] Seq=949 Ack=444 Win=359 Len=0 TSval=1297707 TSecr=1297485
+  168 1.007629478 192.168.1.16 → 10.6.15.145  SSH 104 Client: Encrypted packet (len=36)
+  169 1.007666623    127.0.0.1 → 127.0.0.1    TCP 76 47014 → 1080 [SYN] Seq=0 Win=43690 Len=0 MSS=65495 SACK_PERM=1 TSval=1297707 TSecr=0 WS=128
+  170 1.007675631    127.0.0.1 → 127.0.0.1    TCP 76 1080 → 47014 [SYN, ACK] Seq=0 Ack=1 Win=43690 Len=0 MSS=65495 SACK_PERM=1 TSval=1297707 TSecr=1297707 WS=128
+  171 1.007683608    127.0.0.1 → 127.0.0.1    TCP 68 47014 → 1080 [ACK] Seq=1 Ack=1 Win=43776 Len=0 TSval=1297707 TSecr=1297707
+  172 1.007986555    127.0.0.1 → 127.0.0.1    Socks 71 Version: 5 Connect to server request
+  173 1.007994196    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 47014 [ACK] Seq=1 Ack=4 Win=43776 Len=0 TSval=1297708 TSecr=1297708
+  174 1.008042674    127.0.0.1 → 127.0.0.1    Socks 70 Version: 5 Connect to server response
+  175 1.008064021    127.0.0.1 → 127.0.0.1    TCP 68 47014 → 1080 [ACK] Seq=4 Ack=3 Win=43776 Len=0 TSval=1297708 TSecr=1297708
+  176 1.008080925    127.0.0.1 → 127.0.0.1    Socks 91 Version: 5 Command Request - Connect
+  177 1.008410916 192.168.1.16 → 239.255.255.250 SSDP 215 M-SEARCH * HTTP/1.1 
+  178 1.008574535 192.168.1.16 → 10.6.15.145  SSH 104 Client: Encrypted packet (len=36)
+  179 1.009002440  10.6.15.145 → 192.168.1.16 SSH 232 Server: Encrypted packet (len=164)
+  180 1.009030270  10.6.15.145 → 192.168.1.16 SSH 232 Server: Encrypted packet (len=164)
+  181 1.009076754 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=5481 Ack=7405 Win=6157 Len=0 TSval=1297708 TSecr=24112086
+  182 1.009127387    127.0.0.1 → 127.0.0.1    Socks 198 Version: 5
+  183 1.009139792    127.0.0.1 → 127.0.0.1    Socks 211 Version: 5
+  184 1.009212991    127.0.0.1 → 127.0.0.1    Socks 119 Version: 5
+  185 1.009220178    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 46956 [ACK] Seq=141 Ack=294 Win=350 Len=0 TSval=1297708 TSecr=1297708
+  186 1.009271083 192.168.1.16 → 10.6.15.145  SSH 152 Client: Encrypted packet (len=84)
+  187 1.009386396    127.0.0.1 → 127.0.0.1    Socks 119 Version: 5
+  188 1.009391891    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 46962 [ACK] Seq=154 Ack=296 Win=350 Len=0 TSval=1297708 TSecr=1297708
+  189 1.009635562 192.168.1.16 → 10.6.15.145  SSH 136 Client: Encrypted packet (len=68)
+  190 1.009638437    127.0.0.1 → 127.0.0.1    TCP 68 46944 → 1080 [FIN, ACK] Seq=1 Ack=11 Win=342 Len=0 TSval=1297708 TSecr=1297521
+  191 1.009683603    127.0.0.1 → 127.0.0.1    TCP 76 47016 → 1080 [SYN] Seq=0 Win=43690 Len=0 MSS=65495 SACK_PERM=1 TSval=1297708 TSecr=0 WS=128
+  192 1.009688607    127.0.0.1 → 127.0.0.1    TCP 76 1080 → 47016 [SYN, ACK] Seq=0 Ack=1 Win=43690 Len=0 MSS=65495 SACK_PERM=1 TSval=1297708 TSecr=1297708 WS=128
+  193 1.009694054    127.0.0.1 → 127.0.0.1    TCP 68 47016 → 1080 [ACK] Seq=1 Ack=1 Win=43776 Len=0 TSval=1297708 TSecr=1297708
+  194 1.009752596    127.0.0.1 → 127.0.0.1    Socks 71 Version: 5 Connect to server request
+  195 1.009756577    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 47016 [ACK] Seq=1 Ack=4 Win=43776 Len=0 TSval=1297708 TSecr=1297708
+  196 1.009786032    127.0.0.1 → 127.0.0.1    Socks 70 Version: 5 Connect to server response
+  197 1.009788951    127.0.0.1 → 127.0.0.1    TCP 68 47016 → 1080 [ACK] Seq=4 Ack=3 Win=43776 Len=0 TSval=1297708 TSecr=1297708
+  198 1.009840936    127.0.0.1 → 127.0.0.1    Socks 89 Version: 5 Command Request - Connect
+  199 1.012371070  10.6.15.145 → 192.168.1.16 SSH 176 Server: Encrypted packet (len=108)
+  200 1.012393163  10.6.15.145 → 192.168.1.16 SSH 184 Server: Encrypted packet (len=116)
+  201 1.012404113  10.6.15.145 → 192.168.1.16 SSH 104 Server: Encrypted packet (len=36)
+  202 1.012445263 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=5633 Ack=7665 Win=6157 Len=0 TSval=1297709 TSecr=24112089
+  203 1.012496017    127.0.0.1 → 127.0.0.1    Socks 198 Version: 5
+  204 1.012507688    127.0.0.1 → 127.0.0.1    Socks 198 Version: 5
+  205 1.012514816    127.0.0.1 → 127.0.0.1    Socks 78 Version: 5 Connect to server request Command Request - Connect
+  206 1.012620739  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  207 1.012625576    127.0.0.1 → 127.0.0.1    Socks 119 Version: 5
+  208 1.012629809  10.6.15.145 → 192.168.1.16 SSH 328 Server: Encrypted packet (len=260)
+  209 1.012633001    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 46954 [ACK] Seq=141 Ack=294 Win=350 Len=0 TSval=1297709 TSecr=1297709
+  210 1.012635001 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=5633 Ack=9373 Win=6157 Len=0 TSval=1297709 TSecr=24112104
+  211 1.012726560    127.0.0.1 → 127.0.0.1    Socks 2988 Version: 5
+  212 1.012793224  10.6.15.145 → 192.168.1.16 SSH 1080 Server: Encrypted packet (len=1012)
+  213 1.012816220    127.0.0.1 → 127.0.0.1    Socks 119 Version: 5
+  214 1.012820375    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 46958 [ACK] Seq=141 Ack=294 Win=350 Len=0 TSval=1297709 TSecr=1297709
+  215 1.012854914    127.0.0.1 → 127.0.0.1    Socks 1465 Version: 5
+  216 1.012859757    127.0.0.1 → 127.0.0.1    TCP 68 46946 → 1080 [ACK] Seq=239 Ack=4328 Win=2388 Len=0 TSval=1297709 TSecr=1297709
+  217 1.012917167  10.6.15.145 → 192.168.1.16 TCP 1080 [TCP Retransmission] 22 → 52104 [PSH, ACK] Seq=9373 Ack=5409 Win=1452 Len=1012 TSval=24112122 TSecr=1297535
+  218 1.012925357 192.168.1.16 → 10.6.15.145  TCP 80 52104 → 22 [ACK] Seq=5633 Ack=10385 Win=6157 Len=0 TSval=1297709 TSecr=24112122 SLE=9373 SRE=10385
+  219 1.012950161    127.0.0.1 → 127.0.0.1    Socks 312 Version: 5 Connect to server response
+  220 1.012956603    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 46960 [ACK] Seq=11 Ack=245 Win=350 Len=0 TSval=1297709 TSecr=1297709
+  221 1.012992646  10.6.15.145 → 192.168.1.16 TCP 656 [TCP Out-Of-Order] 22 → 52104 [PSH, ACK] Seq=7077 Ack=5409 Win=1452 Len=588 TSval=24112221 TSecr=1297535
+  222 1.012997213 192.168.1.16 → 10.6.15.145  TCP 80 [TCP Dup ACK 218#1] 52104 → 22 [ACK] Seq=5633 Ack=10385 Win=6157 Len=0 TSval=1297709 TSecr=24112122 SLE=7077 SRE=7665
+  223 1.013383305    127.0.0.1 → 127.0.0.1    Socks 410 Version: 5
+  224 1.013386079    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 46946 [ACK] Seq=4328 Ack=581 Win=359 Len=0 TSval=1297709 TSecr=1297709
+  225 1.015376854  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  226 1.015385518 192.168.1.16 → 10.6.15.145  SSH 772 Client: Encrypted packet (len=704)
+  227 1.015568380  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  228 1.016798349  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  229 1.016812185 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=6337 Ack=14729 Win=6157 Len=0 TSval=1297710 TSecr=24112233
+  230 1.016905096    127.0.0.1 → 127.0.0.1    Socks 2964 Unknown
+  231 1.016909962    127.0.0.1 → 127.0.0.1    TCP 68 46602 → 1080 [ACK] Seq=1 Ack=2943 Win=18408 Len=0 TSval=1297710 TSecr=1297710
+  232 1.020498019  10.6.15.145 → 192.168.1.16 TCP 68 22 → 52104 [ACK] Seq=14729 Ack=5633 Win=1452 Len=0 TSval=24112233 TSecr=1297708
+  233 1.020725352  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  234 1.020917859  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  235 1.020924275 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=6337 Ack=17625 Win=6157 Len=0 TSval=1297711 TSecr=24112234
+  236 1.021110644  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  237 1.021301492  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  238 1.021304210 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=6337 Ack=20521 Win=6157 Len=0 TSval=1297711 TSecr=24112234
+  239 1.021494602  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  240 1.021596421    127.0.0.1 → 127.0.0.1    Socks 7300 Unknown
+  241 1.021606266    127.0.0.1 → 127.0.0.1    TCP 68 46602 → 1080 [ACK] Seq=1 Ack=10175 Win=18391 Len=0 TSval=1297711 TSecr=1297711
+  242 1.022100926  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  243 1.022112374 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=6337 Ack=23417 Win=6157 Len=0 TSval=1297711 TSecr=24112234
+  244 1.022292061  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  245 1.024098119  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  246 1.024114917 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=6337 Ack=26313 Win=6157 Len=0 TSval=1297712 TSecr=24112235
+  247 1.024276470  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  248 1.024466795  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  249 1.024473812 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=6337 Ack=29209 Win=6157 Len=0 TSval=1297712 TSecr=24112235
+  250 1.024659775  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  251 1.025256408  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  252 1.025268331 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=6337 Ack=32105 Win=6157 Len=0 TSval=1297712 TSecr=24112235
+  253 1.025414820    127.0.0.1 → 127.0.0.1    Socks 10204 Unknown
+  254 1.025422649    127.0.0.1 → 127.0.0.1    TCP 68 46602 → 1080 [ACK] Seq=1 Ack=20311 Win=18380 Len=0 TSval=1297712 TSecr=1297712
+  255 1.025447783  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  256 1.027792539  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  257 1.027812463 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=6337 Ack=35001 Win=6157 Len=0 TSval=1297712 TSecr=24112236
+  258 1.027981089  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  259 1.028167232  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  260 1.028175986 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=6337 Ack=37897 Win=6157 Len=0 TSval=1297713 TSecr=24112236
+  261 1.028358883  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  262 1.028549422  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  263 1.028557750 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=6337 Ack=40793 Win=6157 Len=0 TSval=1297713 TSecr=24112236
+  264 1.028741699  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  265 1.028874458    127.0.0.1 → 127.0.0.1    Socks 10204 Unknown
+  266 1.028880704    127.0.0.1 → 127.0.0.1    TCP 68 46602 → 1080 [ACK] Seq=1 Ack=30447 Win=18380 Len=0 TSval=1297713 TSecr=1297713
+  267 1.031262348  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  268 1.031283019 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=6337 Ack=43689 Win=6157 Len=0 TSval=1297713 TSecr=24112236
+  269 1.031441632  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  270 1.031635968  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  271 1.031645860 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=6337 Ack=46585 Win=6157 Len=0 TSval=1297713 TSecr=24112237
+  272 1.031828257  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  273 1.032019885  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  274 1.032027641 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=6337 Ack=49481 Win=6157 Len=0 TSval=1297714 TSecr=24112237
+  275 1.032211960  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  276 1.032339978    127.0.0.1 → 127.0.0.1    Socks 9540 Unknown
+  277 1.032345516    127.0.0.1 → 127.0.0.1    TCP 68 46602 → 1080 [ACK] Seq=1 Ack=39919 Win=18382 Len=0 TSval=1297714 TSecr=1297714
+  278 1.033156929  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  279 1.033173542 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=6337 Ack=52377 Win=6157 Len=0 TSval=1297714 TSecr=24112237
+  280 1.033345435  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  281 1.035066915  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  282 1.035086619 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=6337 Ack=55273 Win=6157 Len=0 TSval=1297714 TSecr=24112237
+  283 1.035251598  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  284 1.035442753  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  285 1.035450087 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=6337 Ack=58169 Win=6157 Len=0 TSval=1297714 TSecr=24112238
+  286 1.036845556  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  287 1.037030449  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  288 1.037041568 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=6337 Ack=61065 Win=6157 Len=0 TSval=1297715 TSecr=24112238
+  289 1.037177945    127.0.0.1 → 127.0.0.1    Socks 10449 Unknown
+  290 1.037183761    127.0.0.1 → 127.0.0.1    TCP 68 46602 → 1080 [ACK] Seq=1 Ack=50300 Win=18379 Len=0 TSval=1297715 TSecr=1297715
+  291 1.037225321  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  292 1.037413380  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  293 1.037419323 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=6337 Ack=63961 Win=6157 Len=0 TSval=1297715 TSecr=24112238
+  294 1.037605560  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  295 1.038811023  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  296 1.038831366 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=6337 Ack=66857 Win=6157 Len=0 TSval=1297715 TSecr=24112239
+  297 1.038995394  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  298 1.039107174    127.0.0.1 → 127.0.0.1    Socks 7300 Unknown
+  299 1.039113889    127.0.0.1 → 127.0.0.1    TCP 68 46602 → 1080 [ACK] Seq=1 Ack=57532 Win=18391 Len=0 TSval=1297715 TSecr=1297715
+  300 1.039159536 192.168.1.16 → 10.6.15.145  SSH 104 Client: Encrypted packet (len=36)
+  301 1.039186047  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  302 1.039376483  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  303 1.039382138 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=6373 Ack=71201 Win=6157 Len=0 TSval=1297715 TSecr=24112239
+  304 1.040437451  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  305 1.040576704    127.0.0.1 → 127.0.0.1    Socks 4412 Unknown
+  306 1.040582542    127.0.0.1 → 127.0.0.1    TCP 68 46602 → 1080 [ACK] Seq=1 Ack=61876 Win=18402 Len=0 TSval=1297716 TSecr=1297716
+  307 1.040619761  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  308 1.040625975 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=6373 Ack=74097 Win=6157 Len=0 TSval=1297716 TSecr=24112239
+  309 1.040810648  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  310 1.041002849  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  311 1.041009629 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=6373 Ack=76993 Win=6157 Len=0 TSval=1297716 TSecr=24112239
+  312 1.042131335  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  313 1.042270892    127.0.0.1 → 127.0.0.1    Socks 5860 Unknown
+  314 1.042277837    127.0.0.1 → 127.0.0.1    TCP 68 46602 → 1080 [ACK] Seq=1 Ack=67668 Win=18397 Len=0 TSval=1297716 TSecr=1297716
+  315 1.042314959  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  316 1.042322443 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=6373 Ack=79889 Win=6157 Len=0 TSval=1297716 TSecr=24112240
+  317 1.042507676  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  318 1.042699400  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  319 1.042706430 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=6373 Ack=82785 Win=6157 Len=0 TSval=1297716 TSecr=24112240
+  320 1.042891041  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  321 1.043083331  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  322 1.043090450 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=6373 Ack=85681 Win=6157 Len=0 TSval=1297716 TSecr=24112240
+  323 1.044281873  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  324 1.044301138  10.6.15.145 → 192.168.1.16 SSH 108 Server: Encrypted packet (len=40)
+  325 1.044309344 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=6373 Ack=87169 Win=6157 Len=0 TSval=1297717 TSecr=24112240
+  326 1.044920072    127.0.0.1 → 127.0.0.1    Socks 8702 Unknown
+  327 1.044929444    127.0.0.1 → 127.0.0.1    TCP 68 46602 → 1080 [ACK] Seq=1 Ack=76302 Win=18386 Len=0 TSval=1297717 TSecr=1297717
+  328 1.044943778    127.0.0.1 → 127.0.0.1    Socks 78 Version: 5, Remote Port: 443 Command Response - Connect
+  329 1.047966669    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 46922 [ACK] Seq=444 Ack=950 Win=367 Len=0 TSval=1297718 TSecr=1297707
+  330 1.048886812    127.0.0.1 → 127.0.0.1    SSL 585 Client Hello
+  331 1.049122701 192.168.1.16 → 10.6.15.145  SSH 456 Client: Encrypted packet (len=388)
+  332 1.051968378    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 47014 [ACK] Seq=3 Ack=27 Win=43776 Len=0 TSval=1297719 TSecr=1297708
+  333 1.051968370    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 46944 [ACK] Seq=11 Ack=2 Win=342 Len=0 TSval=1297719 TSecr=1297708
+  334 1.053923051  10.6.15.145 → 192.168.1.16 SSH 256 Server: Encrypted packet (len=188)
+  335 1.054032426    127.0.0.1 → 127.0.0.1    TLSv1.2 228 Server Hello, Change Cipher Spec, Hello Request, Hello Request
+  336 1.054483262    127.0.0.1 → 127.0.0.1    TLSv1.2 284 Change Cipher Spec, Hello Request, Hello Request, Hello Request, Hello Request
+  337 1.054584108 192.168.1.16 → 10.6.15.145  SSH 296 Client: Encrypted packet (len=228)
+  338 1.061297687    127.0.0.1 → 127.0.0.1    TLSv1.2 121 Application Data
+  339 1.061323016    127.0.0.1 → 127.0.0.1    TLSv1.2 124 Application Data
+  340 1.061333670    127.0.0.1 → 127.0.0.1    TLSv1.2 110 Application Data
+  341 1.061357027    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 47016 [ACK] Seq=173 Ack=909 Win=45952 Len=0 TSval=1297721 TSecr=1297719
+  342 1.061484078 192.168.1.16 → 10.6.15.145  SSH 232 Client: Encrypted packet (len=164)
+  343 1.061662482    127.0.0.1 → 127.0.0.1    TLSv1.2 946 Application Data
+  344 1.061940297 192.168.1.16 → 10.6.15.145  SSH 992 Client: Encrypted packet (len=924)
+  345 1.063241025  10.6.15.145 → 192.168.1.16 TCP 68 22 → 52104 [ACK] Seq=87357 Ack=7153 Win=1452 Len=0 TSval=24112245 TSecr=1297719
+  346 1.067169477  10.6.15.145 → 192.168.1.16 SSH 168 Server: Encrypted packet (len=100)
+  347 1.067268128    127.0.0.1 → 127.0.0.1    TLSv1.2 137 Application Data
+  348 1.067377172    127.0.0.1 → 127.0.0.1    TLSv1.2 106 Application Data
+  349 1.067457328 192.168.1.16 → 10.6.15.145  SSH 128 Client: Encrypted packet (len=60)
+  350 1.067747246  10.6.15.145 → 192.168.1.16 SSH 136 Server: Encrypted packet (len=68)
+  351 1.067788205    127.0.0.1 → 127.0.0.1    TLSv1.2 106 Application Data
+  352 1.107306691  10.6.15.145 → 192.168.1.16 TCP 68 22 → 52104 [ACK] Seq=87525 Ack=8137 Win=1452 Len=0 TSval=24112257 TSecr=1297722
+  353 1.107966318 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=8137 Ack=87525 Win=6157 Len=0 TSval=1297733 TSecr=24112247
+  354 1.107967316    127.0.0.1 → 127.0.0.1    TCP 68 47016 → 1080 [ACK] Seq=1825 Ack=280 Win=44800 Len=0 TSval=1297733 TSecr=1297722
+  355 1.109745528  10.6.15.145 → 192.168.1.16 SSH 552 Server: Encrypted packet (len=484)
+  356 1.109818902 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=8137 Ack=88009 Win=6157 Len=0 TSval=1297733 TSecr=24112257
+  357 1.109880689    127.0.0.1 → 127.0.0.1    TLSv1.2 509 Application Data, Application Data
+  358 1.109885601    127.0.0.1 → 127.0.0.1    TCP 68 47016 → 1080 [ACK] Seq=1825 Ack=721 Win=45952 Len=0 TSval=1297733 TSecr=1297733
+  359 1.110261163  10.6.15.145 → 192.168.1.16 SSH 208 Server: Encrypted packet (len=140)
+  360 1.110297703 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=8137 Ack=88149 Win=6157 Len=0 TSval=1297733 TSecr=24112257
+  361 1.110340253    127.0.0.1 → 127.0.0.1    TLSv1.2 191 Application Data, Application Data, Application Data
+  362 1.110343428    127.0.0.1 → 127.0.0.1    TCP 68 47016 → 1080 [ACK] Seq=1825 Ack=844 Win=45952 Len=0 TSval=1297733 TSecr=1297733
+  363 1.112302960    127.0.0.1 → 127.0.0.1    TLSv1.2 114 Application Data
+  364 1.112425809 192.168.1.16 → 10.6.15.145  SSH 136 Client: Encrypted packet (len=68)
+  365 1.114023743  10.6.15.145 → 192.168.1.16 TCP 68 22 → 52104 [ACK] Seq=88149 Ack=8205 Win=1452 Len=0 TSval=24112258 TSecr=1297734
+  366 1.119987171 192.168.1.16 → 224.0.0.252  IGMPv2 48 Membership Report group 224.0.0.252
+  367 1.155967650    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 47016 [ACK] Seq=844 Ack=1871 Win=47616 Len=0 TSval=1297745 TSecr=1297734
+  368 1.227152282    127.0.0.1 → 127.0.0.1    Socks 2025 Unknown
+  369 1.227170000    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 46738 [ACK] Seq=1 Ack=1958 Win=3637 Len=0 TSval=1297762 TSecr=1297762
+  370 1.244002686 192.168.1.16 → 10.6.15.145  SSH 1516 Client: Encrypted packet (len=1448)
+  371 1.245613514 192.168.1.16 → 10.6.15.145  SSH 624 Client: Encrypted packet (len=556)
+  372 1.247401626  10.6.15.145 → 192.168.1.16 TCP 68 22 → 52104 [ACK] Seq=88149 Ack=10209 Win=1452 Len=0 TSval=24112292 TSecr=1297762
+  373 1.254162005    127.0.0.1 → 127.0.0.1    Socks 215 Unknown
+  374 1.254193475    127.0.0.1 → 127.0.0.1    Socks 114 Unknown
+  375 1.254222574    127.0.0.1 → 127.0.0.1    Socks 214 Unknown
+  376 1.254223882    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 46786 [ACK] Seq=1 Ack=194 Win=534 Len=0 TSval=1297769 TSecr=1297769
+  377 1.254249689    127.0.0.1 → 127.0.0.1    Socks 215 Unknown
+  378 1.254274817    127.0.0.1 → 127.0.0.1    Socks 215 Unknown
+  379 1.254297437    127.0.0.1 → 127.0.0.1    Socks 216 Unknown
+  380 1.254300445    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 46786 [ACK] Seq=1 Ack=782 Win=568 Len=0 TSval=1297769 TSecr=1297769
+  381 1.254327193    127.0.0.1 → 127.0.0.1    Socks 215 Unknown
+  382 1.254369303 192.168.1.16 → 10.6.15.145  SSH 296 Client: Encrypted packet (len=228)
+  383 1.254733922 192.168.1.16 → 10.6.15.145  SSH 832 Client: Encrypted packet (len=764)
+  384 1.255986069  10.6.15.145 → 192.168.1.16 TCP 68 22 → 52104 [ACK] Seq=88149 Ack=10437 Win=1452 Len=0 TSval=24112294 TSecr=1297769
+  385 1.256545877  10.6.15.145 → 192.168.1.16 TCP 68 22 → 52104 [ACK] Seq=88149 Ack=11201 Win=1452 Len=0 TSval=24112294 TSecr=1297769
+  386 1.264279771  10.6.15.145 → 192.168.1.16 SSH 176 Server: Encrypted packet (len=108)
+  387 1.264400156    127.0.0.1 → 127.0.0.1    Socks 143 Version: 5
+  388 1.276123896  10.6.15.145 → 192.168.1.16 SSH 140 Server: Encrypted packet (len=72)
+  389 1.276183635 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=11201 Ack=88329 Win=6157 Len=0 TSval=1297775 TSecr=24112296
+  390 1.276212874    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 46944 [FIN, ACK] Seq=11 Ack=2 Win=342 Len=0 TSval=1297775 TSecr=1297708
+  391 1.276223374    127.0.0.1 → 127.0.0.1    TCP 68 46944 → 1080 [ACK] Seq=2 Ack=12 Win=342 Len=0 TSval=1297775 TSecr=1297775
+  392 1.276344087 192.168.1.16 → 10.6.15.145  SSH 104 Client: Encrypted packet (len=36)
+  393 1.276948423  10.6.15.145 → 192.168.1.16 SSH 140 Server: Encrypted packet (len=72)
+  394 1.276995927    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 46922 [FIN, ACK] Seq=444 Ack=950 Win=367 Len=0 TSval=1297775 TSecr=1297707
+  395 1.277003391    127.0.0.1 → 127.0.0.1    TCP 68 46922 → 1080 [ACK] Seq=950 Ack=445 Win=359 Len=0 TSval=1297775 TSecr=1297775
+  396 1.277091634 192.168.1.16 → 10.6.15.145  SSH 104 Client: Encrypted packet (len=36)
+  397 1.278445240  10.6.15.145 → 192.168.1.16 TCP 68 22 → 52104 [ACK] Seq=88401 Ack=11273 Win=1452 Len=0 TSval=24112299 TSecr=1297775
+  398 1.293625857  10.6.15.145 → 192.168.1.16 SSH 152 Server: Encrypted packet (len=84)
+  399 1.293762471    127.0.0.1 → 127.0.0.1    Socks 114 Unknown
+  400 1.293774456    127.0.0.1 → 127.0.0.1    TCP 68 46786 → 1080 [ACK] Seq=929 Ack=47 Win=19443 Len=0 TSval=1297779 TSecr=1297779
+  401 1.295773258  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  402 1.295788408 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=11273 Ack=89933 Win=6157 Len=0 TSval=1297779 TSecr=24112303
+  403 1.295979288  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  404 1.296948879  10.6.15.145 → 192.168.1.16 SSH 800 Server: Encrypted packet (len=732)
+  405 1.296961852 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=11273 Ack=92113 Win=6157 Len=0 TSval=1297780 TSecr=24112303
+  406 1.297067126    127.0.0.1 → 127.0.0.1    Socks 3649 Unknown
+  407 1.297076775    127.0.0.1 → 127.0.0.1    TCP 68 46786 → 1080 [ACK] Seq=929 Ack=3628 Win=19429 Len=0 TSval=1297780 TSecr=1297780
+  408 1.297155204  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  409 1.298249605  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  410 1.298259890 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=11273 Ack=95009 Win=6157 Len=0 TSval=1297780 TSecr=24112304
+  411 1.298440658  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  412 1.298445593  10.6.15.145 → 192.168.1.16 SSH 600 Server: Encrypted packet (len=532)
+  413 1.298450001 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=11273 Ack=96989 Win=6157 Len=0 TSval=1297780 TSecr=24112304
+  414 1.298529505    127.0.0.1 → 127.0.0.1    Socks 4904 Unknown
+  415 1.298533908    127.0.0.1 → 127.0.0.1    TCP 68 46786 → 1080 [ACK] Seq=929 Ack=8464 Win=19424 Len=0 TSval=1297780 TSecr=1297780
+  416 1.299031868  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  417 1.299221733  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  418 1.299227614 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=11273 Ack=99885 Win=6157 Len=0 TSval=1297780 TSecr=24112304
+  419 1.299928889  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  420 1.300003198  10.6.15.145 → 192.168.1.16 SSH 736 Server: Encrypted packet (len=668)
+  421 1.300007957 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=11273 Ack=102001 Win=6157 Len=0 TSval=1297781 TSecr=24112304
+  422 1.300084005    127.0.0.1 → 127.0.0.1    Socks 5039 Unknown
+  423 1.300088738    127.0.0.1 → 127.0.0.1    TCP 68 46786 → 1080 [ACK] Seq=929 Ack=13435 Win=19423 Len=0 TSval=1297781 TSecr=1297781
+  424 1.300602020  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  425 1.301365293  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  426 1.301375056 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=11273 Ack=104897 Win=6157 Len=0 TSval=1297781 TSecr=24112304
+  427 1.302356702  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  428 1.302546315  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  429 1.302554158 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=11273 Ack=107793 Win=6157 Len=0 TSval=1297781 TSecr=24112305
+  430 1.302737844  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  431 1.302931021  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  432 1.302936389 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=11273 Ack=110689 Win=6157 Len=0 TSval=1297781 TSecr=24112305
+  433 1.303122145  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  434 1.303233816    127.0.0.1 → 127.0.0.1    Socks 9379 Unknown
+  435 1.303240359    127.0.0.1 → 127.0.0.1    TCP 68 46786 → 1080 [ACK] Seq=929 Ack=22746 Win=19406 Len=0 TSval=1297781 TSecr=1297781
+  436 1.303283934 192.168.1.16 → 10.6.15.145  SSH 104 Client: Encrypted packet (len=36)
+  437 1.303321017  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  438 1.303509713  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  439 1.303517067 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=11309 Ack=115033 Win=6157 Len=0 TSval=1297781 TSecr=24112305
+  440 1.303700589  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  441 1.304284127  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  442 1.304299393 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=11309 Ack=117929 Win=6157 Len=0 TSval=1297782 TSecr=24112305
+  443 1.304481967  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  444 1.306201495  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  445 1.306214843 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=11309 Ack=120825 Win=6157 Len=0 TSval=1297782 TSecr=24112305
+  446 1.306386781  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  447 1.306579895  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  448 1.306586367 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=11309 Ack=123721 Win=6157 Len=0 TSval=1297782 TSecr=24112306
+  449 1.306783695  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  450 1.306962236  10.6.15.145 → 192.168.1.16 SSH 1436 Server: Encrypted packet (len=1368)
+  451 1.306968105 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=11309 Ack=126537 Win=6157 Len=0 TSval=1297782 TSecr=24112306
+  452 1.307077437    127.0.0.1 → 127.0.0.1    Socks 15203 Unknown
+  453 1.307084298    127.0.0.1 → 127.0.0.1    TCP 68 46786 → 1080 [ACK] Seq=929 Ack=37881 Win=19384 Len=0 TSval=1297782 TSecr=1297782
+  454 1.307964431    127.0.0.1 → 127.0.0.1    TCP 68 46946 → 1080 [ACK] Seq=581 Ack=4403 Win=2388 Len=0 TSval=1297783 TSecr=1297772
+  455 1.439968405 192.168.1.16 → 224.0.0.252  IGMPv2 48 Membership Report group 224.0.0.252
+  456 1.493568169  10.6.15.145 → 192.168.1.16 SSH 248 Server: Encrypted packet (len=180)
+  457 1.493683205    127.0.0.1 → 127.0.0.1    Socks 211 Version: 5
+  458 1.493763856    127.0.0.1 → 127.0.0.1    Socks 119 Version: 5
+  459 1.493772502    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 46960 [ACK] Seq=154 Ack=296 Win=350 Len=0 TSval=1297829 TSecr=1297829
+  460 1.493855398 192.168.1.16 → 10.6.15.145  SSH 136 Client: Encrypted packet (len=68)
+  461 1.505830506  10.6.15.145 → 192.168.1.16 SSH 1048 Server: Encrypted packet (len=980)
+  462 1.505919929    127.0.0.1 → 127.0.0.1    Socks 1001 Unknown
+  463 1.505926665    127.0.0.1 → 127.0.0.1    TCP 68 46738 → 1080 [ACK] Seq=1958 Ack=934 Win=532 Len=0 TSval=1297832 TSecr=1297832
+  464 1.527292778  10.6.15.145 → 192.168.1.16 SSH 112 Server: Encrypted packet (len=44)
+  465 1.527351431 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=11377 Ack=127741 Win=6157 Len=0 TSval=1297837 TSecr=24112356
+  466 1.527420807    127.0.0.1 → 127.0.0.1    Socks 78 Version: 5, Remote Port: 5228 Command Response - Connect
+  467 1.527520308    127.0.0.1 → 127.0.0.1    Socks 585 Version: 5, Remote Port: 5228
+  468 1.527528518    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 47014 [ACK] Seq=13 Ack=544 Win=44800 Len=0 TSval=1297837 TSecr=1297837
+  469 1.527610586 192.168.1.16 → 10.6.15.145  SSH 160 Client: Encrypted packet (len=92)
+  470 1.564764208  10.6.15.145 → 192.168.1.16 SSH 232 Server: Encrypted packet (len=164)
+  471 1.564884464    127.0.0.1 → 127.0.0.1    Socks 219 Version: 5, Remote Port: 5228
+  472 1.565262619    127.0.0.1 → 127.0.0.1    Socks 284 Version: 5, Remote Port: 5228
+  473 1.565273349    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 47014 [ACK] Seq=164 Ack=760 Win=45952 Len=0 TSval=1297847 TSecr=1297847
+  474 1.565408100 192.168.1.16 → 10.6.15.145  SSH 304 Client: Encrypted packet (len=236)
+  475 1.566486739    127.0.0.1 → 127.0.0.1    Socks 283 Version: 5, Remote Port: 5228
+  476 1.566493461    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 47014 [ACK] Seq=164 Ack=975 Win=46976 Len=0 TSval=1297847 TSecr=1297847
+  477 1.566669738 192.168.1.16 → 10.6.15.145  SSH 312 Client: Encrypted packet (len=244)
+  478 1.568297072  10.6.15.145 → 192.168.1.16 TCP 68 22 → 52104 [ACK] Seq=127905 Ack=11949 Win=1452 Len=0 TSval=24112372 TSecr=1297847
+  479 1.604952046    127.0.0.1 → 127.0.0.1    Socks 524 Unknown
+  480 1.604967952    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 46818 [ACK] Seq=1 Ack=457 Win=2476 Len=0 TSval=1297857 TSecr=1297857
+  481 1.604997286    127.0.0.1 → 127.0.0.1    Socks 114 Unknown
+  482 1.605001861    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 46818 [ACK] Seq=1 Ack=503 Win=2476 Len=0 TSval=1297857 TSecr=1297857
+  483 1.605012371    127.0.0.1 → 127.0.0.1    Socks 344 Unknown
+  484 1.605014671    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 46818 [ACK] Seq=1 Ack=779 Win=2511 Len=0 TSval=1297857 TSecr=1297857
+  485 1.605192653 192.168.1.16 → 10.6.15.145  SSH 616 Client: Encrypted packet (len=548)
+  486 1.605817124  10.6.15.145 → 192.168.1.16 SSH 128 Server: Encrypted packet (len=60)
+  487 1.605914497    127.0.0.1 → 127.0.0.1    Socks 98 Version: 5, Remote Port: 5228
+  488 1.606239089 192.168.1.16 → 10.6.15.145  SSH 384 Client: Encrypted packet (len=316)
+  489 1.607476243  10.6.15.145 → 192.168.1.16 SSH 216 Server: Encrypted packet (len=148)
+  490 1.607586093    127.0.0.1 → 127.0.0.1    Socks 186 Version: 5, Remote Port: 5228
+  491 1.607669087    127.0.0.1 → 127.0.0.1    TCP 68 47014 → 1080 [ACK] Seq=975 Ack=312 Win=44800 Len=0 TSval=1297857 TSecr=1297857
+  492 1.608604554  10.6.15.145 → 192.168.1.16 SSH 232 Server: Encrypted packet (len=164)
+  493 1.608644062 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=12813 Ack=128277 Win=6157 Len=0 TSval=1297858 TSecr=24112382
+  494 1.608690557    127.0.0.1 → 127.0.0.1    Socks 202 Version: 5, Remote Port: 5228
+  495 1.609992390  10.6.15.145 → 192.168.1.16 SSH 144 Server: Encrypted packet (len=76)
+  496 1.610050001    127.0.0.1 → 127.0.0.1    Socks 114 Unknown
+  497 1.651964764    127.0.0.1 → 127.0.0.1    TCP 68 46818 → 1080 [ACK] Seq=779 Ack=47 Win=1424 Len=0 TSval=1297869 TSecr=1297858
+  498 1.651966610    127.0.0.1 → 127.0.0.1    TCP 68 47014 → 1080 [ACK] Seq=975 Ack=446 Win=45952 Len=0 TSval=1297869 TSecr=1297858
+  499 1.655975867 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=12813 Ack=128353 Win=6157 Len=0 TSval=1297870 TSecr=24112382
+  500 1.693223578  10.6.15.145 → 192.168.1.16 SSH 200 Server: Encrypted packet (len=132)
+  501 1.693283887 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=12813 Ack=128485 Win=6157 Len=0 TSval=1297879 TSecr=24112403
+  502 1.693326208    127.0.0.1 → 127.0.0.1    Socks 179 Unknown
+  503 1.693330403    127.0.0.1 → 127.0.0.1    TCP 68 46818 → 1080 [ACK] Seq=779 Ack=158 Win=1424 Len=0 TSval=1297879 TSecr=1297879
+  504 1.693812674    127.0.0.1 → 127.0.0.1    Socks 114 Unknown
+  505 1.693901021 192.168.1.16 → 10.6.15.145  SSH 136 Client: Encrypted packet (len=68)
+  506 1.735842418  10.6.15.145 → 192.168.1.16 TCP 68 22 → 52104 [ACK] Seq=128485 Ack=12881 Win=1452 Len=0 TSval=24112414 TSecr=1297879
+  507 1.735965984    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 46818 [ACK] Seq=158 Ack=825 Win=2511 Len=0 TSval=1297890 TSecr=1297879
+  508 2.009336226 192.168.1.16 → 239.255.255.250 SSDP 215 M-SEARCH * HTTP/1.1 
+  509 2.052913384    127.0.0.1 → 127.0.0.1    Socks 944 Unknown
+  510 2.052927656    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 46602 [ACK] Seq=76302 Ack=877 Win=612 Len=0 TSval=1297969 TSecr=1297969
+  511 2.052963526    127.0.0.1 → 127.0.0.1    Socks 467 Unknown
+  512 2.052967917    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 46602 [ACK] Seq=76302 Ack=1276 Win=627 Len=0 TSval=1297969 TSecr=1297969
+  513 2.053186340 192.168.1.16 → 10.6.15.145  SSH 1384 Client: Encrypted packet (len=1316)
+  514 2.055056991  10.6.15.145 → 192.168.1.16 TCP 68 22 → 52104 [ACK] Seq=128485 Ack=14197 Win=1452 Len=0 TSval=24112493 TSecr=1297969
+  515 2.103909616  10.6.15.145 → 192.168.1.16 SSH 144 Server: Encrypted packet (len=76)
+  516 2.104032147    127.0.0.1 → 127.0.0.1    Socks 110 Unknown
+  517 2.104036490    127.0.0.1 → 127.0.0.1    TCP 68 46602 → 1080 [ACK] Seq=1276 Ack=76344 Win=18423 Len=0 TSval=1297982 TSecr=1297982
+  518 2.143969057 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=14197 Ack=128561 Win=6157 Len=0 TSval=1297992 TSecr=24112506
+  519 2.147376939    127.0.0.1 → 127.0.0.1    Socks 2953 Unknown
+  520 2.147393611    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 46738 [ACK] Seq=934 Ack=4843 Win=3637 Len=0 TSval=1297992 TSecr=1297992
+  521 2.147816127 192.168.1.16 → 10.6.15.145  SSH 1516 Client: Encrypted packet (len=1448)
+  522 2.147836800 192.168.1.16 → 10.6.15.145  SSH 1516 Client: Encrypted packet (len=1448)
+  523 2.150111216 192.168.1.16 → 10.6.15.145  SSH 104 Client: Encrypted packet (len=36)
+  524 2.151177181  10.6.15.145 → 192.168.1.16 TCP 68 22 → 52104 [ACK] Seq=128561 Ack=15645 Win=1452 Len=0 TSval=24112517 TSecr=1297992
+  525 2.151305499  10.6.15.145 → 192.168.1.16 TCP 68 22 → 52104 [ACK] Seq=128561 Ack=17093 Win=1452 Len=0 TSval=24112518 TSecr=1297992
+  526 2.151444494  10.6.15.145 → 192.168.1.16 TCP 68 22 → 52104 [ACK] Seq=128561 Ack=17129 Win=1452 Len=0 TSval=24112518 TSecr=1297993
+  527 2.151719474    127.0.0.1 → 127.0.0.1    Socks 2649 Unknown
+  528 2.151731170    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 46844 [ACK] Seq=1 Ack=2582 Win=3637 Len=0 TSval=1297993 TSecr=1297993
+  529 2.152130815 192.168.1.16 → 10.6.15.145  SSH 1516 Client: Encrypted packet (len=1448)
+  530 2.152332343    127.0.0.1 → 127.0.0.1    Socks 2185 Unknown
+  531 2.152344472    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 46798 [ACK] Seq=1 Ack=2118 Win=3637 Len=0 TSval=1297994 TSecr=1297994
+  532 2.152599866 192.168.1.16 → 10.6.15.145  SSH 1248 Client: Encrypted packet (len=1180)
+  533 2.152618850 192.168.1.16 → 10.6.15.145  SSH 1516 Client: Encrypted packet (len=1448)
+  534 2.153725624 192.168.1.16 → 10.6.15.145  SSH 784 Client: Encrypted packet (len=716)
+  535 2.154782949  10.6.15.145 → 192.168.1.16 TCP 68 22 → 52104 [ACK] Seq=128561 Ack=18577 Win=1452 Len=0 TSval=24112518 TSecr=1297994
+  536 2.154915955  10.6.15.145 → 192.168.1.16 TCP 68 22 → 52104 [ACK] Seq=128561 Ack=19757 Win=1452 Len=0 TSval=24112518 TSecr=1297994
+  537 2.155055217  10.6.15.145 → 192.168.1.16 TCP 68 22 → 52104 [ACK] Seq=128561 Ack=21205 Win=1452 Len=0 TSval=24112518 TSecr=1297994
+  538 2.156202029  10.6.15.145 → 192.168.1.16 TCP 68 22 → 52104 [ACK] Seq=128561 Ack=21921 Win=1452 Len=0 TSval=24112519 TSecr=1297994
+  539 2.160325025    127.0.0.1 → 127.0.0.1    Socks 214 Unknown
+  540 2.160359978    127.0.0.1 → 127.0.0.1    Socks 114 Unknown
+  541 2.160392018    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 46810 [ACK] Seq=1 Ack=193 Win=493 Len=0 TSval=1297996 TSecr=1297996
+  542 2.160402507    127.0.0.1 → 127.0.0.1    Socks 213 Unknown
+  543 2.160434671    127.0.0.1 → 127.0.0.1    Socks 214 Unknown
+  544 2.160463549    127.0.0.1 → 127.0.0.1    Socks 214 Unknown
+  545 2.160491072    127.0.0.1 → 127.0.0.1    Socks 215 Unknown
+  546 2.160494684    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 46810 [ACK] Seq=1 Ack=777 Win=526 Len=0 TSval=1297996 TSecr=1297996
+  547 2.160519708 192.168.1.16 → 10.6.15.145  SSH 288 Client: Encrypted packet (len=220)
+  548 2.160526254    127.0.0.1 → 127.0.0.1    Socks 214 Unknown
+  549 2.160745436 192.168.1.16 → 10.6.15.145  SSH 680 Client: Encrypted packet (len=612)
+  550 2.161311492 192.168.1.16 → 10.6.15.145  SSH 248 Client: Encrypted packet (len=180)
+  551 2.161961293  10.6.15.145 → 192.168.1.16 TCP 68 22 → 52104 [ACK] Seq=128561 Ack=22141 Win=1452 Len=0 TSval=24112520 TSecr=1297996
+  552 2.162573800  10.6.15.145 → 192.168.1.16 TCP 68 22 → 52104 [ACK] Seq=128561 Ack=22753 Win=1452 Len=0 TSval=24112520 TSecr=1297996
+  553 2.162592582  10.6.15.145 → 192.168.1.16 TCP 68 22 → 52104 [ACK] Seq=128561 Ack=22933 Win=1452 Len=0 TSval=24112520 TSecr=1297996
+  554 2.197941628  10.6.15.145 → 192.168.1.16 SSH 144 Server: Encrypted packet (len=76)
+  555 2.197960578 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=22933 Ack=128637 Win=6157 Len=0 TSval=1298005 TSecr=24112529
+  556 2.198073447    127.0.0.1 → 127.0.0.1    Socks 114 Unknown
+  557 2.198085939    127.0.0.1 → 127.0.0.1    TCP 68 46810 → 1080 [ACK] Seq=923 Ack=47 Win=13305 Len=0 TSval=1298005 TSecr=1298005
+  558 2.200645477  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  559 2.200665125 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=22933 Ack=130085 Win=6157 Len=0 TSval=1298006 TSecr=24112530
+  560 2.200828656  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  561 2.200835096 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=22933 Ack=131533 Win=6157 Len=0 TSval=1298006 TSecr=24112530
+  562 2.201172741  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  563 2.201182562 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=22933 Ack=132981 Win=6157 Len=0 TSval=1298006 TSecr=24112530
+  564 2.201221194  10.6.15.145 → 192.168.1.16 SSH 568 Server: Encrypted packet (len=500)
+  565 2.201224802 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=22933 Ack=133481 Win=6157 Len=0 TSval=1298006 TSecr=24112530
+  566 2.201231724  10.6.15.145 → 192.168.1.16 SSH 136 Server: Encrypted packet (len=68)
+  567 2.201239583 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=22933 Ack=133549 Win=6157 Len=0 TSval=1298006 TSecr=24112530
+  568 2.201297298    127.0.0.1 → 127.0.0.1    Socks 4904 Unknown
+  569 2.201304659    127.0.0.1 → 127.0.0.1    TCP 68 46810 → 1080 [ACK] Seq=923 Ack=4883 Win=13283 Len=0 TSval=1298006 TSecr=1298006
+  570 2.201335248 192.168.1.16 → 10.6.15.145  SSH 104 Client: Encrypted packet (len=36)
+  571 2.201583109  10.6.15.145 → 192.168.1.16 SSH 1304 Server: Encrypted packet (len=1236)
+  572 2.201623278    127.0.0.1 → 127.0.0.1    Socks 1262 Unknown
+  573 2.201626233    127.0.0.1 → 127.0.0.1    TCP 68 46810 → 1080 [ACK] Seq=923 Ack=6077 Win=13274 Len=0 TSval=1298006 TSecr=1298006
+  574 2.201778657  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  575 2.201786222 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=22969 Ack=136233 Win=6157 Len=0 TSval=1298006 TSecr=24112530
+  576 2.201903878  10.6.15.145 → 192.168.1.16 SSH 1088 Server: Encrypted packet (len=1020)
+  577 2.201938819    127.0.0.1 → 127.0.0.1    Socks 2493 Unknown
+  578 2.201940896    127.0.0.1 → 127.0.0.1    TCP 68 46810 → 1080 [ACK] Seq=923 Ack=8502 Win=13261 Len=0 TSval=1298006 TSecr=1298006
+  579 2.203211321  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  580 2.203228105 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=22969 Ack=138701 Win=6157 Len=0 TSval=1298006 TSecr=24112530
+  581 2.203399578  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  582 2.204147366  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  583 2.204162409 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=22969 Ack=141597 Win=6157 Len=0 TSval=1298007 TSecr=24112530
+  584 2.204334545  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  585 2.204348144  10.6.15.145 → 192.168.1.16 SSH 208 Server: Encrypted packet (len=140)
+  586 2.204356353 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=22969 Ack=143185 Win=6157 Len=0 TSval=1298007 TSecr=24112531
+  587 2.204432463    127.0.0.1 → 127.0.0.1    Socks 5954 Unknown
+  588 2.204438747    127.0.0.1 → 127.0.0.1    TCP 68 46810 → 1080 [ACK] Seq=923 Ack=14388 Win=13279 Len=0 TSval=1298007 TSecr=1298007
+  589 2.204703675  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  590 2.205029658  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  591 2.205045147 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=22969 Ack=146081 Win=6157 Len=0 TSval=1298007 TSecr=24112531
+  592 2.205218599  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  593 2.205407976  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  594 2.205418227 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=22969 Ack=148977 Win=6157 Len=0 TSval=1298007 TSecr=24112531
+  595 2.205760552  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  596 2.205946204  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  597 2.205957423 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=22969 Ack=151873 Win=6157 Len=0 TSval=1298007 TSecr=24112531
+  598 2.208581030  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  599 2.208762411  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  600 2.208773984 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=22969 Ack=154769 Win=6157 Len=0 TSval=1298008 TSecr=24112532
+  601 2.208912840    127.0.0.1 → 127.0.0.1    Socks 10831 Unknown
+  602 2.208920947    127.0.0.1 → 127.0.0.1    TCP 68 46810 → 1080 [ACK] Seq=923 Ack=25151 Win=13260 Len=0 TSval=1298008 TSecr=1298008
+  603 2.209109320  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  604 2.209298757  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  605 2.209307920 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=22969 Ack=157665 Win=6157 Len=0 TSval=1298008 TSecr=24112532
+  606 2.209491677  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  607 2.209838548  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  608 2.209850459 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=22969 Ack=160561 Win=6157 Len=0 TSval=1298008 TSecr=24112532
+  609 2.210028625  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  610 2.210219749  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  611 2.210229916 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=22969 Ack=163457 Win=6157 Len=0 TSval=1298008 TSecr=24112532
+  612 2.210411558  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  613 2.210603313  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  614 2.210612860 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=22969 Ack=166353 Win=6157 Len=0 TSval=1298008 TSecr=24112532
+  615 2.215287397  10.6.15.145 → 192.168.1.16 SSH 516 Server: Encrypted packet (len=448)
+  616 2.215472705    127.0.0.1 → 127.0.0.1    Socks 12833 Unknown
+  617 2.215485272    127.0.0.1 → 127.0.0.1    TCP 68 46810 → 1080 [ACK] Seq=923 Ack=37916 Win=13252 Len=0 TSval=1298009 TSecr=1298009
+  618 2.234835844    127.0.0.1 → 127.0.0.1    Socks 2393 Version: 5
+  619 2.234852418    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 46946 [ACK] Seq=4403 Ack=2906 Win=1382 Len=0 TSval=1298014 TSecr=1298014
+  620 2.235072555    127.0.0.1 → 127.0.0.1    TCP 68 46950 → 1080 [FIN, ACK] Seq=569 Ack=148 Win=350 Len=0 TSval=1298014 TSecr=1297535
+  621 2.235186189    127.0.0.1 → 127.0.0.1    TCP 76 47018 → 1080 [SYN] Seq=0 Win=43690 Len=0 MSS=65495 SACK_PERM=1 TSval=1298014 TSecr=0 WS=128
+  622 2.235194464    127.0.0.1 → 127.0.0.1    TCP 76 1080 → 47018 [SYN, ACK] Seq=0 Ack=1 Win=43690 Len=0 MSS=65495 SACK_PERM=1 TSval=1298014 TSecr=1298014 WS=128
+  623 2.235202822    127.0.0.1 → 127.0.0.1    TCP 68 47018 → 1080 [ACK] Seq=1 Ack=1 Win=43776 Len=0 TSval=1298014 TSecr=1298014
+  624 2.235225227 192.168.1.16 → 10.6.15.145  SSH 1516 Client: Encrypted packet (len=1448)
+  625 2.235351544    127.0.0.1 → 127.0.0.1    Socks 71 Version: 5 Connect to server request
+  626 2.235358044    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 47018 [ACK] Seq=1 Ack=4 Win=43776 Len=0 TSval=1298014 TSecr=1298014
+  627 2.235388082    127.0.0.1 → 127.0.0.1    Socks 70 Version: 5 Connect to server response
+  628 2.235391526    127.0.0.1 → 127.0.0.1    TCP 68 47018 → 1080 [ACK] Seq=4 Ack=3 Win=43776 Len=0 TSval=1298014 TSecr=1298014
+  629 2.235407645    127.0.0.1 → 127.0.0.1    Socks 93 Version: 5 Command Request - Connect
+  630 2.236038133 192.168.1.16 → 10.6.15.145  SSH 1064 Client: Encrypted packet (len=996)
+  631 2.238090029  10.6.15.145 → 192.168.1.16 TCP 68 22 → 52104 [ACK] Seq=166801 Ack=25413 Win=1452 Len=0 TSval=24112539 TSecr=1298014
+  632 2.275968144    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 46950 [ACK] Seq=148 Ack=570 Win=350 Len=0 TSval=1298025 TSecr=1298014
+  633 2.275968147    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 47018 [ACK] Seq=3 Ack=29 Win=43776 Len=0 TSval=1298025 TSecr=1298014
+  634 2.711940181    127.0.0.1 → 127.0.0.1    TCP 68 46952 → 1080 [FIN, ACK] Seq=569 Ack=148 Win=350 Len=0 TSval=1298133 TSecr=1297535
+  635 2.712075444 192.168.1.16 → 10.6.15.145  SSH 104 Client: Encrypted packet (len=36)
+  636 2.712099177    127.0.0.1 → 127.0.0.1    TCP 76 47020 → 1080 [SYN] Seq=0 Win=43690 Len=0 MSS=65495 SACK_PERM=1 TSval=1298134 TSecr=0 WS=128
+  637 2.712110242    127.0.0.1 → 127.0.0.1    TCP 76 1080 → 47020 [SYN, ACK] Seq=0 Ack=1 Win=43690 Len=0 MSS=65495 SACK_PERM=1 TSval=1298134 TSecr=1298134 WS=128
+  638 2.712120859    127.0.0.1 → 127.0.0.1    TCP 68 47020 → 1080 [ACK] Seq=1 Ack=1 Win=43776 Len=0 TSval=1298134 TSecr=1298134
+  639 2.712246612    127.0.0.1 → 127.0.0.1    Socks 71 Version: 5 Connect to server request
+  640 2.712251451    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 47020 [ACK] Seq=1 Ack=4 Win=43776 Len=0 TSval=1298134 TSecr=1298134
+  641 2.712978361    127.0.0.1 → 127.0.0.1    Socks 70 Version: 5 Connect to server response
+  642 2.712984382    127.0.0.1 → 127.0.0.1    TCP 68 47020 → 1080 [ACK] Seq=4 Ack=3 Win=43776 Len=0 TSval=1298134 TSecr=1298134
+  643 2.713014723    127.0.0.1 → 127.0.0.1    Socks 93 Version: 5 Command Request - Connect
+  644 2.713620040 192.168.1.16 → 10.6.15.145  SSH 104 Client: Encrypted packet (len=36)
+  645 2.713776281  10.6.15.145 → 192.168.1.16 SSH 360 Server: Encrypted packet (len=292)
+  646 2.713788947  10.6.15.145 → 192.168.1.16 SSH 140 Server: Encrypted packet (len=72)
+  647 2.713811337  10.6.15.145 → 192.168.1.16 TCP 140 [TCP Retransmission] 22 → 52104 [PSH, ACK] Seq=167093 Ack=25413 Win=1452 Len=72 TSval=24112582 TSecr=1298014
+  648 2.713816868 192.168.1.16 → 10.6.15.145  TCP 80 52104 → 22 [ACK] Seq=25485 Ack=167165 Win=6157 Len=0 TSval=1298134 TSecr=24112578 SLE=167093 SRE=167165
+  649 2.713874536    127.0.0.1 → 127.0.0.1    Socks 315 Version: 5
+  650 2.713886391    127.0.0.1 → 127.0.0.1    TCP 56 46950 → 1080 [RST] Seq=570 Win=0 Len=0
+  651 2.714730529  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  652 2.714733983 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=25485 Ack=168613 Win=6157 Len=0 TSval=1298134 TSecr=24112582
+  653 2.714739579  10.6.15.145 → 192.168.1.16 SSH 144 Server: Encrypted packet (len=76)
+  654 2.714741718 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=25485 Ack=168689 Win=6157 Len=0 TSval=1298134 TSecr=24112582
+  655 2.714799785    127.0.0.1 → 127.0.0.1    Socks 1548 Unknown
+  656 2.714807280    127.0.0.1 → 127.0.0.1    TCP 68 46602 → 1080 [ACK] Seq=1276 Ack=77824 Win=18414 Len=0 TSval=1298134 TSecr=1298134
+  657 2.714906079  10.6.15.145 → 192.168.1.16 SSH 1240 Server: Encrypted packet (len=1172)
+  658 2.714910686 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=25485 Ack=169861 Win=6157 Len=0 TSval=1298134 TSecr=24112583
+  659 2.714969805    127.0.0.1 → 127.0.0.1    Socks 1193 Unknown
+  660 2.714974865    127.0.0.1 → 127.0.0.1    TCP 68 46738 → 1080 [ACK] Seq=4843 Ack=2059 Win=549 Len=0 TSval=1298134 TSecr=1298134
+  661 2.715180698  10.6.15.145 → 192.168.1.16 SSH 1016 Server: Encrypted packet (len=948)
+  662 2.715187931 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=25485 Ack=170809 Win=6157 Len=0 TSval=1298134 TSecr=24112583
+  663 2.715251527    127.0.0.1 → 127.0.0.1    Socks 969 Unknown
+  664 2.715257613    127.0.0.1 → 127.0.0.1    TCP 68 46798 → 1080 [ACK] Seq=2118 Ack=902 Win=470 Len=0 TSval=1298134 TSecr=1298134
+  665 2.715309088  10.6.15.145 → 192.168.1.16 SSH 1016 Server: Encrypted packet (len=948)
+  666 2.715316098 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=25485 Ack=171757 Win=6157 Len=0 TSval=1298134 TSecr=24112584
+  667 2.715325543  10.6.15.145 → 192.168.1.16 SSH 112 Server: Encrypted packet (len=44)
+  668 2.715328909 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=25485 Ack=171801 Win=6157 Len=0 TSval=1298134 TSecr=24112600
+  669 2.715372510    127.0.0.1 → 127.0.0.1    Socks 78 Version: 5, Remote Port: 443 Command Response - Connect
+  670 2.715380789    127.0.0.1 → 127.0.0.1    Socks 969 Unknown
+  671 2.715384736    127.0.0.1 → 127.0.0.1    TCP 68 46844 → 1080 [ACK] Seq=2582 Ack=902 Win=449 Len=0 TSval=1298134 TSecr=1298134
+  672 2.715460468  10.6.15.145 → 192.168.1.16 SSH 1016 Server: Encrypted packet (len=948)
+  673 2.715466714 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=25485 Ack=172749 Win=6157 Len=0 TSval=1298134 TSecr=24112601
+  674 2.715501858  10.6.15.145 → 192.168.1.16 TCP 432 [TCP Out-Of-Order] 22 → 52104 [PSH, ACK] Seq=166801 Ack=25413 Win=1452 Len=364 TSval=24112658 TSecr=1298014
+  675 2.715505945 192.168.1.16 → 10.6.15.145  TCP 80 [TCP Dup ACK 673#1] 52104 → 22 [ACK] Seq=25485 Ack=172749 Win=6157 Len=0 TSval=1298134 TSecr=24112601 SLE=166801 SRE=167165
+  676 2.715559997    127.0.0.1 → 127.0.0.1    Socks 969 Version: 5
+  677 2.715565663    127.0.0.1 → 127.0.0.1    TCP 68 46946 → 1080 [ACK] Seq=2906 Ack=5304 Win=2434 Len=0 TSval=1298134 TSecr=1298134
+  678 2.716125035 192.168.1.16 → 10.6.15.145  SSH 104 Client: Encrypted packet (len=36)
+  679 2.717258387  10.6.15.145 → 192.168.1.16 TCP 68 22 → 52104 [ACK] Seq=172749 Ack=25485 Win=1452 Len=0 TSval=24112659 TSecr=1298134
+  680 2.718661970    127.0.0.1 → 127.0.0.1    SSL 306 Client Hello
+  681 2.718679359    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 47018 [ACK] Seq=13 Ack=267 Win=44800 Len=0 TSval=1298135 TSecr=1298135
+  682 2.718827836 192.168.1.16 → 10.6.15.145  SSH 192 Client: Encrypted packet (len=124)
+  683 2.721485531  10.6.15.145 → 192.168.1.16 TCP 68 22 → 52104 [ACK] Seq=172749 Ack=25645 Win=1452 Len=0 TSval=24112660 TSecr=1298135
+  684 2.727174472    127.0.0.1 → 127.0.0.1    Socks 2873 Unknown
+  685 2.727182833    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 46798 [ACK] Seq=902 Ack=4923 Win=3637 Len=0 TSval=1298137 TSecr=1298137
+  686 2.727288554    127.0.0.1 → 127.0.0.1    Socks 3177 Unknown
+  687 2.727292487    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 46844 [ACK] Seq=902 Ack=5691 Win=3637 Len=0 TSval=1298137 TSecr=1298137
+  688 2.727636308 192.168.1.16 → 10.6.15.145  SSH 1516 Client: Encrypted packet (len=1448)
+  689 2.727937120 192.168.1.16 → 10.6.15.145  SSH 1516 Client: Encrypted packet (len=1448)
+  690 2.728149276 192.168.1.16 → 10.6.15.145  SSH 1516 Client: Encrypted packet (len=1448)
+  691 2.730027674  10.6.15.145 → 192.168.1.16 TCP 68 22 → 52104 [ACK] Seq=172749 Ack=28541 Win=1452 Len=0 TSval=24112662 TSecr=1298137
+  692 2.731452883 192.168.1.16 → 10.6.15.145  SSH 1516 Client: Encrypted packet (len=1448)
+  693 2.731466856 192.168.1.16 → 10.6.15.145  SSH 284 Client: Encrypted packet (len=216)
+  694 2.734023671  10.6.15.145 → 192.168.1.16 TCP 68 22 → 52104 [ACK] Seq=172749 Ack=31437 Win=1452 Len=0 TSval=24112663 TSecr=1298138
+  695 2.755982348    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 47020 [ACK] Seq=3 Ack=29 Win=43776 Len=0 TSval=1298145 TSecr=1298134
+  696 2.755982350    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 46952 [ACK] Seq=148 Ack=570 Win=350 Len=0 TSval=1298145 TSecr=1298133
+  697 2.771322925  10.6.15.145 → 192.168.1.16 TCP 68 22 → 52104 [ACK] Seq=172749 Ack=31653 Win=1452 Len=0 TSval=24112673 TSecr=1298138
+  698 2.853726002    127.0.0.1 → 127.0.0.1    Socks 2329 Unknown
+  699 2.853743530    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 46820 [ACK] Seq=1 Ack=2262 Win=3420 Len=0 TSval=1298169 TSecr=1298169
+  700 2.854288202 192.168.1.16 → 10.6.15.145  SSH 1516 Client: Encrypted packet (len=1448)
+  701 2.854823915 192.168.1.16 → 10.6.15.145  SSH 928 Client: Encrypted packet (len=860)
+  702 2.856406004  10.6.15.145 → 192.168.1.16 TCP 68 22 → 52104 [ACK] Seq=172749 Ack=33101 Win=1452 Len=0 TSval=24112694 TSecr=1298169
+  703 2.856559474    127.0.0.1 → 127.0.0.1    TCP 68 46946 → 1080 [FIN, ACK] Seq=2906 Ack=5304 Win=2434 Len=0 TSval=1298170 TSecr=1298134
+  704 2.856673858 192.168.1.16 → 10.6.15.145  SSH 104 Client: Encrypted packet (len=36)
+  705 2.856701397    127.0.0.1 → 127.0.0.1    TCP 76 47022 → 1080 [SYN] Seq=0 Win=43690 Len=0 MSS=65495 SACK_PERM=1 TSval=1298170 TSecr=0 WS=128
+  706 2.856711073    127.0.0.1 → 127.0.0.1    TCP 76 1080 → 47022 [SYN, ACK] Seq=0 Ack=1 Win=43690 Len=0 MSS=65495 SACK_PERM=1 TSval=1298170 TSecr=1298170 WS=128
+  707 2.856721064    127.0.0.1 → 127.0.0.1    TCP 68 47022 → 1080 [ACK] Seq=1 Ack=1 Win=43776 Len=0 TSval=1298170 TSecr=1298170
+  708 2.856955406  10.6.15.145 → 192.168.1.16 TCP 68 22 → 52104 [ACK] Seq=172749 Ack=33961 Win=1452 Len=0 TSval=24112694 TSecr=1298169
+  709 2.856995851    127.0.0.1 → 127.0.0.1    Socks 71 Version: 5 Connect to server request
+  710 2.857003451    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 47022 [ACK] Seq=1 Ack=4 Win=43776 Len=0 TSval=1298170 TSecr=1298170
+  711 2.857048596    127.0.0.1 → 127.0.0.1    Socks 70 Version: 5 Connect to server response
+  712 2.857053905    127.0.0.1 → 127.0.0.1    TCP 68 47022 → 1080 [ACK] Seq=4 Ack=3 Win=43776 Len=0 TSval=1298170 TSecr=1298170
+  713 2.857119214    127.0.0.1 → 127.0.0.1    Socks 91 Version: 5 Command Request - Connect
+  714 2.857906657 192.168.1.16 → 10.6.15.145  SSH 120 Client: Encrypted packet (len=52)
+  715 2.858017076  10.6.15.145 → 192.168.1.16 TCP 68 22 → 52104 [ACK] Seq=172749 Ack=33997 Win=1452 Len=0 TSval=24112694 TSecr=1298170
+  716 2.862251267  10.6.15.145 → 192.168.1.16 TCP 68 22 → 52104 [ACK] Seq=172749 Ack=34049 Win=1452 Len=0 TSval=24112695 TSecr=1298170
+  717 2.869317405  10.6.15.145 → 192.168.1.16 SSH 352 Server: Encrypted packet (len=284)
+  718 2.869337625  10.6.15.145 → 192.168.1.16 SSH 140 Server: Encrypted packet (len=72)
+  719 2.869401743 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=34049 Ack=173105 Win=6157 Len=0 TSval=1298173 TSecr=24112697
+  720 2.869474917    127.0.0.1 → 127.0.0.1    Socks 315 Version: 5
+  721 2.869486556    127.0.0.1 → 127.0.0.1    TCP 56 46952 → 1080 [RST] Seq=570 Win=0 Len=0
+  722 2.869620762 192.168.1.16 → 10.6.15.145  SSH 104 Client: Encrypted packet (len=36)
+  723 2.899962784    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 47022 [ACK] Seq=3 Ack=27 Win=43776 Len=0 TSval=1298181 TSecr=1298170
+  724 2.899964933    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 46946 [ACK] Seq=5304 Ack=2907 Win=1382 Len=0 TSval=1298181 TSecr=1298170
+  725 2.914039137  10.6.15.145 → 192.168.1.16 TCP 68 22 → 52104 [ACK] Seq=173105 Ack=34085 Win=1452 Len=0 TSval=24112708 TSecr=1298173
+  726 2.960793214  10.6.15.145 → 192.168.1.16 SSH 112 Server: Encrypted packet (len=44)
+  727 2.960920624    127.0.0.1 → 127.0.0.1    Socks 78 Version: 5, Remote Port: 443 Command Response - Connect
+  728 2.961063348    127.0.0.1 → 127.0.0.1    SSL 306 Client Hello
+  729 2.961075283    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 47020 [ACK] Seq=13 Ack=267 Win=44800 Len=0 TSval=1298196 TSecr=1298196
+  730 2.961157200 192.168.1.16 → 10.6.15.145  SSH 160 Client: Encrypted packet (len=92)
+  731 2.964676681  10.6.15.145 → 192.168.1.16 TCP 68 22 → 52104 [ACK] Seq=173149 Ack=34177 Win=1452 Len=0 TSval=24112720 TSecr=1298196
+  732 2.982212935  10.6.15.145 → 192.168.1.16 SSH 208 Server: Encrypted packet (len=140)
+  733 2.982305006    127.0.0.1 → 127.0.0.1    TLSv1.2 170 Server Hello, Change Cipher Spec
+  734 2.983123914  10.6.15.145 → 192.168.1.16 SSH 176 Server: Encrypted packet (len=108)
+  735 2.983155197 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=34177 Ack=173397 Win=6157 Len=0 TSval=1298201 TSecr=24112725
+  736 2.983185410    127.0.0.1 → 127.0.0.1    TLSv1.2 137 Encrypted Handshake Message
+  737 2.983210742    127.0.0.1 → 127.0.0.1    TCP 68 47018 → 1080 [ACK] Seq=267 Ack=184 Win=43776 Len=0 TSval=1298201 TSecr=1298201
+  738 2.983250465    127.0.0.1 → 127.0.0.1    TLSv1.2 143 Change Cipher Spec, Encrypted Handshake Message
+  739 2.983252339    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 47018 [ACK] Seq=184 Ack=342 Win=44800 Len=0 TSval=1298201 TSecr=1298201
+  740 2.983327173 192.168.1.16 → 10.6.15.145  SSH 176 Client: Encrypted packet (len=108)
+  741 2.988941618  10.6.15.145 → 192.168.1.16 SSH 1016 Server: Encrypted packet (len=948)
+  742 2.989001595    127.0.0.1 → 127.0.0.1    Socks 969 Unknown
+  743 2.993414884  10.6.15.145 → 192.168.1.16 SSH 1016 Server: Encrypted packet (len=948)
+  744 2.993430913 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=34285 Ack=175293 Win=6157 Len=0 TSval=1298204 TSecr=24112727
+  745 2.993523586    127.0.0.1 → 127.0.0.1    Socks 969 Unknown
+  746 3.010324136 192.168.1.16 → 239.255.255.250 SSDP 215 M-SEARCH * HTTP/1.1 
+  747 3.031992466    127.0.0.1 → 127.0.0.1    TCP 68 46798 → 1080 [ACK] Seq=4923 Ack=1803 Win=484 Len=0 TSval=1298214 TSecr=1298203
+  748 3.036017496    127.0.0.1 → 127.0.0.1    TCP 68 46844 → 1080 [ACK] Seq=5691 Ack=1803 Win=463 Len=0 TSval=1298215 TSecr=1298204
+  749 3.077041009  10.6.15.145 → 192.168.1.16 SSH 104 Server: Encrypted packet (len=36)
+  750 3.077156990    127.0.0.1 → 127.0.0.1    Socks 78 Version: 5, Remote Port: 443 Command Response - Connect
+  751 3.077296291    127.0.0.1 → 127.0.0.1    SSL 272 Client Hello
+  752 3.077305226    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 47022 [ACK] Seq=13 Ack=231 Win=44800 Len=0 TSval=1298225 TSecr=1298225
+  753 3.077390023 192.168.1.16 → 10.6.15.145  SSH 168 Client: Encrypted packet (len=100)
+  754 3.078836951  10.6.15.145 → 192.168.1.16 SSH 808 Server: Encrypted packet (len=740)
+  755 3.078955624    127.0.0.1 → 127.0.0.1    Socks 761 Unknown
+  756 3.078964217    127.0.0.1 → 127.0.0.1    TCP 68 46820 → 1080 [ACK] Seq=2262 Ack=694 Win=382 Len=0 TSval=1298225 TSecr=1298225
+  757 3.102496671  10.6.15.145 → 192.168.1.16 SSH 140 Server: Encrypted packet (len=72)
+  758 3.102560528 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=34385 Ack=176141 Win=6157 Len=0 TSval=1298231 TSecr=24112749
+  759 3.102589506    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 46946 [FIN, ACK] Seq=5304 Ack=2907 Win=1382 Len=0 TSval=1298231 TSecr=1298170
+  760 3.102599219    127.0.0.1 → 127.0.0.1    TCP 68 46946 → 1080 [ACK] Seq=2907 Ack=5305 Win=2434 Len=0 TSval=1298231 TSecr=1298231
+  761 3.102708179 192.168.1.16 → 10.6.15.145  SSH 104 Client: Encrypted packet (len=36)
+  762 3.151277390  10.6.15.145 → 192.168.1.16 TCP 68 22 → 52104 [ACK] Seq=176141 Ack=34421 Win=1452 Len=0 TSval=24112768 TSecr=1298231
+  763 3.207554109  10.6.15.145 → 192.168.1.16 SSH 208 Server: Encrypted packet (len=140)
+  764 3.207644668    127.0.0.1 → 127.0.0.1    TLSv1.2 239 Server Hello, Change Cipher Spec, Encrypted Handshake Message
+  765 3.207749256    127.0.0.1 → 127.0.0.1    TLSv1.2 143 Change Cipher Spec, Encrypted Handshake Message
+  766 3.207757805    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 47020 [ACK] Seq=184 Ack=342 Win=44800 Len=0 TSval=1298257 TSecr=1298257
+  767 3.207828042 192.168.1.16 → 10.6.15.145  SSH 168 Client: Encrypted packet (len=100)
+  768 3.209414570  10.6.15.145 → 192.168.1.16 TCP 68 22 → 52104 [ACK] Seq=176281 Ack=34521 Win=1452 Len=0 TSval=24112782 TSecr=1298257
+  769 3.296295663  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  770 3.296322855  10.6.15.145 → 192.168.1.16 SSH 640 Server: Encrypted packet (len=572)
+  771 3.296337298 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=34521 Ack=178301 Win=6157 Len=0 TSval=1298280 TSecr=24112803
+  772 3.296461524    127.0.0.1 → 127.0.0.1    TLSv1.2 4164 Server Hello
+  773 3.296511835    127.0.0.1 → 127.0.0.1    TCP 68 47022 → 1080 [ACK] Seq=231 Ack=4109 Win=174720 Len=0 TSval=1298280 TSecr=1298280
+  774 3.297282904  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  775 3.297306896  10.6.15.145 → 192.168.1.16 SSH 296 Server: Encrypted packet (len=228)
+  776 3.297320045 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=34521 Ack=179977 Win=6157 Len=0 TSval=1298280 TSecr=24112804
+  777 3.297427917    127.0.0.1 → 127.0.0.1    TCP 2501 [TCP segment of a reassembled PDU], Server Key Exchange, Server Hello Done
+  778 3.298246178    127.0.0.1 → 127.0.0.1    TLSv1.2 194 Client Key Exchange, Change Cipher Spec, Hello Request, Hello Request
+  779 3.298255830    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 47022 [ACK] Seq=6542 Ack=357 Win=44800 Len=0 TSval=1298280 TSecr=1298280
+  780 3.298356163 192.168.1.16 → 10.6.15.145  SSH 216 Client: Encrypted packet (len=148)
+  781 3.299943469  10.6.15.145 → 192.168.1.16 TCP 68 22 → 52104 [ACK] Seq=179977 Ack=34669 Win=1452 Len=0 TSval=24112805 TSecr=1298280
+  782 4.008279519 192.168.1.16 → 224.0.0.251  MDNS 84 Standard query 0x0000 PTR _googlecast._tcp.local, "QM" question
+  783 4.009039420 fe80::60bd:1940:a0d8:49f9 → ff02::fb     MDNS 104 Standard query 0x0000 PTR _googlecast._tcp.local, "QM" question
+  784 4.009044158 192.168.1.16 → 224.0.0.251  MDNS 84 Standard query 0x0000 PTR _googlecast._tcp.local, "QM" question
+  785 4.009045808 fe80::60bd:1940:a0d8:49f9 → ff02::fb     MDNS 104 Standard query 0x0000 PTR _googlecast._tcp.local, "QM" question
+  786 4.010405156  10.6.15.145 → 192.168.1.16 SSH 152 Server: Encrypted packet (len=84)
+  787 4.010436937  10.6.15.145 → 192.168.1.16 TCP 152 [TCP Retransmission] 22 → 52104 [PSH, ACK] Seq=179977 Ack=34669 Win=1452 Len=84 TSval=24112932 TSecr=1298280
+  788 4.010452398 192.168.1.16 → 10.6.15.145  TCP 80 52104 → 22 [ACK] Seq=34669 Ack=180061 Win=6157 Len=0 TSval=1298458 TSecr=24112932 SLE=179977 SRE=180061
+  789 4.010486215 192.168.1.16 → 239.255.255.250 SSDP 215 M-SEARCH * HTTP/1.1 
+  790 4.010540413    127.0.0.1 → 127.0.0.1    TLSv1.2 119 Change Cipher Spec, Encrypted Handshake Message
+  791 4.014656657    127.0.0.1 → 127.0.0.1    TLSv1.2 2204 Application Data
+  792 4.014669140    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 47022 [ACK] Seq=6593 Ack=2493 Win=175744 Len=0 TSval=1298459 TSecr=1298459
+  793 4.014980328 192.168.1.16 → 10.6.15.145  SSH 1516 Client: Encrypted packet (len=1448)
+  794 4.015523653 192.168.1.16 → 10.6.15.145  SSH 800 Client: Encrypted packet (len=732)
+  795 4.018154914  10.6.15.145 → 192.168.1.16 TCP 68 22 → 52104 [ACK] Seq=180061 Ack=36849 Win=1447 Len=0 TSval=24112984 TSecr=1298459
+  796 4.962834910  10.6.15.145 → 192.168.1.16 SSH 816 Server: Encrypted packet (len=748)
+  797 4.962858177  10.6.15.145 → 192.168.1.16 SSH 384 Server: Encrypted packet (len=316)
+  798 4.962863466  10.6.15.145 → 192.168.1.16 SSH 104 Server: Encrypted packet (len=36)
+  799 4.962919382 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=36849 Ack=181161 Win=6157 Len=0 TSval=1298696 TSecr=24113039
+  800 4.962998393    127.0.0.1 → 127.0.0.1    Socks 340 Version: 5
+  801 4.963009244    127.0.0.1 → 127.0.0.1    TLSv1.2 770 Application Data
+  802 4.963024894    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 46948 [FIN, ACK] Seq=420 Ack=569 Win=350 Len=0 TSval=1298696 TSecr=1297535
+  803 4.975968230    127.0.0.1 → 127.0.0.1    TCP 68 [TCP Retransmission] 1080 → 46948 [FIN, ACK] Seq=420 Ack=569 Win=350 Len=0 TSval=1298700 TSecr=1297535
+  804 4.975999141    127.0.0.1 → 127.0.0.1    TCP 80 46948 → 1080 [ACK] Seq=569 Ack=421 Win=359 Len=0 TSval=1298700 TSecr=1298696 SLE=420 SRE=421
+  805 5.004020121    127.0.0.1 → 127.0.0.1    TCP 68 47022 → 1080 [ACK] Seq=2493 Ack=7295 Win=313856 Len=0 TSval=1298707 TSecr=1298696
+  806 5.008819785 192.168.1.16 → 224.0.0.251  MDNS 84 Standard query 0x0000 PTR _googlecast._tcp.local, "QM" question
+  807 5.008873771 fe80::60bd:1940:a0d8:49f9 → ff02::fb     MDNS 104 Standard query 0x0000 PTR _googlecast._tcp.local, "QM" question
+  808 5.008925733 192.168.1.16 → 224.0.0.251  MDNS 84 Standard query 0x0000 PTR _googlecast._tcp.local, "QM" question
+  809 5.008942373 fe80::60bd:1940:a0d8:49f9 → ff02::fb     MDNS 104 Standard query 0x0000 PTR _googlecast._tcp.local, "QM" question
+  810 5.867155983    127.0.0.1 → 127.0.0.1    Socks 824 Unknown
+  811 5.867169467    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 46602 [ACK] Seq=77824 Ack=2032 Win=642 Len=0 TSval=1298922 TSecr=1298922
+  812 5.867193569    127.0.0.1 → 127.0.0.1    Socks 917 Unknown
+  813 5.867197019    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 46602 [ACK] Seq=77824 Ack=2881 Win=657 Len=0 TSval=1298922 TSecr=1298922
+  814 5.867465858 192.168.1.16 → 10.6.15.145  SSH 1516 Client: Encrypted packet (len=1448)
+  815 5.868780995 192.168.1.16 → 10.6.15.145  SSH 272 Client: Encrypted packet (len=204)
+  816 5.870832595  10.6.15.145 → 192.168.1.16 TCP 68 22 → 52104 [ACK] Seq=181161 Ack=38297 Win=1452 Len=0 TSval=24113447 TSecr=1298922
+  817 5.870854898  10.6.15.145 → 192.168.1.16 TCP 68 22 → 52104 [ACK] Seq=181161 Ack=38501 Win=1451 Len=0 TSval=24113447 TSecr=1298923
+  818 5.919703331  10.6.15.145 → 192.168.1.16 SSH 144 Server: Encrypted packet (len=76)
+  819 5.919824745    127.0.0.1 → 127.0.0.1    Socks 110 Unknown
+  820 5.919829330    127.0.0.1 → 127.0.0.1    TCP 68 46602 → 1080 [ACK] Seq=2881 Ack=77866 Win=18423 Len=0 TSval=1298935 TSecr=1298935
+  821 5.960044092 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=38501 Ack=181237 Win=6157 Len=0 TSval=1298946 TSecr=24113459
+  822 7.009201850 192.168.1.16 → 224.0.0.251  MDNS 84 Standard query 0x0000 PTR _googlecast._tcp.local, "QM" question
+  823 7.009247594 fe80::60bd:1940:a0d8:49f9 → ff02::fb     MDNS 104 Standard query 0x0000 PTR _googlecast._tcp.local, "QM" question
+  824 7.009312431 192.168.1.16 → 224.0.0.251  MDNS 84 Standard query 0x0000 PTR _googlecast._tcp.local, "QM" question
+  825 7.009331009 fe80::60bd:1940:a0d8:49f9 → ff02::fb     MDNS 104 Standard query 0x0000 PTR _googlecast._tcp.local, "QM" question
+  826 7.011139358  10.6.15.145 → 192.168.1.16 SSH 1392 Server: Encrypted packet (len=1324)
+  827 7.011175548 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=38501 Ack=182561 Win=6157 Len=0 TSval=1299208 TSecr=24113528
+  828 7.011245111  10.6.15.145 → 192.168.1.16 SSH 1392 Server: [TCP Spurious Retransmission] , Encrypted packet (len=1324)
+  829 7.011253428 192.168.1.16 → 10.6.15.145  TCP 80 [TCP Dup ACK 827#1] 52104 → 22 [ACK] Seq=38501 Ack=182561 Win=6157 Len=0 TSval=1299208 TSecr=24113633 SLE=181237 SRE=182561
+  830 7.011355232    127.0.0.1 → 127.0.0.1    Socks 1345 Unknown
+  831 7.011367525    127.0.0.1 → 127.0.0.1    TCP 68 46602 → 1080 [ACK] Seq=2881 Ack=79143 Win=18414 Len=0 TSval=1299208 TSecr=1299208
+  832 7.061763568    127.0.0.1 → 127.0.0.1    Socks 2553 Unknown
+  833 7.061781014    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 46844 [ACK] Seq=1803 Ack=8176 Win=3637 Len=0 TSval=1299221 TSecr=1299221
+  834 7.062187597 192.168.1.16 → 10.6.15.145  SSH 1516 Client: Encrypted packet (len=1448)
+  835 7.062760982 192.168.1.16 → 10.6.15.145  SSH 1152 Client: Encrypted packet (len=1084)
+  836 7.063003127    127.0.0.1 → 127.0.0.1    Socks 2905 Unknown
+  837 7.063017303    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 46798 [ACK] Seq=1803 Ack=7760 Win=3637 Len=0 TSval=1299221 TSecr=1299221
+  838 7.063291020 192.168.1.16 → 10.6.15.145  SSH 1516 Client: Encrypted packet (len=1448)
+  839 7.063834281 192.168.1.16 → 10.6.15.145  SSH 1504 Client: Encrypted packet (len=1436)
+  840 7.064863137  10.6.15.145 → 192.168.1.16 TCP 68 22 → 52104 [ACK] Seq=182561 Ack=39949 Win=1452 Len=0 TSval=24113746 TSecr=1299221
+  841 7.065846145  10.6.15.145 → 192.168.1.16 TCP 68 22 → 52104 [ACK] Seq=182561 Ack=41033 Win=1452 Len=0 TSval=24113746 TSecr=1299221
+  842 7.065859341  10.6.15.145 → 192.168.1.16 TCP 68 22 → 52104 [ACK] Seq=182561 Ack=42481 Win=1452 Len=0 TSval=24113746 TSecr=1299221
+  843 7.067638799  10.6.15.145 → 192.168.1.16 TCP 68 22 → 52104 [ACK] Seq=182561 Ack=43917 Win=1452 Len=0 TSval=24113747 TSecr=1299221
+  844 8.002202302  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  845 8.002241980 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=43917 Ack=184009 Win=6157 Len=0 TSval=1299456 TSecr=24113811
+  846 8.002265226  10.6.15.145 → 192.168.1.16 SSH 516 Server: Encrypted packet (len=448)
+  847 8.002274750 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=43917 Ack=184457 Win=6157 Len=0 TSval=1299456 TSecr=24113811
+  848 8.002286590  10.6.15.145 → 192.168.1.16 SSH 516 Server: [TCP Spurious Retransmission] , Encrypted packet (len=448)
+  849 8.002293047 192.168.1.16 → 10.6.15.145  TCP 80 [TCP Dup ACK 847#1] 52104 → 22 [ACK] Seq=43917 Ack=184457 Win=6157 Len=0 TSval=1299456 TSecr=24113927 SLE=184009 SRE=184457
+  850 8.002459576    127.0.0.1 → 127.0.0.1    Socks 969 Unknown
+  851 8.002473448    127.0.0.1 → 127.0.0.1    TCP 68 46798 → 1080 [ACK] Seq=7760 Ack=2704 Win=498 Len=0 TSval=1299456 TSecr=1299456
+  852 8.002490700    127.0.0.1 → 127.0.0.1    Socks 969 Unknown
+  853 8.002496055    127.0.0.1 → 127.0.0.1    TCP 68 46844 → 1080 [ACK] Seq=8176 Ack=2704 Win=477 Len=0 TSval=1299456 TSecr=1299456
+  854 9.985928236  10.6.15.145 → 192.168.1.16 SSH 136 Server: Encrypted packet (len=68)
+  855 9.985952475 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=43917 Ack=184525 Win=6157 Len=0 TSval=1299952 TSecr=24114267
+  856 9.985975694  10.6.15.145 → 192.168.1.16 SSH 104 Server: Encrypted packet (len=36)
+  857 9.985983504 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=43917 Ack=184561 Win=6157 Len=0 TSval=1299952 TSecr=24114267
+  858 9.985990374  10.6.15.145 → 192.168.1.16 SSH 104 Server: [TCP Spurious Retransmission] , Encrypted packet (len=36)
+  859 9.985992879 192.168.1.16 → 10.6.15.145  TCP 80 [TCP Dup ACK 857#1] 52104 → 22 [ACK] Seq=43917 Ack=184561 Win=6157 Len=0 TSval=1299952 TSecr=24114435 SLE=184525 SRE=184561
+  860 9.986088583    127.0.0.1 → 127.0.0.1    Socks 99 Unknown
+  861 9.986108932    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 46704 [FIN, ACK] Seq=32 Ack=1 Win=359 Len=0 TSval=1299952 TSecr=1282784
+  862 9.986187853    127.0.0.1 → 127.0.0.1    TCP 68 46704 → 1080 [FIN, ACK] Seq=1 Ack=33 Win=3471 Len=0 TSval=1299952 TSecr=1299952
+  863 9.986196159    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 46704 [ACK] Seq=33 Ack=2 Win=359 Len=0 TSval=1299952 TSecr=1299952
+  864 9.986258008 192.168.1.16 → 10.6.15.145  SSH 140 Client: Encrypted packet (len=72)
+  865 9.987507688  10.6.15.145 → 192.168.1.16 TCP 68 22 → 52104 [ACK] Seq=184561 Ack=43989 Win=1452 Len=0 TSval=24114477 TSecr=1299952
+  866 9.987897601  10.6.15.145 → 192.168.1.16 SSH 104 Server: Encrypted packet (len=36)
+  867 10.027979075 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=43989 Ack=184597 Win=6157 Len=0 TSval=1299963 TSecr=24114477
+  868 11.009978049  10.6.15.145 → 192.168.1.16 SSH 168 Server: Encrypted packet (len=100)
+  869 11.009998224 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=43989 Ack=184697 Win=6157 Len=0 TSval=1300208 TSecr=24114538
+  870 11.010009161  10.6.15.145 → 192.168.1.16 SSH 104 Server: Encrypted packet (len=36)
+  871 11.010012454 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=43989 Ack=184733 Win=6157 Len=0 TSval=1300208 TSecr=24114538
+  872 11.010100395    127.0.0.1 → 127.0.0.1    Socks 145 Unknown
+  873 11.010104483    127.0.0.1 → 127.0.0.1    TCP 68 46918 → 1080 [ACK] Seq=1 Ack=78 Win=1578 Len=0 TSval=1300208 TSecr=1300208
+  874 11.010123654    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 46918 [FIN, ACK] Seq=78 Ack=1 Win=367 Len=0 TSval=1300208 TSecr=1300208
+  875 11.010183115    127.0.0.1 → 127.0.0.1    TCP 68 46918 → 1080 [FIN, ACK] Seq=1 Ack=79 Win=1578 Len=0 TSval=1300208 TSecr=1300208
+  876 11.010190318    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 46918 [ACK] Seq=79 Ack=2 Win=367 Len=0 TSval=1300208 TSecr=1300208
+  877 11.010275929 192.168.1.16 → 10.6.15.145  SSH 140 Client: Encrypted packet (len=72)
+  878 11.012014836  10.6.15.145 → 192.168.1.16 SSH 104 Server: Encrypted packet (len=36)
+  879 11.055963206 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=44061 Ack=184769 Win=6157 Len=0 TSval=1300220 TSecr=24114733
+  880 12.035040513    127.0.0.1 → 127.0.0.1    Socks 196 Unknown
+  881 12.035057786    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 46818 [ACK] Seq=158 Ack=953 Win=2511 Len=0 TSval=1300464 TSecr=1300464
+  882 12.035087104    127.0.0.1 → 127.0.0.1    Socks 114 Unknown
+  883 12.035091499    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 46818 [ACK] Seq=158 Ack=999 Win=2511 Len=0 TSval=1300464 TSecr=1300464
+  884 12.035103421    127.0.0.1 → 127.0.0.1    Socks 1089 Unknown
+  885 12.035106278    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 46818 [ACK] Seq=158 Ack=2020 Win=2547 Len=0 TSval=1300464 TSecr=1300464
+  886 12.035395789 192.168.1.16 → 10.6.15.145  SSH 1304 Client: Encrypted packet (len=1236)
+  887 12.063315282    127.0.0.1 → 127.0.0.1    TCP 68 46948 → 1080 [RST, ACK] Seq=569 Ack=421 Win=359 Len=0 TSval=1300471 TSecr=1298696
+  888 12.063391625    127.0.0.1 → 127.0.0.1    TCP 68 46956 → 1080 [FIN, ACK] Seq=294 Ack=141 Win=350 Len=0 TSval=1300471 TSecr=1297708
+  889 12.063429152    127.0.0.1 → 127.0.0.1    TCP 68 46954 → 1080 [FIN, ACK] Seq=294 Ack=141 Win=350 Len=0 TSval=1300471 TSecr=1297709
+  890 12.063431344 192.168.1.16 → 10.6.15.145  SSH 140 Client: Encrypted packet (len=72)
+  891 12.063459962    127.0.0.1 → 127.0.0.1    TCP 68 46958 → 1080 [FIN, ACK] Seq=294 Ack=141 Win=350 Len=0 TSval=1300471 TSecr=1297709
+  892 12.063496059    127.0.0.1 → 127.0.0.1    TCP 68 46962 → 1080 [FIN, ACK] Seq=296 Ack=154 Win=350 Len=0 TSval=1300471 TSecr=1297708
+  893 12.063522465    127.0.0.1 → 127.0.0.1    TCP 68 46960 → 1080 [FIN, ACK] Seq=296 Ack=154 Win=350 Len=0 TSval=1300471 TSecr=1297829
+  894 12.063550352    127.0.0.1 → 127.0.0.1    TCP 68 46964 → 1080 [RST, ACK] Seq=477 Ack=3184 Win=1408 Len=0 TSval=1300471 TSecr=1297461
+  895 12.063585699    127.0.0.1 → 127.0.0.1    TCP 68 46966 → 1080 [RST, ACK] Seq=477 Ack=3185 Win=1408 Len=0 TSval=1300471 TSecr=1297461
+  896 12.063618527    127.0.0.1 → 127.0.0.1    TCP 68 46968 → 1080 [RST, ACK] Seq=477 Ack=3185 Win=1408 Len=0 TSval=1300471 TSecr=1297462
+  897 12.063653176    127.0.0.1 → 127.0.0.1    TCP 68 46970 → 1080 [RST, ACK] Seq=472 Ack=3369 Win=1411 Len=0 TSval=1300471 TSecr=1297462
+  898 12.063688600    127.0.0.1 → 127.0.0.1    TCP 68 46972 → 1080 [RST, ACK] Seq=734 Ack=240 Win=350 Len=0 TSval=1300471 TSecr=1297462
+  899 12.063863067    127.0.0.1 → 127.0.0.1    Socks 2441 Unknown
+  900 12.063870089    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 46844 [ACK] Seq=2704 Ack=10549 Win=3637 Len=0 TSval=1300471 TSecr=1300471
+  901 12.064224752 192.168.1.16 → 10.6.15.145  SSH 1516 Client: Encrypted packet (len=1448)
+  902 12.064228016    127.0.0.1 → 127.0.0.1    Socks 2921 Unknown
+  903 12.064234724    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 46798 [ACK] Seq=2704 Ack=10613 Win=3637 Len=0 TSval=1300472 TSecr=1300472
+  904 12.069271892 192.168.1.16 → 10.6.15.145  SSH 1516 Client: Encrypted packet (len=1448)
+  905 12.092376006 192.168.1.16 → 10.6.15.145  SSH 1516 Client: Encrypted packet (len=1448)
+  906 12.094232168  10.6.15.145 → 192.168.1.16 TCP 80 [TCP Dup ACK 878#1] 22 → 52104 [ACK] Seq=184769 Ack=44061 Win=1452 Len=0 TSval=24115002 TSecr=1300220 SLE=45297 SRE=45369
+  907 12.094250863 192.168.1.16 → 10.6.15.145  SSH 1404 Client: Encrypted packet (len=1336)
+  908 12.095980886 192.168.1.16 → 216.58.220.42 TCP 68 44246 → 443 [ACK] Seq=1 Ack=1 Win=384 Len=0 TSval=1300480 TSecr=4150880501
+  909 12.103995758    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 46960 [ACK] Seq=154 Ack=297 Win=350 Len=0 TSval=1300482 TSecr=1300471
+  910 12.103997615    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 46962 [ACK] Seq=154 Ack=297 Win=350 Len=0 TSval=1300482 TSecr=1300471
+  911 12.103999157    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 46958 [ACK] Seq=141 Ack=295 Win=350 Len=0 TSval=1300482 TSecr=1300471
+  912 12.104001316    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 46954 [ACK] Seq=141 Ack=295 Win=350 Len=0 TSval=1300482 TSecr=1300471
+  913 12.104002835    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 46956 [ACK] Seq=141 Ack=295 Win=350 Len=0 TSval=1300482 TSecr=1300471
+  914 12.248013692 192.168.1.16 → 10.6.15.145  TCP 1304 [TCP Retransmission] 52104 → 22 [PSH, ACK] Seq=44061 Ack=184769 Win=6157 Len=1236 TSval=1300518 TSecr=24115002
+  915 12.254819279 216.58.220.42 → 192.168.1.16 TCP 68 [TCP ACKed unseen segment] 443 → 44246 [ACK] Seq=1 Ack=2 Win=177 Len=0 TSval=4150925685 TSecr=1266613
+  916 12.255651868  10.6.15.145 → 192.168.1.16 TCP 68 22 → 52104 [ACK] Seq=184769 Ack=45369 Win=1451 Len=0 TSval=24115044 TSecr=1300518
+  917 12.258254585  10.6.15.145 → 192.168.1.16 SSH 104 Server: Encrypted packet (len=36)
+  918 12.258697163  10.6.15.145 → 192.168.1.16 SSH 144 Server: Encrypted packet (len=76)
+  919 12.258740443    127.0.0.1 → 127.0.0.1    Socks 114 Unknown
+  920 12.268005883 192.168.1.16 → 10.6.15.145  TCP 1516 [TCP Retransmission] 52104 → 22 [ACK] Seq=45369 Ack=184769 Win=6157 Len=1448 TSval=1300519 TSecr=24115044
+  921 12.268024308 192.168.1.16 → 10.6.15.145  TCP 1516 [TCP Retransmission] 52104 → 22 [ACK] Seq=46817 Ack=184769 Win=6157 Len=1448 TSval=1300519 TSecr=24115044
+  922 12.268028168 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=51049 Ack=184805 Win=6157 Len=0 TSval=1300520 TSecr=24115044
+  923 12.268029895 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=51049 Ack=184881 Win=6157 Len=0 TSval=1300520 TSecr=24115044
+  924 12.299968238    127.0.0.1 → 127.0.0.1    TCP 68 46818 → 1080 [ACK] Seq=2020 Ack=204 Win=1424 Len=0 TSval=1300531 TSecr=1300520
+  925 12.467968833 192.168.1.16 → 10.6.15.145  TCP 1516 [TCP Retransmission] 52104 → 22 [ACK] Seq=45369 Ack=184881 Win=6157 Len=1448 TSval=1300573 TSecr=24115044
+  926 12.470361895  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  927 12.470378697 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=51049 Ack=186329 Win=6157 Len=0 TSval=1300573 TSecr=24115086
+  928 12.470386995  10.6.15.145 → 192.168.1.16 SSH 168 Server: Encrypted packet (len=100)
+  929 12.470390404 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=51049 Ack=186429 Win=6157 Len=0 TSval=1300573 TSecr=24115086
+  930 12.470470940    127.0.0.1 → 127.0.0.1    Socks 1572 Unknown
+  931 12.470474272    127.0.0.1 → 127.0.0.1    TCP 68 46818 → 1080 [ACK] Seq=2020 Ack=1708 Win=2448 Len=0 TSval=1300573 TSecr=1300573
+  932 12.470552925  10.6.15.145 → 192.168.1.16 SSH 1516 Server: Encrypted packet (len=1448)
+  933 12.470556432 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=51049 Ack=187877 Win=6157 Len=0 TSval=1300573 TSecr=24115087
+  934 12.474782317  10.6.15.145 → 192.168.1.16 SSH 1088 Server: Encrypted packet (len=1020)
+  935 12.474799926 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=51049 Ack=188897 Win=6157 Len=0 TSval=1300574 TSecr=24115087
+  936 12.474820926  10.6.15.145 → 192.168.1.16 SSH 416 Server: Encrypted packet (len=348)
+  937 12.474824996 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=51049 Ack=189245 Win=6157 Len=0 TSval=1300574 TSecr=24115087
+  938 12.474833246  10.6.15.145 → 192.168.1.16 SSH 212 Server: Encrypted packet (len=144)
+  939 12.474841941 192.168.1.16 → 10.6.15.145  TCP 1516 [TCP Retransmission] 52104 → 22 [ACK] Seq=46817 Ack=189389 Win=6157 Len=1448 TSval=1300574 TSecr=24115098
+  940 12.474850467 192.168.1.16 → 10.6.15.145  TCP 1516 [TCP Retransmission] 52104 → 22 [ACK] Seq=48265 Ack=189389 Win=6157 Len=1448 TSval=1300574 TSecr=24115098
+  941 12.474857817  10.6.15.145 → 192.168.1.16 SSH 140 Server: Encrypted packet (len=72)
+  942 12.474861837  10.6.15.145 → 192.168.1.16 SSH 140 Server: Encrypted packet (len=72)
+  943 12.474914798 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=51049 Ack=189533 Win=6157 Len=0 TSval=1300574 TSecr=24115098
+  944 12.475197744    127.0.0.1 → 127.0.0.1    Socks 2811 Unknown
+  945 12.475201991    127.0.0.1 → 127.0.0.1    TCP 68 46818 → 1080 [ACK] Seq=2020 Ack=4451 Win=3471 Len=0 TSval=1300574 TSecr=1300574
+  946 12.475554923    127.0.0.1 → 127.0.0.1    Socks 114 Unknown
+  947 12.475562225    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 46818 [ACK] Seq=4451 Ack=2066 Win=2547 Len=0 TSval=1300574 TSecr=1300574
+  948 12.476957950    127.0.0.1 → 127.0.0.1    Socks 196 Unknown
+  949 12.476965372    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 46818 [ACK] Seq=4451 Ack=2194 Win=2547 Len=0 TSval=1300575 TSecr=1300575
+  950 12.476997584    127.0.0.1 → 127.0.0.1    Socks 1515 Unknown
+  951 12.477001972    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 46818 [ACK] Seq=4451 Ack=3641 Win=3570 Len=0 TSval=1300575 TSecr=1300575
+  952 12.477524045  10.6.15.145 → 192.168.1.16 TCP 68 22 → 52104 [ACK] Seq=189533 Ack=49713 Win=1452 Len=0 TSval=24115099 TSecr=1300574
+  953 12.477535200 192.168.1.16 → 10.6.15.145  TCP 1404 [TCP Retransmission] 52104 → 22 [PSH, ACK] Seq=49713 Ack=189533 Win=6157 Len=1336 TSval=1300575 TSecr=24115099
+  954 12.477545036 192.168.1.16 → 10.6.15.145  SSH 1516 Client: Encrypted packet (len=1448)
+  955 12.479966903  10.6.15.145 → 192.168.1.16 TCP 68 22 → 52104 [ACK] Seq=189533 Ack=52497 Win=1452 Len=0 TSval=24115100 TSecr=1300575
+  956 12.479975714 192.168.1.16 → 10.6.15.145  SSH 460 Client: Encrypted packet (len=392)
+  957 12.484370846  10.6.15.145 → 192.168.1.16 SSH 140 Server: Encrypted packet (len=72)
+  958 12.484603983 192.168.1.16 → 10.6.15.145  SSH 104 Client: Encrypted packet (len=36)
+  959 12.523385751  10.6.15.145 → 192.168.1.16 TCP 68 22 → 52104 [ACK] Seq=189605 Ack=52925 Win=1452 Len=0 TSval=24115111 TSecr=1300577
+  960 12.611815616  10.6.15.145 → 192.168.1.16 SSH 752 Server: Encrypted packet (len=684)
+  961 12.611937250    127.0.0.1 → 127.0.0.1    Socks 707 Unknown
+  962 12.613836255  10.6.15.145 → 192.168.1.16 SSH 552 Server: Encrypted packet (len=484)
+  963 12.613909795 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=52925 Ack=190773 Win=6157 Len=0 TSval=1300609 TSecr=24115133
+  964 12.613959967    127.0.0.1 → 127.0.0.1    Socks 520 Unknown
+  965 12.614006825    127.0.0.1 → 127.0.0.1    TCP 68 46818 → 1080 [ACK] Seq=3641 Ack=5542 Win=3556 Len=0 TSval=1300609 TSecr=1300608
+  966 12.614248040    127.0.0.1 → 127.0.0.1    Socks 114 Unknown
+  967 12.614251182    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 46818 [ACK] Seq=5542 Ack=3687 Win=3570 Len=0 TSval=1300609 TSecr=1300609
+  968 12.614316256 192.168.1.16 → 10.6.15.145  SSH 136 Client: Encrypted packet (len=68)
+  969 12.615806547  10.6.15.145 → 192.168.1.16 TCP 68 22 → 52104 [ACK] Seq=190773 Ack=52993 Win=1452 Len=0 TSval=24115134 TSecr=1300609
+  970 12.679799150  10.6.15.145 → 192.168.1.16 SSH 140 Server: Encrypted packet (len=72)
+  971 12.679887257    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 46956 [FIN, ACK] Seq=141 Ack=295 Win=350 Len=0 TSval=1300625 TSecr=1300471
+  972 12.679896824    127.0.0.1 → 127.0.0.1    TCP 68 46956 → 1080 [ACK] Seq=295 Ack=142 Win=350 Len=0 TSval=1300625 TSecr=1300625
+  973 12.680022784 192.168.1.16 → 10.6.15.145  SSH 104 Client: Encrypted packet (len=36)
+  974 12.680909434  10.6.15.145 → 192.168.1.16 SSH 140 Server: Encrypted packet (len=72)
+  975 12.680995369    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 46962 [FIN, ACK] Seq=154 Ack=297 Win=350 Len=0 TSval=1300626 TSecr=1300471
+  976 12.681005287    127.0.0.1 → 127.0.0.1    TCP 68 46962 → 1080 [ACK] Seq=297 Ack=155 Win=350 Len=0 TSval=1300626 TSecr=1300626
+  977 12.681106996 192.168.1.16 → 10.6.15.145  SSH 104 Client: Encrypted packet (len=36)
+  978 12.681856876  10.6.15.145 → 192.168.1.16 TCP 68 22 → 52104 [ACK] Seq=190917 Ack=53029 Win=1452 Len=0 TSval=24115150 TSecr=1300626
+  979 12.682787269  10.6.15.145 → 192.168.1.16 TCP 68 22 → 52104 [ACK] Seq=190917 Ack=53065 Win=1452 Len=0 TSval=24115150 TSecr=1300626
+  980 12.683181610  10.6.15.145 → 192.168.1.16 SSH 140 Server: Encrypted packet (len=72)
+  981 12.683248095    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 46960 [FIN, ACK] Seq=154 Ack=297 Win=350 Len=0 TSval=1300626 TSecr=1300471
+  982 12.683257323    127.0.0.1 → 127.0.0.1    TCP 68 46960 → 1080 [ACK] Seq=297 Ack=155 Win=350 Len=0 TSval=1300626 TSecr=1300626
+  983 12.683354789 192.168.1.16 → 10.6.15.145  SSH 104 Client: Encrypted packet (len=36)
+  984 12.685400099  10.6.15.145 → 192.168.1.16 SSH 212 Server: Encrypted packet (len=144)
+  985 12.685485944    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 46954 [FIN, ACK] Seq=141 Ack=295 Win=350 Len=0 TSval=1300627 TSecr=1300471
+  986 12.685495493    127.0.0.1 → 127.0.0.1    TCP 68 46954 → 1080 [ACK] Seq=295 Ack=142 Win=350 Len=0 TSval=1300627 TSecr=1300627
+  987 12.685505507    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 46958 [FIN, ACK] Seq=141 Ack=295 Win=350 Len=0 TSval=1300627 TSecr=1300471
+  988 12.685507251    127.0.0.1 → 127.0.0.1    TCP 68 46958 → 1080 [ACK] Seq=295 Ack=142 Win=350 Len=0 TSval=1300627 TSecr=1300627
+  989 12.685640397 192.168.1.16 → 10.6.15.145  SSH 140 Client: Encrypted packet (len=72)
+  990 12.723263300  10.6.15.145 → 192.168.1.16 TCP 68 22 → 52104 [ACK] Seq=191133 Ack=53173 Win=1452 Len=0 TSval=24115161 TSecr=1300627
+  991 12.736305128  10.6.15.145 → 192.168.1.16 SSH 1016 Server: Encrypted packet (len=948)
+  992 12.736533226    127.0.0.1 → 127.0.0.1    Socks 969 Unknown
+  993 12.736552501    127.0.0.1 → 127.0.0.1    TCP 68 46844 → 1080 [ACK] Seq=10549 Ack=3605 Win=491 Len=0 TSval=1300640 TSecr=1300640
+  994 12.737950652  10.6.15.145 → 192.168.1.16 SSH 1016 Server: Encrypted packet (len=948)
+  995 12.737974815 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=53173 Ack=193029 Win=6157 Len=0 TSval=1300640 TSecr=24115164
+  996 12.738158290    127.0.0.1 → 127.0.0.1    Socks 969 Unknown
+  997 12.738179816    127.0.0.1 → 127.0.0.1    TCP 68 46798 → 1080 [ACK] Seq=10613 Ack=3605 Win=512 Len=0 TSval=1300640 TSecr=1300640
+  998 17.085618514    127.0.0.1 → 127.0.0.1    TCP 68 47018 → 1080 [FIN, ACK] Seq=342 Ack=184 Win=43776 Len=0 TSval=1301727 TSecr=1298201
+  999 17.085728473    127.0.0.1 → 127.0.0.1    TCP 68 47020 → 1080 [FIN, ACK] Seq=342 Ack=184 Win=44800 Len=0 TSval=1301727 TSecr=1298257
+ 1000 17.085753733 192.168.1.16 → 10.6.15.145  SSH 104 Client: Encrypted packet (len=36)
+ 1001 17.086181052    127.0.0.1 → 127.0.0.1    Socks 2441 Unknown
+ 1002 17.086192493    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 46798 [ACK] Seq=3605 Ack=12986 Win=3637 Len=0 TSval=1301727 TSecr=1301727
+ 1003 17.086671406 192.168.1.16 → 10.6.15.145  SSH 1516 Client: Encrypted packet (len=1448)
+ 1004 17.086920048    127.0.0.1 → 127.0.0.1    Socks 2873 Unknown
+ 1005 17.086932421    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 46844 [ACK] Seq=3605 Ack=13354 Win=3637 Len=0 TSval=1301727 TSecr=1301727
+ 1006 17.091936124 192.168.1.16 → 10.6.15.145  SSH 1516 Client: Encrypted packet (len=1448)
+ 1007 17.092024799  10.6.15.145 → 192.168.1.16 TCP 68 22 → 52104 [ACK] Seq=193029 Ack=53209 Win=1452 Len=0 TSval=24116253 TSecr=1301727
+ 1008 17.110284065 192.168.1.16 → 10.6.15.145  SSH 1516 Client: Encrypted packet (len=1448)
+ 1009 17.110294391 192.168.1.16 → 10.6.15.145  SSH 1032 Client: Encrypted packet (len=964)
+ 1010 17.128000600    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 47020 [ACK] Seq=184 Ack=343 Win=44800 Len=0 TSval=1301738 TSecr=1301727
+ 1011 17.128006045    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 47018 [ACK] Seq=184 Ack=343 Win=44800 Len=0 TSval=1301738 TSecr=1301727
+ 1012 17.135988705 192.168.1.16 → 10.6.15.145  TCP 1032 [TCP Retransmission] 52104 → 22 [PSH, ACK] Seq=57553 Ack=193029 Win=6157 Len=964 TSval=1301740 TSecr=24116253
+ 1013 17.352019491 192.168.1.16 → 10.6.15.145  TCP 1516 [TCP Retransmission] 52104 → 22 [ACK] Seq=53209 Ack=193029 Win=6157 Len=1448 TSval=1301794 TSecr=24116253
+ 1014 17.361827802  10.6.15.145 → 192.168.1.16 TCP 80 [TCP Dup ACK 1007#1] 22 → 52104 [ACK] Seq=193029 Ack=53209 Win=1452 Len=0 TSval=24116295 TSecr=1301727 SLE=57553 SRE=58517
+ 1015 17.362172263  10.6.15.145 → 192.168.1.16 SSH 152 Server: Encrypted packet (len=72)
+ 1016 17.362254069    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 47018 [FIN, ACK] Seq=184 Ack=343 Win=44800 Len=0 TSval=1301796 TSecr=1301727
+ 1017 17.362264466    127.0.0.1 → 127.0.0.1    TCP 68 47018 → 1080 [ACK] Seq=343 Ack=185 Win=43776 Len=0 TSval=1301796 TSecr=1301796
+ 1018 17.362892212  10.6.15.145 → 192.168.1.16 TCP 80 22 → 52104 [ACK] Seq=193101 Ack=54657 Win=1446 Len=0 TSval=24116320 TSecr=1301794 SLE=57553 SRE=58517
+ 1019 17.362903112 192.168.1.16 → 10.6.15.145  SSH 104 Client: Encrypted packet (len=36)
+ 1020 17.575994836 192.168.1.16 → 10.6.15.145  TCP 1516 [TCP Retransmission] 52104 → 22 [ACK] Seq=54657 Ack=193101 Win=6157 Len=1448 TSval=1301850 TSecr=24116313
+ 1021 17.605667984  10.6.15.145 → 192.168.1.16 SSH 152 Server: Encrypted packet (len=72)
+ 1022 17.605742745    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 47020 [FIN, ACK] Seq=184 Ack=343 Win=44800 Len=0 TSval=1301857 TSecr=1301727
+ 1023 17.605751076    127.0.0.1 → 127.0.0.1    TCP 68 47020 → 1080 [ACK] Seq=343 Ack=185 Win=44800 Len=0 TSval=1301857 TSecr=1301857
+ 1024 17.609883355  10.6.15.145 → 192.168.1.16 TCP 80 22 → 52104 [ACK] Seq=193173 Ack=56105 Win=1446 Len=0 TSval=24116382 TSecr=1301850 SLE=57553 SRE=58517
+ 1025 17.609907557 192.168.1.16 → 10.6.15.145  TCP 1516 [TCP Retransmission] 52104 → 22 [ACK] Seq=56105 Ack=193173 Win=6157 Len=1448 TSval=1301858 TSecr=24116381
+ 1026 17.609923413 192.168.1.16 → 10.6.15.145  TCP 104 [TCP Retransmission] 52104 → 22 [PSH, ACK] Seq=58517 Ack=193173 Win=6157 Len=36 TSval=1301858 TSecr=24116381
+ 1027 17.611965841  10.6.15.145 → 192.168.1.16 TCP 68 22 → 52104 [ACK] Seq=193173 Ack=58517 Win=1446 Len=0 TSval=24116383 TSecr=1301858
+ 1028 17.611987384 192.168.1.16 → 10.6.15.145  SSH 104 Client: Encrypted packet (len=36)
+ 1029 17.612003245  10.6.15.145 → 192.168.1.16 TCP 68 22 → 52104 [ACK] Seq=193173 Ack=58553 Win=1446 Len=0 TSval=24116383 TSecr=1301858
+ 1030 17.613294829  10.6.15.145 → 192.168.1.16 TCP 68 22 → 52104 [ACK] Seq=193173 Ack=58589 Win=1452 Len=0 TSval=24116383 TSecr=1301859
+ 1031 17.912654927 192.168.1.16 → 13.126.27.131 NTP 92 NTP Version 4, client
+ 1032 17.918068245  10.6.15.145 → 192.168.1.16 SSH 1016 Server: Encrypted packet (len=948)
+ 1033 17.918108188  10.6.15.145 → 192.168.1.16 SSH 1016 Server: Encrypted packet (len=948)
+ 1034 17.918127433 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=58589 Ack=195069 Win=6157 Len=0 TSval=1301935 TSecr=24116447
+ 1035 17.918305512    127.0.0.1 → 127.0.0.1    Socks 969 Unknown
+ 1036 17.918320587    127.0.0.1 → 127.0.0.1    TCP 68 46798 → 1080 [ACK] Seq=12986 Ack=4506 Win=526 Len=0 TSval=1301935 TSecr=1301935
+ 1037 17.918336259    127.0.0.1 → 127.0.0.1    Socks 969 Unknown
+ 1038 17.918340812    127.0.0.1 → 127.0.0.1    TCP 68 46844 → 1080 [ACK] Seq=13354 Ack=4506 Win=505 Len=0 TSval=1301935 TSecr=1301935
+ 1039 20.912636443 192.168.1.16 → 91.189.89.199 NTP 92 NTP Version 4, client
+ 1040 22.092185815    127.0.0.1 → 127.0.0.1    Socks 2441 Unknown
+ 1041 22.092201338    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 46844 [ACK] Seq=4506 Ack=15727 Win=3637 Len=0 TSval=1302979 TSecr=1302979
+ 1042 22.092538188    127.0.0.1 → 127.0.0.1    Socks 2969 Unknown
+ 1043 22.092548121    127.0.0.1 → 127.0.0.1    TCP 68 1080 → 46798 [ACK] Seq=4506 Ack=15887 Win=3637 Len=0 TSval=1302979 TSecr=1302979
+ 1044 22.108014660 192.168.1.16 → 10.6.15.145  SSH 1516 Client: Encrypted packet (len=1448)
+ 1045 22.108778971 192.168.1.16 → 10.6.15.145  SSH 1516 Client: Encrypted packet (len=1448)
+ 1046 22.110831721  10.6.15.145 → 192.168.1.16 TCP 68 22 → 52104 [ACK] Seq=195069 Ack=60037 Win=1452 Len=0 TSval=24117507 TSecr=1302979
+ 1047 22.110852590 192.168.1.16 → 10.6.15.145  SSH 1516 Client: Encrypted packet (len=1448)
+ 1048 22.110864642 192.168.1.16 → 10.6.15.145  SSH 1092 Client: Encrypted packet (len=1024)
+ 1049 22.114140101  10.6.15.145 → 192.168.1.16 TCP 68 22 → 52104 [ACK] Seq=195069 Ack=61485 Win=1452 Len=0 TSval=24117507 TSecr=1302979
+ 1050 22.114513009  10.6.15.145 → 192.168.1.16 TCP 68 22 → 52104 [ACK] Seq=195069 Ack=62933 Win=1452 Len=0 TSval=24117508 TSecr=1302983
+ 1051 22.115234929  10.6.15.145 → 192.168.1.16 TCP 68 22 → 52104 [ACK] Seq=195069 Ack=63957 Win=1452 Len=0 TSval=24117509 TSecr=1302983
+ 1052 22.335991531    127.0.0.1 → 127.0.0.1    TCP 68 46920 → 1080 [ACK] Seq=1 Ack=1 Win=364 Len=0 TSval=1303040 TSecr=1291747
+ 1053 22.336011958    127.0.0.1 → 127.0.0.1    TCP 68 [TCP ACKed unseen segment] 1080 → 46920 [ACK] Seq=1 Ack=2 Win=367 Len=0 TSval=1303040 TSecr=1291736
+ 1054 23.010187337  10.6.15.145 → 192.168.1.16 SSH 1016 Server: Encrypted packet (len=948)
+ 1055 23.010290242    127.0.0.1 → 127.0.0.1    Socks 969 Unknown
+ 1056 23.010297385    127.0.0.1 → 127.0.0.1    TCP 68 46844 → 1080 [ACK] Seq=15727 Ack=5407 Win=519 Len=0 TSval=1303208 TSecr=1303208
+ 1057 23.010607496  10.6.15.145 → 192.168.1.16 SSH 1016 Server: Encrypted packet (len=948)
+ 1058 23.010617415 192.168.1.16 → 10.6.15.145  TCP 68 52104 → 22 [ACK] Seq=63957 Ack=196965 Win=6157 Len=0 TSval=1303208 TSecr=24117573
+ 1059 23.010687241    127.0.0.1 → 127.0.0.1    Socks 969 Unknown
+ 1060 23.010696692    127.0.0.1 → 127.0.0.1    TCP 68 46798 → 1080 [ACK] Seq=15887 Ack=5407 Win=540 Len=0 TSval=1303208 TSecr=1303208
+ 1061 23.011152953  10.6.15.145 → 192.168.1.16 SSH 1016 Server: [TCP Spurious Retransmission] , Encrypted packet (len=948)
+ 1062 23.011165836 192.168.1.16 → 10.6.15.145  TCP 80 [TCP Dup ACK 1058#1] 52104 → 22 [ACK] Seq=63957 Ack=196965 Win=6157 Len=0 TSval=1303208 TSecr=24117612 SLE=196017 SRE=196965
+ 1063 26.912663737 192.168.1.16 → 13.126.27.131 NTP 92 NTP Version 4, client
+ 1064 26.913386799 192.168.1.16 → 123.108.200.124 NTP 92 NTP Version 4, client
+ 1065 28.479995121    127.0.0.1 → 127.0.0.1    TCP 68 46382 → 1080 [ACK] Seq=1 Ack=1 Win=8700 Len=0 TSval=1304576 TSecr=1293312
+ 1066 28.480020316    127.0.0.1 → 127.0.0.1    TCP 68 [TCP ACKed unseen segment] 1080 → 46382 [ACK] Seq=1 Ack=2 Win=901 Len=0 TSval=1304576 TSecr=1281973

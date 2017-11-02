@@ -1,0 +1,209 @@
+    1 0.000000000 192.168.1.16 → 10.6.15.144  SSH 578 Client: Encrypted packet (len=512)
+    2 0.834007225 10.22.18.209 → 224.0.0.252  LLMNR 64 Standard query 0xba5c A wpad
+    3 0.834399748  10.6.15.144 → 192.168.1.16 TCP 66 22 → 59298 [ACK] Seq=1 Ack=513 Win=1452 Len=0 TSval=3503863 TSecr=2907504
+    4 0.834834937  10.6.15.144 → 192.168.1.16 SSH 174 Server: Encrypted packet (len=108)
+    5 0.834862394 192.168.1.16 → 10.6.15.144  TCP 66 59298 → 22 [ACK] Seq=513 Ack=109 Win=1494 Len=0 TSval=2907712 TSecr=3503864
+    6 0.835231150  10.6.15.144 → 192.168.1.16 SSH 210 Server: Encrypted packet (len=144)
+    7 0.835239571 192.168.1.16 → 10.6.15.144  TCP 66 59298 → 22 [ACK] Seq=513 Ack=253 Win=1494 Len=0 TSval=2907712 TSecr=3503864
+    8 0.835386756 192.168.1.16 → 10.6.15.144  SSH 138 Client: Encrypted packet (len=72)
+    9 0.835801021  10.6.15.144 → 192.168.1.16 SSH 110 Server: Encrypted packet (len=44)
+   10 0.836183243 10.22.18.209 → 224.0.0.252  LLMNR 64 Standard query 0xba5c A wpad
+   11 0.836614398  10.6.15.144 → 192.168.1.16 SSH 270 Server: Encrypted packet (len=204)
+   12 0.836636911 192.168.1.16 → 10.6.15.144  TCP 66 59298 → 22 [ACK] Seq=585 Ack=501 Win=1494 Len=0 TSval=2907713 TSecr=3503864
+   13 0.873695353  10.6.15.144 → 192.168.1.16 TCP 66 22 → 59298 [ACK] Seq=501 Ack=585 Win=1452 Len=0 TSval=3504037 TSecr=2907712
+   14 1.098324765 192.168.1.16 → 10.6.15.144  SSH 446 Client: Encrypted packet (len=380)
+   15 1.100537912  10.6.15.144 → 192.168.1.16 TCP 66 22 → 59298 [ACK] Seq=501 Ack=965 Win=1452 Len=0 TSval=3504093 TSecr=2907778
+   16 1.105358129  10.6.15.144 → 192.168.1.16 SSH 134 Server: Encrypted packet (len=68)
+   17 1.137726204  10.6.15.144 → 192.168.1.16 SSH 302 Server: Encrypted packet (len=236)
+   18 1.137744686 192.168.1.16 → 10.6.15.144  TCP 66 59298 → 22 [ACK] Seq=965 Ack=805 Win=1494 Len=0 TSval=2907788 TSecr=3504094
+   19 1.138426253 192.168.1.16 → 10.6.15.144  SSH 134 Client: Encrypted packet (len=68)
+   20 1.179931355  10.6.15.144 → 192.168.1.16 TCP 66 22 → 59298 [ACK] Seq=805 Ack=1033 Win=1452 Len=0 TSval=3504113 TSecr=2907788
+   21 3.809991287 10.22.17.201 → 224.0.0.252  LLMNR 64 Standard query 0xc8dd A wpad
+   22 3.810374064 10.22.17.201 → 224.0.0.252  LLMNR 64 Standard query 0x233e AAAA wpad
+   23 3.810761503 10.22.17.201 → 224.0.0.252  LLMNR 64 Standard query 0x233e AAAA wpad
+   24 3.811144062 10.22.17.201 → 224.0.0.252  LLMNR 64 Standard query 0xc8dd A wpad
+   25 7.810453714 10.22.18.209 → 224.0.0.252  LLMNR 64 Standard query 0x8f3c A wpad
+   26 7.810820511 10.22.18.209 → 224.0.0.252  LLMNR 64 Standard query 0x8f3c A wpad
+   27 8.768027134 192.168.1.16 → 54.76.71.168 TCP 66 42414 → 8282 [ACK] Seq=1 Ack=1 Win=296 Len=0 TSval=2909696 TSecr=606998914
+   28 11.253050029 ZioncomE_53:dd:d4 → HonHaiPr_1f:71:b9 EAPOL 135 Key (Message 1 of 4)
+   29 11.253196791 HonHaiPr_1f:71:b9 → ZioncomE_53:dd:d4 EAPOL 135 Key (Message 2 of 4)
+   30 11.258402246 ZioncomE_53:dd:d4 → HonHaiPr_1f:71:b9 EAPOL 169 Key (Message 3 of 4)
+   31 11.258513758 HonHaiPr_1f:71:b9 → ZioncomE_53:dd:d4 EAPOL 113 Key (Message 4 of 4)
+   32 11.267984780 fe80::60bd:1940:a0d8:49f9 → ff02::16     ICMPv6 90 Multicast Listener Report Message v2
+   33 11.268015249 192.168.1.16 → 224.0.0.252  IGMPv2 46 Membership Report group 224.0.0.252
+   34 11.408050482 fe80::60bd:1940:a0d8:49f9 → ff02::1:3    LLMNR 93 Standard query 0x392a ANY theenterprise
+   35 11.408841169 192.168.1.16 → 224.0.0.252  LLMNR 73 Standard query 0x69a9 ANY theenterprise
+   36 11.742339705 fe80::60bd:1940:a0d8:49f9 → ff02::1:3    LLMNR 93 Standard query 0x392a ANY theenterprise
+   37 11.743119764 192.168.1.16 → 224.0.0.252  LLMNR 73 Standard query 0x69a9 ANY theenterprise
+   38 11.840018155 fe80::60bd:1940:a0d8:49f9 → ff02::16     ICMPv6 90 Multicast Listener Report Message v2
+   39 11.992277988 fe80::60bd:1940:a0d8:49f9 → ff02::1:3    LLMNR 93 Standard query 0x392a ANY theenterprise
+   40 11.993057942 192.168.1.16 → 224.0.0.252  LLMNR 73 Standard query 0x69a9 ANY theenterprise
+   41 12.032029704 192.168.1.16 → 74.125.68.188 TCP 66 48500 → 443 [FIN, ACK] Seq=1 Ack=1 Win=245 Len=0 TSval=2910512 TSecr=4289794958
+   42 12.761517964 192.168.1.16 → 239.255.255.250 SSDP 213 M-SEARCH * HTTP/1.1 
+   43 12.800029230 192.168.1.16 → 10.6.15.144  SSH 118 Client: Encrypted packet (len=52)
+   44 12.804776819  10.6.15.144 → 192.168.1.16 TCP 66 22 → 59298 [ACK] Seq=805 Ack=1085 Win=1452 Len=0 TSval=3507018 TSecr=2910704
+   45 12.804801481 192.168.1.16 → 10.6.15.144  SSH 1514 Client: Encrypted packet (len=1448)
+   46 12.804816385 192.168.1.16 → 10.6.15.144  SSH 114 Client: Encrypted packet (len=48)
+   47 12.810967927  10.6.15.144 → 192.168.1.16 TCP 66 22 → 59298 [ACK] Seq=805 Ack=2581 Win=1452 Len=0 TSval=3507020 TSecr=2910705
+   48 12.896185575  10.6.15.144 → 192.168.1.16 SSH 138 Server: Encrypted packet (len=72)
+   49 12.896336160 192.168.1.16 → 10.6.15.144  SSH 102 Client: Encrypted packet (len=36)
+   50 12.896818717  10.6.15.144 → 192.168.1.16 SSH 138 Server: Encrypted packet (len=72)
+   51 12.896982056 192.168.1.16 → 10.6.15.144  SSH 102 Client: Encrypted packet (len=36)
+   52 12.897558457  10.6.15.144 → 192.168.1.16 SSH 102 Server: Encrypted packet (len=36)
+   53 12.902548820  10.6.15.144 → 192.168.1.16 SSH 134 Server: Encrypted packet (len=68)
+   54 12.902569843 192.168.1.16 → 10.6.15.144  SSH 478 Client: Encrypted packet (len=412)
+   55 12.909620880  10.6.15.144 → 192.168.1.16 TCP 66 22 → 59298 [ACK] Seq=1053 Ack=3065 Win=1452 Len=0 TSval=3507044 TSecr=2910728
+   56 12.912555730  10.6.15.144 → 192.168.1.16 SSH 206 Server: Encrypted packet (len=140)
+   57 12.913029182 192.168.1.16 → 10.6.15.144  SSH 302 Client: Encrypted packet (len=236)
+   58 12.913871054 192.168.1.16 → 10.6.15.144  SSH 190 Client: Encrypted packet (len=124)
+   59 12.919191420  10.6.15.144 → 192.168.1.16 TCP 66 22 → 59298 [ACK] Seq=1193 Ack=3425 Win=1452 Len=0 TSval=3507047 TSecr=2910732
+   60 12.919211878 192.168.1.16 → 10.6.15.144  SSH 1058 Client: Encrypted packet (len=992)
+   61 12.920741105  10.6.15.144 → 192.168.1.16 SSH 158 Server: Encrypted packet (len=92)
+   62 12.920979231 192.168.1.16 → 10.6.15.144  SSH 126 Client: Encrypted packet (len=60)
+   63 12.922973141  10.6.15.144 → 192.168.1.16 SSH 126 Server: Encrypted packet (len=60)
+   64 12.925079254  10.6.15.144 → 192.168.1.16 TCP 66 22 → 59298 [ACK] Seq=1345 Ack=4477 Win=1452 Len=0 TSval=3507049 TSecr=2910733
+   65 12.925466532  10.6.15.144 → 192.168.1.16 SSH 102 Server: Encrypted packet (len=36)
+   66 12.925528418 192.168.1.16 → 10.6.15.144  TCP 66 59298 → 22 [ACK] Seq=4477 Ack=1381 Win=1494 Len=0 TSval=2910735 TSecr=3507048
+   67 12.925789086 192.168.1.16 → 10.6.15.144  SSH 174 Client: Encrypted packet (len=108)
+   68 12.964272350  10.6.15.144 → 192.168.1.16 SSH 1514 Server: Encrypted packet (len=1448)
+   69 12.964298480  10.6.15.144 → 192.168.1.16 SSH 550 Server: Encrypted packet (len=484)
+   70 12.964307364 192.168.1.16 → 10.6.15.144  TCP 66 59298 → 22 [ACK] Seq=4585 Ack=3313 Win=1494 Len=0 TSval=2910745 TSecr=3507059
+   71 12.965056974  10.6.15.144 → 192.168.1.16 SSH 1238 Server: Encrypted packet (len=1172)
+   72 12.966160049 192.168.1.16 → 10.6.15.144  SSH 342 Client: Encrypted packet (len=276)
+   73 12.969876611  10.6.15.144 → 192.168.1.16 SSH 494 Server: Encrypted packet (len=428)
+   74 12.969901215  10.6.15.144 → 192.168.1.16 SSH 150 Server: Encrypted packet (len=84)
+   75 12.969945234 192.168.1.16 → 10.6.15.144  TCP 66 59298 → 22 [ACK] Seq=4861 Ack=4997 Win=1494 Len=0 TSval=2910746 TSecr=3507061
+   76 12.970283581  10.6.15.144 → 192.168.1.16 SSH 134 Server: Encrypted packet (len=68)
+   77 12.971460201  10.6.15.144 → 192.168.1.16 SSH 166 Server: Encrypted packet (len=100)
+   78 12.971492113 192.168.1.16 → 10.6.15.144  TCP 66 59298 → 22 [ACK] Seq=4861 Ack=5165 Win=1494 Len=0 TSval=2910746 TSecr=3507061
+   79 12.971849029 192.168.1.16 → 10.6.15.144  SSH 134 Client: Encrypted packet (len=68)
+   80 13.003307752  10.6.15.144 → 192.168.1.16 SSH 422 Server: Encrypted packet (len=356)
+   81 13.004419942 192.168.1.16 → 10.6.15.144  SSH 318 Client: Encrypted packet (len=252)
+   82 13.043636266  10.6.15.144 → 192.168.1.16 SSH 126 Server: Encrypted packet (len=60)
+   83 13.046361467  10.6.15.144 → 192.168.1.16 SSH 210 Server: Encrypted packet (len=144)
+   84 13.046460203 192.168.1.16 → 10.6.15.144  TCP 66 59298 → 22 [ACK] Seq=5181 Ack=5725 Win=1494 Len=0 TSval=2910765 TSecr=3507078
+   85 13.046763713 192.168.1.16 → 10.6.15.144  SSH 138 Client: Encrypted packet (len=72)
+   86 13.050228206  10.6.15.144 → 192.168.1.16 SSH 214 Server: Encrypted packet (len=148)
+   87 13.050252228  10.6.15.144 → 192.168.1.16 SSH 230 Server: Encrypted packet (len=164)
+   88 13.050292836 192.168.1.16 → 10.6.15.144  TCP 66 59298 → 22 [ACK] Seq=5253 Ack=6037 Win=1494 Len=0 TSval=2910766 TSecr=3507080
+   89 13.052195102  10.6.15.144 → 192.168.1.16 SSH 138 Server: Encrypted packet (len=72)
+   90 13.052341988 192.168.1.16 → 10.6.15.144  SSH 102 Client: Encrypted packet (len=36)
+   91 13.067866902  10.6.15.144 → 192.168.1.16 SSH 182 Server: Encrypted packet (len=116)
+   92 13.068686729  10.6.15.144 → 192.168.1.16 SSH 1514 Server: Encrypted packet (len=1448)
+   93 13.068704830 192.168.1.16 → 10.6.15.144  TCP 66 59298 → 22 [ACK] Seq=5289 Ack=7673 Win=1494 Len=0 TSval=2910771 TSecr=3507085
+   94 13.068727102  10.6.15.144 → 192.168.1.16 SSH 78 Server: Encrypted packet (len=12)
+   95 13.071821519  10.6.15.144 → 192.168.1.16 SSH 1322 Server: Encrypted packet (len=1256)
+   96 13.071882660 192.168.1.16 → 10.6.15.144  TCP 66 59298 → 22 [ACK] Seq=5289 Ack=8941 Win=1494 Len=0 TSval=2910771 TSecr=3507085
+   97 13.072342178 192.168.1.16 → 10.6.15.144  SSH 134 Client: Encrypted packet (len=68)
+   98 13.073750420 192.168.1.16 → 10.6.15.144  SSH 222 Client: Encrypted packet (len=156)
+   99 13.075351601  10.6.15.144 → 192.168.1.16 TCP 66 22 → 59298 [ACK] Seq=8941 Ack=5513 Win=1452 Len=0 TSval=3507087 TSecr=2910772
+  100 13.075373570 192.168.1.16 → 10.6.15.144  SSH 1514 Client: Encrypted packet (len=1448)
+  101 13.075386654 192.168.1.16 → 10.6.15.144  SSH 110 Client: Encrypted packet (len=44)
+  102 13.077848217  10.6.15.144 → 192.168.1.16 TCP 66 22 → 59298 [ACK] Seq=8941 Ack=7005 Win=1452 Len=0 TSval=3507088 TSecr=2910772
+  103 13.310028652 192.168.1.16 → 10.6.15.144  SSH 566 Client: Encrypted packet (len=500)
+  104 13.311166111 192.168.1.16 → 10.6.15.144  SSH 382 Client: Encrypted packet (len=316)
+  105 13.311898932  10.6.15.144 → 192.168.1.16 SSH 990 Server: Encrypted packet (len=924)
+  106 13.311919010  10.6.15.144 → 192.168.1.16 SSH 318 Server: Encrypted packet (len=252)
+  107 13.311924045  10.6.15.144 → 192.168.1.16 SSH 134 Server: Encrypted packet (len=68)
+  108 13.311990772 192.168.1.16 → 10.6.15.144  TCP 66 59298 → 22 [ACK] Seq=7821 Ack=10185 Win=1494 Len=0 TSval=2910832 TSecr=3507115
+  109 13.312086500  10.6.15.144 → 192.168.1.16 SSH 134 Server: [TCP Spurious Retransmission] , Encrypted packet (len=68)
+  110 13.312094464 192.168.1.16 → 10.6.15.144  TCP 78 [TCP Dup ACK 108#1] 59298 → 22 [ACK] Seq=7821 Ack=10185 Win=1494 Len=0 TSval=2910832 TSecr=3507134 SLE=10117 SRE=10185
+  111 13.312577729 192.168.1.16 → 10.6.15.144  SSH 134 Client: Encrypted packet (len=68)
+  112 13.319157833  10.6.15.144 → 192.168.1.16 TCP 66 22 → 59298 [ACK] Seq=10185 Ack=7821 Win=1452 Len=0 TSval=3507146 TSecr=2910831
+  113 13.360153658  10.6.15.144 → 192.168.1.16 TCP 66 22 → 59298 [ACK] Seq=10185 Ack=7889 Win=1452 Len=0 TSval=3507157 TSecr=2910832
+  114 13.402502074  10.6.15.144 → 192.168.1.16 SSH 174 Server: Encrypted packet (len=108)
+  115 13.403123869 192.168.1.16 → 10.6.15.144  SSH 134 Client: Encrypted packet (len=68)
+  116 13.408029971  10.6.15.144 → 192.168.1.16 TCP 66 22 → 59298 [ACK] Seq=10293 Ack=7957 Win=1452 Len=0 TSval=3507169 TSecr=2910854
+  117 13.424953677 10.22.19.173 → 224.0.0.252  LLMNR 75 Standard query 0xc2ec ANY DESKTOP-QL250HC
+  118 13.762724744 192.168.1.16 → 239.255.255.250 SSDP 213 M-SEARCH * HTTP/1.1 
+  119 13.834443806 10.22.19.173 → 224.0.0.252  LLMNR 75 Standard query 0xc2ec ANY DESKTOP-QL250HC
+  120 13.984027352 192.168.1.16 → 74.125.68.188 TCP 66 [TCP Retransmission] 48500 → 443 [FIN, ACK] Seq=1 Ack=1 Win=245 Len=0 TSval=2911000 TSecr=4289794958
+  121 14.021475958 74.125.68.188 → 192.168.1.16 TCP 54 443 → 48500 [RST] Seq=1 Win=0 Len=0
+  122 14.764155616 192.168.1.16 → 239.255.255.250 SSDP 213 M-SEARCH * HTTP/1.1 
+  123 14.767670991 10.22.19.173 → 224.0.0.252  LLMNR 75 Standard query 0x8b1a ANY DESKTOP-QL250HC
+  124 14.767719278 10.22.19.173 → 224.0.0.252  LLMNR 75 Standard query 0x8b1a ANY DESKTOP-QL250HC
+  125 15.762907090 192.168.1.16 → 224.0.0.251  MDNS 82 Standard query 0x0000 PTR _googlecast._tcp.local, "QM" question
+  126 15.763676032 fe80::60bd:1940:a0d8:49f9 → ff02::fb     MDNS 102 Standard query 0x0000 PTR _googlecast._tcp.local, "QM" question
+  127 15.763681791 192.168.1.16 → 224.0.0.251  MDNS 82 Standard query 0x0000 PTR _googlecast._tcp.local, "QM" question
+  128 15.763683887 fe80::60bd:1940:a0d8:49f9 → ff02::fb     MDNS 102 Standard query 0x0000 PTR _googlecast._tcp.local, "QM" question
+  129 15.764756532 10.22.18.209 → 224.0.0.252  LLMNR 64 Standard query 0x9851 A wpad
+  130 15.765141215 10.22.18.209 → 224.0.0.252  LLMNR 64 Standard query 0x9851 A wpad
+  131 15.765193670 192.168.1.16 → 239.255.255.250 SSDP 213 M-SEARCH * HTTP/1.1 
+  132 15.765329944 10.22.19.173 → 224.0.0.252  LLMNR 75 Standard query 0x815f ANY DESKTOP-QL250HC
+  133 16.764369983 192.168.1.16 → 224.0.0.251  MDNS 82 Standard query 0x0000 PTR _googlecast._tcp.local, "QM" question
+  134 16.765135283 fe80::60bd:1940:a0d8:49f9 → ff02::fb     MDNS 102 Standard query 0x0000 PTR _googlecast._tcp.local, "QM" question
+  135 16.765140209 192.168.1.16 → 224.0.0.251  MDNS 82 Standard query 0x0000 PTR _googlecast._tcp.local, "QM" question
+  136 16.765141832 fe80::60bd:1940:a0d8:49f9 → ff02::fb     MDNS 102 Standard query 0x0000 PTR _googlecast._tcp.local, "QM" question
+  137 16.766181711 10.22.19.173 → 224.0.0.252  LLMNR 75 Standard query 0x815f ANY DESKTOP-QL250HC
+  138 16.960036428 192.168.1.16 → 224.0.0.252  IGMPv2 46 Membership Report group 224.0.0.252
+  139 17.793995053 10.22.19.173 → 224.0.0.252  LLMNR 70 Standard query 0xdb11 A zqvotgllqa
+  140 17.799681935 10.22.19.173 → 224.0.0.252  LLMNR 72 Standard query 0xfffb A poumvligebkb
+  141 17.799703363 10.22.19.173 → 224.0.0.252  LLMNR 72 Standard query 0xa0f3 A gtnydqufrzbb
+  142 18.764981316 192.168.1.16 → 224.0.0.251  MDNS 82 Standard query 0x0000 PTR _googlecast._tcp.local, "QM" question
+  143 18.765746879 fe80::60bd:1940:a0d8:49f9 → ff02::fb     MDNS 102 Standard query 0x0000 PTR _googlecast._tcp.local, "QM" question
+  144 18.765751796 192.168.1.16 → 224.0.0.251  MDNS 82 Standard query 0x0000 PTR _googlecast._tcp.local, "QM" question
+  145 18.765753533 fe80::60bd:1940:a0d8:49f9 → ff02::fb     MDNS 102 Standard query 0x0000 PTR _googlecast._tcp.local, "QM" question
+  146 18.767916190 10.22.19.173 → 224.0.0.252  LLMNR 72 Standard query 0xfffb A poumvligebkb
+  147 18.768302232 10.22.19.173 → 224.0.0.252  LLMNR 70 Standard query 0xdb11 A zqvotgllqa
+  148 18.768528205 10.22.19.173 → 224.0.0.252  LLMNR 72 Standard query 0xa0f3 A gtnydqufrzbb
+  149 19.892138356 192.168.1.16 → 54.76.71.168 TCP 128 [TCP Previous segment not captured] 42414 → 8282 [PSH, ACK] Seq=2 Ack=1 Win=296 Len=62 TSval=2912477 TSecr=606998914
+  150 20.802082171 54.76.71.168 → 192.168.1.16 TCP 66 [TCP ACKed unseen segment] 8282 → 42414 [ACK] Seq=1 Ack=64 Win=121 Len=0 TSval=607024454 TSecr=2912477
+  151 22.786002323 10.22.18.209 → 224.0.0.252  LLMNR 64 Standard query 0xbedc A wpad
+  152 22.786385951 10.22.18.209 → 224.0.0.252  LLMNR 64 Standard query 0xbedc A wpad
+  153 24.496595307 192.168.1.16 → 192.168.1.1  DNS 81 Standard query 0x95c1 A 2.ubuntu.pool.ntp.org
+  154 24.500103826  192.168.1.1 → 192.168.1.16 DNS 145 Standard query response 0x95c1 A 2.ubuntu.pool.ntp.org A 13.126.37.14 A 139.59.21.22 A 139.59.50.38 A 123.108.200.124
+  155 24.500654812 192.168.1.16 → 13.126.37.14 NTP 90 NTP Version 4, client
+  156 27.239076792 ZioncomE_53:dd:d4 → HonHaiPr_1f:71:b9 EAPOL 135 Key (Message 1 of 4)
+  157 27.239196035 HonHaiPr_1f:71:b9 → ZioncomE_53:dd:d4 EAPOL 135 Key (Message 2 of 4)
+  158 27.244300852 ZioncomE_53:dd:d4 → HonHaiPr_1f:71:b9 EAPOL 169 Key (Message 3 of 4)
+  159 27.244397105 HonHaiPr_1f:71:b9 → ZioncomE_53:dd:d4 EAPOL 113 Key (Message 4 of 4)
+  160 27.256007266 fe80::60bd:1940:a0d8:49f9 → ff02::16     ICMPv6 90 Multicast Listener Report Message v2
+  161 27.256036315 192.168.1.16 → 224.0.0.252  IGMPv2 46 Membership Report group 224.0.0.252
+  162 27.400079705 192.168.1.16 → 224.0.0.252  LLMNR 73 Standard query 0xcb05 ANY theenterprise
+  163 27.400854707 fe80::60bd:1940:a0d8:49f9 → ff02::1:3    LLMNR 93 Standard query 0x4534 ANY theenterprise
+  164 27.742374370 192.168.1.16 → 224.0.0.252  LLMNR 73 Standard query 0xcb05 ANY theenterprise
+  165 27.743179079 fe80::60bd:1940:a0d8:49f9 → ff02::1:3    LLMNR 93 Standard query 0x4534 ANY theenterprise
+  166 27.968053645 fe80::60bd:1940:a0d8:49f9 → ff02::16     ICMPv6 90 Multicast Listener Report Message v2
+  167 27.992332383 192.168.1.16 → 224.0.0.252  LLMNR 73 Standard query 0xcb05 ANY theenterprise
+  168 27.992388365 fe80::60bd:1940:a0d8:49f9 → ff02::1:3    LLMNR 93 Standard query 0x4534 ANY theenterprise
+  169 28.000027923 192.168.1.16 → 10.6.15.144  SSH 138 Client: Encrypted packet (len=72)
+  170 28.007668817  10.6.15.144 → 192.168.1.16 TCP 66 22 → 59298 [ACK] Seq=10293 Ack=8029 Win=1452 Len=0 TSval=3510819 TSecr=2914504
+  171 28.041092637  10.6.15.144 → 192.168.1.16 SSH 102 Server: Encrypted packet (len=36)
+  172 28.042040671 192.168.1.16 → 10.6.15.144  SSH 446 Client: Encrypted packet (len=380)
+  173 28.085246220  10.6.15.144 → 192.168.1.16 SSH 222 Server: Encrypted packet (len=156)
+  174 28.085880683 192.168.1.16 → 10.6.15.144  SSH 294 Client: Encrypted packet (len=228)
+  175 28.086982073 192.168.1.16 → 10.6.15.144  SSH 318 Client: Encrypted packet (len=252)
+  176 28.095876389  10.6.15.144 → 192.168.1.16 TCP 66 22 → 59298 [ACK] Seq=10485 Ack=8889 Win=1452 Len=0 TSval=3510840 TSecr=2914525
+  177 28.125004118  10.6.15.144 → 192.168.1.16 SSH 118 Server: Encrypted packet (len=52)
+  178 28.128712946  10.6.15.144 → 192.168.1.16 SSH 214 Server: Encrypted packet (len=148)
+  179 28.128810249 192.168.1.16 → 10.6.15.144  TCP 66 59298 → 22 [ACK] Seq=8889 Ack=10685 Win=1494 Len=0 TSval=2914536 TSecr=3510849
+  180 28.130666234  10.6.15.144 → 192.168.1.16 SSH 230 Server: Encrypted packet (len=164)
+  181 28.172030633 192.168.1.16 → 10.6.15.144  TCP 66 59298 → 22 [ACK] Seq=8889 Ack=10849 Win=1494 Len=0 TSval=2914547 TSecr=3510850
+  182 28.273198123  10.6.15.144 → 192.168.1.16 SSH 138 Server: Encrypted packet (len=72)
+  183 28.273225976 192.168.1.16 → 10.6.15.144  TCP 66 59298 → 22 [ACK] Seq=8889 Ack=10921 Win=1494 Len=0 TSval=2914572 TSecr=3510886
+  184 28.273372452 192.168.1.16 → 10.6.15.144  SSH 102 Client: Encrypted packet (len=36)
+  185 28.314947378  10.6.15.144 → 192.168.1.16 TCP 66 22 → 59298 [ACK] Seq=10921 Ack=8925 Win=1452 Len=0 TSval=3510897 TSecr=2914572
+  186 28.746770720 192.168.1.16 → 10.6.15.144  SSH 102 Client: Encrypted packet (len=36)
+  187 28.747645134 192.168.1.16 → 239.255.255.250 SSDP 213 M-SEARCH * HTTP/1.1 
+  188 28.747760863 192.168.1.16 → 10.6.15.144  SSH 102 Client: Encrypted packet (len=36)
+  189 28.757605725  10.6.15.144 → 192.168.1.16 TCP 66 22 → 59298 [ACK] Seq=10921 Ack=8961 Win=1452 Len=0 TSval=3511005 TSecr=2914690
+  190 28.757628610 192.168.1.16 → 10.6.15.144  SSH 238 Client: Encrypted packet (len=172)
+  191 28.759521914  10.6.15.144 → 192.168.1.16 TCP 66 22 → 59298 [ACK] Seq=10921 Ack=8997 Win=1452 Len=0 TSval=3511006 TSecr=2914690
+  192 28.767652708  10.6.15.144 → 192.168.1.16 TCP 66 22 → 59298 [ACK] Seq=10921 Ack=9169 Win=1452 Len=0 TSval=3511008 TSecr=2914693
+  193 28.770510730  10.6.15.144 → 192.168.1.16 SSH 134 Server: Encrypted packet (len=68)
+  194 28.793740766  10.6.15.144 → 192.168.1.16 SSH 102 Server: Encrypted packet (len=36)
+  195 28.793804902 192.168.1.16 → 10.6.15.144  TCP 66 59298 → 22 [ACK] Seq=9169 Ack=11025 Win=1494 Len=0 TSval=2914702 TSecr=3511009
+  196 28.794060850 192.168.1.16 → 10.6.15.144  SSH 158 Client: Encrypted packet (len=92)
+  197 28.813945663  10.6.15.144 → 192.168.1.16 SSH 414 Server: Encrypted packet (len=348)
+  198 28.813971608  10.6.15.144 → 192.168.1.16 SSH 166 Server: Encrypted packet (len=100)
+  199 28.814016737 192.168.1.16 → 10.6.15.144  TCP 66 59298 → 22 [ACK] Seq=9261 Ack=11473 Win=1494 Len=0 TSval=2914707 TSecr=3511020
+  200 28.814766846 192.168.1.16 → 10.6.15.144  SSH 134 Client: Encrypted packet (len=68)
+  201 28.834643485  10.6.15.144 → 192.168.1.16 SSH 174 Server: Encrypted packet (len=108)
+  202 28.835144717 192.168.1.16 → 10.6.15.144  SSH 302 Client: Encrypted packet (len=236)
+  203 28.835956207 192.168.1.16 → 10.6.15.144  SSH 310 Client: Encrypted packet (len=244)
+  204 28.840358088  10.6.15.144 → 192.168.1.16 TCP 66 22 → 59298 [ACK] Seq=11581 Ack=9809 Win=1452 Len=0 TSval=3511028 TSecr=2914712
+  205 28.873486388  10.6.15.144 → 192.168.1.16 SSH 118 Server: Encrypted packet (len=52)
+  206 28.876092943  10.6.15.144 → 192.168.1.16 SSH 214 Server: Encrypted packet (len=148)
+  207 28.876146366 192.168.1.16 → 10.6.15.144  TCP 66 59298 → 22 [ACK] Seq=9809 Ack=11781 Win=1494 Len=0 TSval=2914723 TSecr=3511036
+  208 28.878551998  10.6.15.144 → 192.168.1.16 SSH 230 Server: Encrypted packet (len=164)
+  209 28.920056171 192.168.1.16 → 10.6.15.144  TCP 66 59298 → 22 [ACK] Seq=9809 Ack=11945 Win=1494 Len=0 TSval=2914734 TSecr=3511037
