@@ -18,7 +18,7 @@ y = [el[1] for el in dataset]
 	Logistic Regression
 
 	Avg accuracy at C=0.2, ~67% [Toy Dataset]
-	Avg accuracy at C=0.005, ~56% [Toy Dataset]
+	Avg accuracy at C=0.005, ~56% [Full Dataset]
 """
 
 """
@@ -46,7 +46,7 @@ print "Cross Val Avg Accuracy: ", sum(scores) / len(scores)
 """
 from sklearn.svm import SVC
 
-model = SVC(decision_function_shape='ovo', C=100, kernel='rbf', gamma=0.0000005)
+model = SVC(decision_function_shape='ovo', C=1, kernel='poly', degree=2)
 scores = cross_val_score(model, x, y, cv=4)
 print "Cross Val Avg Accuracy: ", sum(scores) / len(scores)
 """
@@ -132,7 +132,16 @@ print "Cross Val Avg Accuracy: ", sum(scores) / len(scores)
 """
 from sklearn.neural_network import MLPClassifier
 
-model = MLPClassifier(hidden_layer_sizes=400, alpha=0.1)
+model = MLPClassifier(hidden_layer_sizes=480, alpha=0.1)
 scores = cross_val_score(model, x, y, cv=4)
 print "Cross Val Avg Accuracy: ", sum(scores) / len(scores)
 """
+
+"""
+	Save Model
+"""
+
+import cPickle
+
+with open("model_1.pkl", "wb") as fp:
+	cPickle.dump(model, fp)

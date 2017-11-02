@@ -4,6 +4,7 @@
 	Rahul Kejriwal
 """
 
+import cPickle
 import numpy as np
 import weighted_levenshtein as wl
 from sklearn.svm import SVC
@@ -82,3 +83,7 @@ if __name__ == '__main__':
 	model = SVC(decision_function_shape='ovo', C=100, kernel=my_kernel)
 	scores = cross_val_score(model, x_ptrs, y_set, cv=4)
 	print "Cross Val Avg Accuracy: ", sum(scores) / len(scores)
+
+	# Save Model
+	with open("model_3.pkl", "wb") as fp:
+		cPickle.dump(model, fp)
