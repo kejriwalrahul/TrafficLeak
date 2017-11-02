@@ -1,4 +1,6 @@
-# Side Channel Attack on Encryted Web Traffic
+# TrafficLeak
+
+## Side Channel Attack on Encryted Web Traffic
 
 This project aims to detect the domain to which encrypted communication takes place via network log information. 
 
@@ -13,3 +15,4 @@ For this purpose, we assume the communication occurs over an SSH channel and the
 5. Webpage fingerprinting is done (not website) (can be extended)
 6. Caching (hot and cold pages) effect
 7. Interference in data collection?
+
