@@ -14,3 +14,7 @@ For this purpose, we assume the communication occurs over an SSH channel and the
 4. We have removed very similar webpages (Ex: amazon.de and amazon.in) since they are possibly difficult to distinguish and because we can simply bucket them under the same provider.
 5. __Webpage fingerprinting__ is done (not website) (can be extended)
 6. __Caching effects__: We use hot traces for webpages rather than cold traces. Cold traces are easier to distinguish due to larger number of differing requests.
+
+## Reference
+
+Cai, Xiang, et al. "Touching from a distance: Website fingerprinting attacks and defenses." Proceedings of the 2012 ACM conference on Computer and communications security. ACM, 2012.
