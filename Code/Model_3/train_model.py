@@ -12,16 +12,52 @@ from sklearn.svm import SVC
 from sklearn.model_selection import cross_val_score
 from tqdm import tqdm 
 
+
 """
-	Parameters
+	Used for padding request sequence so that sklearn doesnt complain
+"""
+FORBIDDEN_ELEMENT = 999
+
+
+"""
+	Parameters:
+	
+	IC,DC, SC, TC cost schemes
+	SVM C
 """
 cost_normalization_factor = 10
 
-# IC,DC, SC, TC cost schemes
-# SVM C
 
-
+"""
+	Cache distances
+"""
 stored_dists = {}
+
+
+"""
+	Normalize max length across train and test 
+"""
+max_len = 7500
+
+
+"""
+	Pads all sequences to same length using FORBIDDEN_ELEMENT to prevent sklearn cribs
+"""
+def pad_proper(X):
+	# max_len = max([len(x) for x in X])
+
+	new_X = []
+	for x in X:
+		new_X.append( x + [FORBIDDEN_ELEMENT]*(max_len-len(x)) )
+
+	return new_X
+
+
+"""
+	Removes FORBIDDEN_ELEMENT from sequence for getting back actual sequence
+"""
+def trim_proper(vec):
+	return [int(el) for el in vec if el != FORBIDDEN_ELEMENT]
 
 
 """
@@ -43,16 +79,21 @@ def map_join(vector):
 	Kernel built from DL-distance metric
 """
 def point_level_kernel_function(vec1, vec2, ic, dc, tc, sc):
-	if (vec1[0], vec2[0]) in stored_dists:
-		return stored_dists[(vec1[0], vec2[0])]
 
-	str1 = map_join(x_set[int(vec1[0])])
-	str2 = map_join(x_set[int(vec2[0])])
+	vec1 = trim_proper(vec1)
+	vec2 = trim_proper(vec2)
+
+	str1 = map_join(vec1)
+	str2 = map_join(vec2)
+
+	if (str1, str2) in stored_dists:
+		return stored_dists[(str1, str2)]
+
 	dist = wl.dam_lev(str1, str2, insert_costs=ic, delete_costs=dc, transpose_costs=tc, substitute_costs=sc) / (cost_normalization_factor*min(len(str1), len(str2)))
 	fin_dist = np.exp([-dist**2])[0]
 
-	stored_dists[(vec1[0], vec2[0])] = fin_dist
-	stored_dists[(vec2[0], vec1[0])] = fin_dist
+	stored_dists[(str1, str2)] = fin_dist
+	stored_dists[(str2, str1)] = fin_dist
 
 	return fin_dist
 
@@ -60,7 +101,7 @@ def point_level_kernel_function(vec1, vec2, ic, dc, tc, sc):
 """
 	Compute kernel function for different pairs of instances
 """
-def my_kernel(X,Y):
+def model3_kernel(X,Y):
 
 	"""
 		Build cost schemes for DL-distance
@@ -95,24 +136,21 @@ def my_kernel(X,Y):
 """
 	__main__ Code
 """
-
-
 if __name__ == '__main__':
 
 	# Load Dataset
 	dataset = np.load('dataset')
 	np.random.shuffle(dataset)
 
-	global x_set
-	x_set = [el[0] for el in dataset]
-	x_ptrs = [[i] for i in range(len(x_set))]
+	x_set = pad_proper([el[0] for el in dataset])
 	y_set = [el[1] for el in dataset]
 
 	# Train & Evaluate Model
-	model = SVC(decision_function_shape='ovo', C=100, kernel=my_kernel)
-	scores = cross_val_score(model, x_ptrs, y_set, cv=4)
+	model = SVC(decision_function_shape='ovo', C=100, kernel=model3_kernel)
+	scores = cross_val_score(model, x_set, y_set, cv=4)
 	print "Cross Val Avg Accuracy: ", sum(scores) / len(scores)
 
-	# Save Model
+	# Train & Save Model
+	model.fit(x_set, y_set)
 	with open("model_3.pkl", "wb") as fp:
 		cPickle.dump(model, fp)

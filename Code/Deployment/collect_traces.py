@@ -10,6 +10,7 @@ import sys
 import time
 import subprocess
 from threading import Thread
+from tqdm import tqdm
 
 # Config vars
 DATA_PATH = "Test_Data"
@@ -32,8 +33,8 @@ def tshark_trace_capture(name, time_val):
 """
 	Captures network traffic for time_val seconds 
 """
-def save_trace(url, iteration, time_val):
-	tshark_thread = Thread(target=tshark_trace_capture, args= (url, iteration, time_val,) )
+def save_trace(url, time_val):
+	tshark_thread = Thread(target=tshark_trace_capture, args= (url, time_val,) )
 	tshark_thread.start()
 
 	subprocess.call(['google-chrome', url])
@@ -52,7 +53,7 @@ if len(sys.argv) != 2:
 
 # Cmd line params
 num_traces = 2
-time_wait  = int(sys.argv[2])
+time_wait  = int(sys.argv[1])
 
 # Read urls for trace generation
 with open(URLS_FILE) as fp:
@@ -60,6 +61,6 @@ with open(URLS_FILE) as fp:
 
 # Create traces for each url
 create_dir(DATA_PATH)
-for url in urls:
+for url in tqdm(urls):
 	for i in range(num_traces):
 		save_trace(url, time_wait)

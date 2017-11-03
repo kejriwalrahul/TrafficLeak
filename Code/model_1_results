@@ -1,0 +1,41 @@
+Model-1 Results: 
+Actual: nytimes.com
+Model-1: nytimes.com
+
+Actual: googleweblight.in
+Model-1: whatsapp.com
+
+Actual: amazon.in
+Model-1: answers.yahoo.com
+
+Actual: stackoverflow.com
+Model-1: adobe.com
+
+Actual: live.com
+Model-1: live.com
+
+Actual: wikipedia.org
+Model-1: instagram.com
+
+Actual: t.co
+Model-1: apple.com
+
+Actual: twitter.com
+Model-1: Naver.com
+
+Actual: imgur.com
+Model-1: adobe.com
+
+Actual: google.com
+Model-1: linkedin.com
+
+Actual: github.com
+Model-1: youtube.com
+
+Actual: quora.com
+Model-1: quora.com
+
+Actual: whatsapp.com
+Model-1: fc2.com
+
+Accuracy: 0.230769230769

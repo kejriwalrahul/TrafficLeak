@@ -43,13 +43,11 @@ print "Cross Val Avg Accuracy: ", sum(scores) / len(scores)
 	RBF ~56%, C=100, gamma=0.0000005
 """
 
-"""
 from sklearn.svm import SVC
 
 model = SVC(decision_function_shape='ovo', C=1, kernel='poly', degree=2)
 scores = cross_val_score(model, x, y, cv=4)
 print "Cross Val Avg Accuracy: ", sum(scores) / len(scores)
-"""
 
 """
 	Decision Trees
@@ -138,10 +136,12 @@ print "Cross Val Avg Accuracy: ", sum(scores) / len(scores)
 """
 
 """
-	Save Model
+	Train Final Model & Save
 """
 
 import cPickle
+
+model.fit(x,y)
 
 with open("model_1.pkl", "wb") as fp:
 	cPickle.dump(model, fp)

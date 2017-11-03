@@ -107,19 +107,21 @@ def log2feature(domain_dir, file):
 	__main__
 """
 
-dataset = []
+if __name__ == '__main__':
+	
+	dataset = []
 
-# Iterate over all domain directories in DATA_PATH
-for domain in tqdm(os.listdir(DATA_PATH)):
-	domain_dir = DATA_PATH + domain
-	if os.path.isdir(domain_dir):
+	# Iterate over all domain directories in DATA_PATH
+	for domain in tqdm(os.listdir(DATA_PATH)):
+		domain_dir = DATA_PATH + domain
+		if os.path.isdir(domain_dir):
 
-		# Iterate over all traces for that domain
-		for file in os.listdir(domain_dir):
-			if os.path.isfile(domain_dir + '/' + file) and file != '0.trace':
-				dataset.append( (log2feature(domain_dir, file), domain,) )
+			# Iterate over all traces for that domain
+			for file in os.listdir(domain_dir):
+				if os.path.isfile(domain_dir + '/' + file) and file != '0.trace':
+					dataset.append( (log2feature(domain_dir, file), domain,) )
 
-print "Wrote ", len(dataset), " data points!"
+	print "Wrote ", len(dataset), " data points!"
 
-with open('dataset', 'w') as fp:
-	np.save(fp, dataset)
+	with open('dataset', 'w') as fp:
+		np.save(fp, dataset)

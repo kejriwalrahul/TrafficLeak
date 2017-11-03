@@ -1,0 +1,41 @@
+Model-3 Results: 
+Actual: nytimes.com
+Model-3: nytimes.com
+
+Actual: googleweblight.in
+Model-3: instagram.com
+
+Actual: amazon.in
+Model-3: Naver.com
+
+Actual: stackoverflow.com
+Model-3: answers.yahoo.com
+
+Actual: live.com
+Model-3: ok.ru
+
+Actual: wikipedia.org
+Model-3: googleweblight.in
+
+Actual: t.co
+Model-3: instagram.com
+
+Actual: twitter.com
+Model-3: live.com
+
+Actual: imgur.com
+Model-3: pixnet.net
+
+Actual: google.com
+Model-3: baidu.com
+
+Actual: github.com
+Model-3: jd.com
+
+Actual: quora.com
+Model-3: quora.com
+
+Actual: whatsapp.com
+Model-3: stackoverflow.com
+
+Accuracy: 0.153846153846
