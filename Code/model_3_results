@@ -1,41 +1,106 @@
-Model-3 Results: 
 Actual: nytimes.com
-Model-3: nytimes.com
+Model-3: 
+	msn.com
+	nytimes.com
+	rakuten.co.jp
+	hao123.com
+	tmall.com
 
 Actual: googleweblight.in
-Model-3: instagram.com
+Model-3: 
+	baidu.com
+	office.com
+	whatsapp.com
+	instagram.com
+	samsung.com
 
 Actual: amazon.in
-Model-3: Naver.com
+Model-3: 
+	Naver.com
+	blogspot.com
+	walmart.com
+	diply.com
+	weibo.com
 
 Actual: stackoverflow.com
-Model-3: answers.yahoo.com
+Model-3: 
+	pixnet.net
+	linkedin.com
+	uol.com.br
+	jd.com
+	microsoft.com
 
 Actual: live.com
-Model-3: ok.ru
+Model-3: 
+	news.yahoo.co.jp
+	whatsapp.com
+	yandex.ru
+	stackoverflow.com
+	googleweblight.in
 
 Actual: wikipedia.org
-Model-3: googleweblight.in
+Model-3: 
+	samsung.com
+	instagram.com
+	t.co
+	office.com
+	wikipedia.org
 
 Actual: t.co
-Model-3: instagram.com
+Model-3: 
+	t.co
+	popads.net
+	wikipedia.org
+	googleweblight.in
+	instagram.com
 
 Actual: twitter.com
-Model-3: live.com
+Model-3: 
+	weibo.com
+	Naver.com
+	amazon.in
+	diply.com
+	apple.com
 
 Actual: imgur.com
-Model-3: pixnet.net
+Model-3: 
+	pixnet.net
+	microsoft.com
+	uol.com.br
+	adobe.com
+	avito.ru
 
 Actual: google.com
-Model-3: baidu.com
+Model-3: 
+	baidu.com
+	whatsapp.com
+	news.yahoo.co.jp
+	tianya.cn
+	googleweblight.in
 
 Actual: github.com
-Model-3: jd.com
+Model-3: 
+	imgur.com
+	mail.ru
+	tmall.com
+	sohu.com
+	jd.com
 
 Actual: quora.com
-Model-3: quora.com
+Model-3: 
+	wordpress.com
+	quora.com
+	sohu.com
+	aliexpress.com
+	tmall.com
 
 Actual: whatsapp.com
-Model-3: stackoverflow.com
+Model-3: 
+	stackoverflow.com
+	twitter.com
+	ok.ru
+	reddit.com
+	news.yahoo.co.jp
 
-Accuracy: 0.153846153846
+Accuracy: 7.69230769231
+Relaxed Accuracy: 30.7692307692

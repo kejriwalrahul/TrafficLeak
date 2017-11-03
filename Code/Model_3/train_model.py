@@ -151,6 +151,7 @@ if __name__ == '__main__':
 	print "Cross Val Avg Accuracy: ", sum(scores) / len(scores)
 
 	# Train & Save Model
+	model = SVC(decision_function_shape='ovo', C=100, kernel=model3_kernel, probability=True)
 	model.fit(x_set, y_set)
 	with open("model_3.pkl", "wb") as fp:
 		cPickle.dump(model, fp)

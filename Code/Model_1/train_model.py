@@ -43,11 +43,13 @@ print "Cross Val Avg Accuracy: ", sum(scores) / len(scores)
 	RBF ~56%, C=100, gamma=0.0000005
 """
 
+"""
 from sklearn.svm import SVC
 
 model = SVC(decision_function_shape='ovo', C=1, kernel='poly', degree=2)
 scores = cross_val_score(model, x, y, cv=4)
 print "Cross Val Avg Accuracy: ", sum(scores) / len(scores)
+"""
 
 """
 	Decision Trees
@@ -113,13 +115,12 @@ print "Cross Val Avg Accuracy: ", sum(scores) / len(scores)
 	67% [Full dataset]
 """
 
-"""
 from sklearn.ensemble import ExtraTreesClassifier as ETC
 
 model = ETC(n_estimators=30)
 scores = cross_val_score(model, x, y, cv=4)
 print "Cross Val Avg Accuracy: ", sum(scores) / len(scores)
-"""
+
 
 """
 	MLP Classifier

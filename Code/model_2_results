@@ -1,41 +1,106 @@
-Model-2 Results: 
 Actual: nytimes.com
-Model-2: nytimes.com
+Model-2: 
+	nytimes.com
+	msn.com
+	rakuten.co.jp
+	coccoc.com
+	tmall.com
 
 Actual: googleweblight.in
-Model-2: googleweblight.in
+Model-2: 
+	googleweblight.in
+	whatsapp.com
+	gmw.cn
+	go2cloud.org
+	jd.com
 
 Actual: amazon.in
-Model-2: Naver.com
+Model-2: 
+	amazon.in
+	Naver.com
+	walmart.com
+	bet365.com
+	tmall.com
 
 Actual: stackoverflow.com
-Model-2: google.com
+Model-2: 
+	jd.com
+	uol.com.br
+	go2cloud.org
+	linkedin.com
+	google.com
 
 Actual: live.com
-Model-2: whatsapp.com
+Model-2: 
+	whatsapp.com
+	live.com
+	jd.com
+	yandex.ru
+	gmw.cn
 
 Actual: wikipedia.org
-Model-2: wikipedia.org
+Model-2: 
+	googleweblight.in
+	live.com
+	instagram.com
+	whatsapp.com
+	wikipedia.org
 
 Actual: t.co
-Model-2: t.co
+Model-2: 
+	popads.net
+	t.co
+	live.com
+	googleweblight.in
+	gmw.cn
 
 Actual: twitter.com
-Model-2: live.com
+Model-2: 
+	live.com
+	walmart.com
+	Naver.com
+	weibo.com
+	reddit.com
 
 Actual: imgur.com
-Model-2: uol.com.br
+Model-2: 
+	uol.com.br
+	jd.com
+	go2cloud.org
+	google.com
+	linkedin.com
 
 Actual: google.com
-Model-2: whatsapp.com
+Model-2: 
+	whatsapp.com
+	live.com
+	googleweblight.in
+	go2cloud.org
+	gmw.cn
 
 Actual: github.com
-Model-2: imgur.com
+Model-2: 
+	imgur.com
+	go2cloud.org
+	jd.com
+	gmw.cn
+	walmart.com
 
 Actual: quora.com
-Model-2: quora.com
+Model-2: 
+	quora.com
+	gmw.cn
+	walmart.com
+	imdb.com
+	go2cloud.org
 
 Actual: whatsapp.com
-Model-2: stackoverflow.com
+Model-2: 
+	ok.ru
+	stackoverflow.com
+	whatsapp.com
+	reddit.com
+	yandex.ru
 
-Accuracy: 0.384615384615
+Accuracy: 30.7692307692
+Relaxed Accuracy: 61.5384615385
