@@ -1,106 +1,82 @@
-Actual: nytimes.com
+Actual: samsung.com
 Model-1: 
-	nytimes.com
-	rakuten.co.jp
-	coccoc.com
-	dropbox.com
-	globo.com
-
-Actual: googleweblight.in
-Model-1: 
-	tianya.cn
-	gmw.cn
 	samsung.com
+	gmw.cn
+	tianya.cn
+	google.com
 	stackoverflow.com
-	go2cloud.org
 
-Actual: amazon.in
+Actual: yahoo.com
 Model-1: 
-	amazon.in
-	pinterest.com
-	answers.yahoo.com
-	tmall.com
-	walmart.com
+	yahoo.com
+	hao123.com
+	quora.com
+	msn.com
+	news.google.com
 
 Actual: stackoverflow.com
 Model-1: 
-	adobe.com
-	linkedin.com
-	aliexpress.com
-	soundcloud.com
-	avito.ru
-
-Actual: live.com
-Model-1: 
-	taobao.com
-	live.com
-	news.yahoo.co.jp
+	fc2.com
 	whatsapp.com
-	mail.ru
+	twitter.com
+	microsoftonline.com
+	ok.ru
 
-Actual: wikipedia.org
+Actual: reddit.com
 Model-1: 
-	apple.com
-	popads.net
-	360.cn
-	baidu.com
-	soundcloud.com
+	fc2.com
+	reddit.com
+	yandex.ru
+	imgur.com
+	ok.ru
 
-Actual: t.co
+Actual: rakuten.co.jp
 Model-1: 
-	baidu.com
-	apple.com
-	t.co
-	avito.ru
-	bet365.com
-
-Actual: twitter.com
-Model-1: 
-	Naver.com
-	globo.com
-	google.com
-	pixnet.net
-	apple.com
+	rakuten.co.jp
+	sina.com.cn
+	coccoc.com
+	pinterest.com
+	aliexpress.com
 
 Actual: imgur.com
 Model-1: 
-	adobe.com
-	linkedin.com
-	ebay.com
-	soundcloud.com
-	wikia.com
-
-Actual: google.com
-Model-1: 
-	baidu.com
-	popads.net
-	360.cn
-	adobe.com
-	soundcloud.com
-
-Actual: github.com
-Model-1: 
-	news.google.com
-	walmart.com
-	jd.com
+	pixnet.net
+	imgur.com
 	apple.com
-	yahoo.com
+	avito.ru
+	bbc.com
+
+Actual: dropbox.com
+Model-1: 
+	nytimes.com
+	coccoc.com
+	amazon.in
+	jd.com
+	aliexpress.com
 
 Actual: quora.com
 Model-1: 
-	quora.com
-	rakuten.co.jp
-	amazon.in
-	coccoc.com
-	msn.com
+	mail.ru
+	uol.com.br
+	aliexpress.com
+	yahoo.com
+	avito.ru
 
 Actual: whatsapp.com
 Model-1: 
-	pixnet.net
-	stackoverflow.com
-	avito.ru
-	github.com
-	ok.ru
+	samsung.com
+	microsoftonline.com
+	twitter.com
+	whatsapp.com
+	Naver.com
 
-Accuracy: 23.0769230769
-Relaxed Accuracy: 38.4615384615
+Actual: adobe.com
+Model-1: 
+	uol.com.br
+	linkedin.com
+	wikia.com
+	wordpress.com
+	adobe.com
+
+Accuracy: 30.0
+Relaxed Accuracy: 70.0

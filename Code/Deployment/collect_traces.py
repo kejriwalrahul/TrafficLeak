@@ -47,13 +47,14 @@ def save_trace(url, time_val):
 """
 
 # Check usage
-if len(sys.argv) != 2:
-	print "Usage: python collect_traces.py <time_wait_for_url_load>"
+if len(sys.argv) != 3:
+	print "Usage: python collect_traces.py <time_wait_for_url_load> <i>"
 	sys.exit(1)
 
 # Cmd line params
-num_traces = 2
+num_traces = 3
 time_wait  = int(sys.argv[1])
+start_i = int(sys.argv[2])
 
 # Read urls for trace generation
 with open(URLS_FILE) as fp:
@@ -61,6 +62,7 @@ with open(URLS_FILE) as fp:
 
 # Create traces for each url
 create_dir(DATA_PATH)
-for url in tqdm(urls):
+for url in tqdm(urls[start_i:]):
 	for i in range(num_traces):
 		save_trace(url, time_wait)
+	break
