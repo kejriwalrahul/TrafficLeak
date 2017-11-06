@@ -3,80 +3,60 @@ Model-2:
 	samsung.com
 	googleweblight.in
 	whatsapp.com
-	live.com
-	gmw.cn
 
 Actual: yahoo.com
 Model-2: 
 	hao123.com
 	walmart.com
 	yahoo.com
-	gmw.cn
-	weibo.com
 
 Actual: stackoverflow.com
 Model-2: 
 	stackoverflow.com
 	ok.ru
 	whatsapp.com
-	yandex.ru
-	twitter.com
 
 Actual: reddit.com
 Model-2: 
 	ok.ru
 	reddit.com
 	whatsapp.com
-	stackoverflow.com
-	yandex.ru
 
 Actual: rakuten.co.jp
 Model-2: 
 	diply.com
 	sina.com.cn
 	tumblr.com
-	rakuten.co.jp
-	weibo.com
 
 Actual: imgur.com
 Model-2: 
 	imgur.com
 	jd.com
 	go2cloud.org
-	gmw.cn
-	walmart.com
 
 Actual: dropbox.com
 Model-2: 
 	wordpress.com
 	gmw.cn
 	aliexpress.com
-	coccoc.com
-	uol.com.br
 
 Actual: quora.com
 Model-2: 
 	uol.com.br
 	gmw.cn
 	mail.ru
-	go2cloud.org
-	walmart.com
 
 Actual: whatsapp.com
 Model-2: 
 	whatsapp.com
 	yandex.ru
 	ok.ru
-	facebook.com
-	fc2.com
 
 Actual: adobe.com
 Model-2: 
 	uol.com.br
 	wikia.com
 	wordpress.com
-	go2cloud.org
-	gmw.cn
 
 Accuracy: 40.0
-Relaxed Accuracy: 70.0
+Relaxed Accuracy: 60.0

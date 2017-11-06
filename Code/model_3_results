@@ -3,80 +3,60 @@ Model-3:
 	office.com
 	samsung.com
 	instagram.com
-	googleweblight.in
-	t.co
 
 Actual: yahoo.com
 Model-3: 
 	hao123.com
 	sohu.com
 	walmart.com
-	yahoo.com
-	amazon.in
 
 Actual: stackoverflow.com
 Model-3: 
 	twitter.com
 	whatsapp.com
 	news.yahoo.co.jp
-	stackoverflow.com
-	googleweblight.in
 
 Actual: reddit.com
 Model-3: 
 	stackoverflow.com
 	twitter.com
 	news.yahoo.co.jp
-	tianya.cn
-	ok.ru
 
 Actual: rakuten.co.jp
 Model-3: 
 	sina.com.cn
 	tumblr.com
 	amazon.in
-	weibo.com
-	paypal.com
 
 Actual: imgur.com
 Model-3: 
 	imgur.com
 	avito.ru
 	tmall.com
-	jd.com
-	mail.ru
 
 Actual: dropbox.com
 Model-3: 
 	wordpress.com
 	aliexpress.com
 	tmall.com
-	sohu.com
-	hao123.com
 
 Actual: quora.com
 Model-3: 
 	mail.ru
 	wordpress.com
 	aliexpress.com
-	uol.com.br
-	wikia.com
 
 Actual: whatsapp.com
 Model-3: 
 	facebook.com
 	whatsapp.com
 	news.yahoo.co.jp
-	googleweblight.in
-	twitter.com
 
 Actual: adobe.com
 Model-3: 
 	wikia.com
 	wordpress.com
 	aliexpress.com
-	uol.com.br
-	mail.ru
 
 Accuracy: 10.0
-Relaxed Accuracy: 50.0
+Relaxed Accuracy: 30.0

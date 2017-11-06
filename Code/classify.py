@@ -21,7 +21,7 @@ from sklearn.metrics import accuracy_score
 """
 	Relaxed classification factor
 """
-RELAXATION_FACTOR = 5
+RELAXATION_FACTOR = 3
 
 
 """

@@ -3,80 +3,60 @@ Model-1:
 	samsung.com
 	gmw.cn
 	tianya.cn
-	google.com
-	stackoverflow.com
 
 Actual: yahoo.com
 Model-1: 
 	yahoo.com
 	hao123.com
 	quora.com
-	msn.com
-	news.google.com
 
 Actual: stackoverflow.com
 Model-1: 
 	fc2.com
 	whatsapp.com
 	twitter.com
-	microsoftonline.com
-	ok.ru
 
 Actual: reddit.com
 Model-1: 
 	fc2.com
 	reddit.com
 	yandex.ru
-	imgur.com
-	ok.ru
 
 Actual: rakuten.co.jp
 Model-1: 
 	rakuten.co.jp
 	sina.com.cn
 	coccoc.com
-	pinterest.com
-	aliexpress.com
 
 Actual: imgur.com
 Model-1: 
 	pixnet.net
 	imgur.com
 	apple.com
-	avito.ru
-	bbc.com
 
 Actual: dropbox.com
 Model-1: 
 	nytimes.com
 	coccoc.com
 	amazon.in
-	jd.com
-	aliexpress.com
 
 Actual: quora.com
 Model-1: 
 	mail.ru
 	uol.com.br
 	aliexpress.com
-	yahoo.com
-	avito.ru
 
 Actual: whatsapp.com
 Model-1: 
 	samsung.com
 	microsoftonline.com
 	twitter.com
-	whatsapp.com
-	Naver.com
 
 Actual: adobe.com
 Model-1: 
 	uol.com.br
 	linkedin.com
 	wikia.com
-	wordpress.com
-	adobe.com
 
 Accuracy: 30.0
-Relaxed Accuracy: 70.0
+Relaxed Accuracy: 50.0
